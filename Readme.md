@@ -1,1 +1,1 @@
-## Estudos sobre tecnologias devesenvolvimentos de software
+## Estudos sobre tecnologias desenvolvimentos de software
