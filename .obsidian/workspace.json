@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "6545ce45f4c4c1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP/COMO SABER QUAL  IP USAR PARA CONFIGURAR UM DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMO SABER QUAL  IP USAR PARA CONFIGURAR UM DNS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,17 +176,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb42f7836ede1533",
+  "active": "6545ce45f4c4c1bc",
   "lastOpenFiles": [
+    "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP/O QUE É TCP IP.md",
+    "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP/COMO SABER QUAL  IP USAR PARA CONFIGURAR UM DNS.md",
+    "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP/1.2.5. HTTP 2 E HTTP 3 O QUE SÃO E COMO FUNCIONAM",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP/1.2.4. AUTENTICAÇÃO E AUTORIZAÇÃO",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP/1.2.3. CABEÇALHO HTTP",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP/1.2.2. STATUS DE RESPOSTA HTTP",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP/1.2.1 MÉTODOS",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.2. MÉTODOS HTTP",
+    "REDES E INFRAESTRUTURA/01 INTERNET/1.1. WEB",
+    "REDES E INFRAESTRUTURA/06 Virtualização",
+    "REDES E INFRAESTRUTURA/05 Firewalls",
     "2025-03-08.md",
     "Sem título.canvas",
     "REDES E INFRAESTRUTURA/Sem título.md",
-    "REDES E INFRAESTRUTURA/TCP IP",
-    "REDES E INFRAESTRUTURA/DNS",
-    "REDES E INFRAESTRUTURA/INTERNET",
-    "REDES E INFRAESTRUTURA",
-    "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/Novembro 17128a8b71248164946fe72264dd6186/Sem título 17128a8b712481acab92faeb800db06c.csv",
-    "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/Novembro 17128a8b71248164946fe72264dd6186",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Android 17228a8b712480b8b3cbc6e1bafc8f2b.md",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/API 17228a8b712480e9bd27e6ab5f399f58.md",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CLOUD COMPUTING 13c28a8b712480c8a7a0d7e83c3fc509.md",
@@ -194,11 +215,6 @@
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/Arquitetura Hexagonal 17228a8b712480debce6dd7cc826f714.md",
     "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/CRONOGRAMA SEMANAL 13828a8b7124806b856afe3af0c157e8/ARCHITRECTURE E PATTERNS 14128a8b71248094941ede3a8e547201.md",
     "Readme.md",
-    "Senioridade 12f28a8b71248090b84ec5f5610c16ea.md",
-    "Material 12328a8b712481a38cbbfe92488d65bd_all.csv",
-    "Material 12328a8b712481a38cbbfe92488d65bd.csv",
-    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9_all.csv",
-    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9.csv",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/MICRO-SERVICE 12728a8b71248020b45bea1cefd74bf3/kafka 12728a8b712480ff9330f9cbc24b3c93/image.png",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/MICRO-SERVICE 12728a8b71248020b45bea1cefd74bf3/kafka 12728a8b712480ff9330f9cbc24b3c93/How-to-Implement-an-Apache-Kafka-Use-Case.jpg",
     "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Linux 17228a8b7124805cb5ecd66f8f3d079a/11b7083de79976fd70ed2c223172491b.jpg",
