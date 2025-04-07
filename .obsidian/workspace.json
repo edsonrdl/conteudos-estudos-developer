@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "7042ec7cefc1fc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "2430969aaa2b94b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89ceeaf4bd01f46a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9689f3e0bbdbdad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b7f967f15f3ae91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb42f7836ede1533",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "eee40a32a742f87f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2bcbfb86e52bda29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "746a3356179be32d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae42687fe11c6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0e08a50a5fcded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7ba1ff30dcc2ad8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "3871d4de78a76267",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f11ecffe7e1e4f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "eb42f7836ede1533",
+  "lastOpenFiles": [
+    "2025-03-08.md",
+    "Sem título.canvas",
+    "REDES E INFRAESTRUTURA/Sem título.md",
+    "REDES E INFRAESTRUTURA/TCP IP",
+    "REDES E INFRAESTRUTURA/DNS",
+    "REDES E INFRAESTRUTURA/INTERNET",
+    "REDES E INFRAESTRUTURA",
+    "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/Novembro 17128a8b71248164946fe72264dd6186/Sem título 17128a8b712481acab92faeb800db06c.csv",
+    "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/Novembro 17128a8b71248164946fe72264dd6186",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Android 17228a8b712480b8b3cbc6e1bafc8f2b.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/API 17228a8b712480e9bd27e6ab5f399f58.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CLOUD COMPUTING 13c28a8b712480c8a7a0d7e83c3fc509.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Design de Interfaces e Prototipação 17228a8b7124804e9286ffaff4fabb57.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CONTROLE DE VERSÃO 13c28a8b712480729a81c01ab2b07d5f.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Kibana 17228a8b712480c6bb74e2529518ce91.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Elasticsearch 17228a8b71248078ba37e3466ed20d41.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/DNS 17228a8b71248038a791f3eb51e283b6.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/DESIGN PATTERNS 13628a8b712480858b9ae8bd71f7965f.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/DESIGN PATTERNS 13528a8b712480fbbee8fcc06d8bcabc.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CLOUD COMPUTING 13c28a8b712480c8a7a0d7e83c3fc509/Azure 13c28a8b71248053a234dcbc2aa0c9ab.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CLOUD COMPUTING 13c28a8b712480c8a7a0d7e83c3fc509/OpenStack 13c28a8b712480ffbe74e60a6f879303.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/CLOUD COMPUTING 13c28a8b712480c8a7a0d7e83c3fc509/Google Cloud Platform 13c28a8b71248087bdc5f09c4afa573c.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Ciclo de Vida do Desenvolvimento de Software 17228a8b7124803e9060c92cff58036e/Projeto de Software 17228a8b7124803996e9dc1f19b958e5.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Ciclo de Vida do Desenvolvimento de Software 17228a8b7124803e9060c92cff58036e/Implementação e Codificação 17228a8b7124804686edd0c080214ce6.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/Microsserviços 17228a8b71248020bf49f33329220c48.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/Clean Architect.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/Arquitetura MVC.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/SOA (Service-Oriented Architecture) 17228a8b71248099b82adef07ca2d233.md",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Arquiteturas de Back-End 17228a8b7124807ab985fa8ee81ba163/Arquitetura Hexagonal 17228a8b712480debce6dd7cc826f714.md",
+    "Rastreador de Estudos 17128a8b712480579c94f9b6a48479c0/CRONOGRAMA SEMANAL 13828a8b7124806b856afe3af0c157e8/ARCHITRECTURE E PATTERNS 14128a8b71248094941ede3a8e547201.md",
+    "Readme.md",
+    "Senioridade 12f28a8b71248090b84ec5f5610c16ea.md",
+    "Material 12328a8b712481a38cbbfe92488d65bd_all.csv",
+    "Material 12328a8b712481a38cbbfe92488d65bd.csv",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9_all.csv",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9.csv",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/MICRO-SERVICE 12728a8b71248020b45bea1cefd74bf3/kafka 12728a8b712480ff9330f9cbc24b3c93/image.png",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/MICRO-SERVICE 12728a8b71248020b45bea1cefd74bf3/kafka 12728a8b712480ff9330f9cbc24b3c93/How-to-Implement-an-Apache-Kafka-Use-Case.jpg",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/Linux 17228a8b7124805cb5ecd66f8f3d079a/11b7083de79976fd70ed2c223172491b.jpg",
+    "Cronograma Estudos 12328a8b712481679b74c8a0f15076a9/DESIGN PATTERNS 13628a8b712480858b9ae8bd71f7965f/DESIGN PATTERNS GOF (Gang of Four) 18828a8b712480ce832bea05a9df6328/image.png"
+  ]
+}
