@@ -4,105 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2430969aaa2b94b5",
+        "id": "499b43cdd7a01cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "89ceeaf4bd01f46a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "6545ce45f4c4c1bc",
+            "id": "abb712fc955db532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP/CHAVE SSH/O QUE É UMA CHAVE SSH.md",
+                "file": "DEVOPS E GERENCIAMENTO DE INFRAESTRUTURA/01 CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O QUE É UMA CHAVE SSH"
-            }
-          },
-          {
-            "id": "357651efa6069695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REDES E INFRAESTRUTURA/02 TCP IP/2.1. O QUE É TCP IP/CHAVE SSH/O QUE É UMA CHAVE SSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O QUE É UMA CHAVE SSH"
-            }
-          },
-          {
-            "id": "db3601f592cb95ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BANCO DE DADOS E ARMAZENAMENTO DE DADOS/01 FUNDAMENTOS DE BANCO DE DADOS RELACIONAL/1.2. COMANDOS SQL/1.2.4. TCL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2.4. TCL"
-            }
-          },
-          {
-            "id": "957fcc1b1a268097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BANCO DE DADOS E ARMAZENAMENTO DE DADOS/01 FUNDAMENTOS DE BANCO DE DADOS RELACIONAL/1.3. AVAÇADO/AVANÇADO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AVANÇADO"
-            }
-          },
-          {
-            "id": "59b0bd2d83c5ac55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BANCO DE DADOS E ARMAZENAMENTO DE DADOS/02 TRANSATION MANAGEMENT/2.4. NODE JAVASCRIPT TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.4. NODE JAVASCRIPT TYPESCRIPT"
-            }
-          },
-          {
-            "id": "30db03fae1d8b3d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.6. PROGRAMAÇÃO ORIENTADA A EVENTOS (EVENT_DRIVEN).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2.6. PROGRAMAÇÃO ORIENTADA A EVENTOS (EVENT_DRIVEN)"
+              "title": "Padrões de commits"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -246,16 +165,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "30db03fae1d8b3d5",
+  "active": "abb712fc955db532",
   "lastOpenFiles": [
-    "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.5. PROGRAMAÇÃO PROCEDURAL.md",
+    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.2. DESIGN PATTERNS EXTENSIONS/1.2.1. SPECIFICATION JAVA.md",
+    "DEVOPS E GERENCIAMENTO DE INFRAESTRUTURA/01 CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
+    "DEVOPS E GERENCIAMENTO DE INFRAESTRUTURA/01 CONTROLER DE VERSÃO/1.1. GIT.md",
+    "DEVOPS E GERENCIAMENTO DE INFRAESTRUTURA/01 CONTROLER DE VERSÃO/1.1. GIT",
+    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.2. DESIGN PATTERNS EXTENSIONS/1.2.2. CRITERIA API JAVA.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.6. PROGRAMAÇÃO ORIENTADA A EVENTOS (EVENT_DRIVEN).md",
+    "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.5. PROGRAMAÇÃO PROCEDURAL.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.4. PROGRAMAÇÃO IMPERATIVA.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.3. PROGRAMAÇÃO FUNCIONAL.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.2. PROGRAMAÇÃO ORIENTADA A OBJETOS.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/1.2.1 PROGRAMAÇÃO ESTRUTURADA.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.1. COLEÇÕES/Introdução.md",
-    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.2. DESIGN PATTERNS EXTENSIONS/1.2.1. SPECIFICATION.md",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO",
     "ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.1. COLEÇÕES",
     "ESTRUTURA DE DADOS E ALGORITMOS/02 MATEMÁTICA E ALGORITMOS",
@@ -286,14 +209,10 @@
     "Pasted image 20250407125134.png",
     "Pasted image 20250407125432.png",
     "Pasted image 20250407125530.png",
-    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
-    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
-    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.1. CREATIONAL PATTERNS/PROTOTYPE PATTERNS.md",
     "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.3. BEHAVIORAL PATTERNS",
     "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS",
     "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT/1.1.1. CREATIONAL PATTERNS",
     "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.2. DESIGN PATTERNS EXTENSIONS",
-    "ARQUITETURA DE SOFTWARE E DESIGN DE SOFTWARE/01 DESIGN PATTERNS/1.1. DESIGN PATTERNS GOT",
     "Sem título.canvas"
   ]
 }
