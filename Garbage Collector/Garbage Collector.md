@@ -77,7 +77,7 @@ public class Main {
 
 ---
 
-![[Pasted image 20250724212121.png]]
+![[img-garbage-collector.png]]
 1. **GC Root**:
     - **GC Root** (raiz do garbage collector) está no topo da imagem, representando os pontos iniciais de acesso aos objetos que o GC irá rastrear.
     - Eles são os **pontos de partida** que o coletor de lixo usa para identificar quais objetos ainda são acessíveis, ou seja, referenciados diretamente.
