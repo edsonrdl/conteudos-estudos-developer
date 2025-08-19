@@ -8,12 +8,12 @@ A Java Collections Framework (JCF) organiza estruturas de dados em **interfaces*
 
 ## 2. Interfaces Principais
 
-|Interface|Permite duplicatas?|Mantém ordem?|Acesso por índice?|Uso principal|
-|---|---|---|---|---|
-|**List**|Sim|Sim (inserção)|Sim|Sequência ordenada|
-|**Set**|Não|Opcional (depende da impl)|Não|Conjunto de elementos únicos|
-|**Queue**|Sim|Sim (FIFO ou prioridade)|Não|Fila (FIFO) ou fila de prioridade (heap)|
-|**Map**|(chave) Não / (valor) Sim|Não (depende da impl)|Não|Mapeamento chave→valor|
+| Interface | Permite duplicatas?       | Mantém ordem?              | Acesso por índice? | Uso principal                            |
+| --------- | ------------------------- | -------------------------- | ------------------ | ---------------------------------------- |
+| **List**  | Sim                       | Sim (inserção)             | Sim                | Sequência ordenada                       |
+| **Set**   | Não                       | Opcional (depende da impl) | Não                | Conjunto de elementos únicos             |
+| **Queue** | Sim                       | Sim (FIFO ou prioridade)   | Não                | Fila (FIFO) ou fila de prioridade (heap) |
+| **Map**   | (chave) Não / (valor) Sim | Não (depende da impl)      | Não                | Mapeamento chave→valor                   |
 
 ---
 
