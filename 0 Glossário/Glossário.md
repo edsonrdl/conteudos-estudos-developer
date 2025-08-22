@@ -8,18 +8,18 @@
 
 ### Conceitos Fundamentais
 
-- [[Internet]]
-- [[TCP/IP]]
-- [[DNS]]
-- [[VPN]]
-- [[Firewalls]]
-- [[Virtualização]]
+- [ ]  [[Internet]] 
+- [ ]  [[TCP/IP]]
+- [ ]  [[DNS]]
+- [ ]  [[VPN]]
+- [ ]  [[Firewalls]]
+- [ ]  [[Virtualização]]
 
 ### Arquitetura de Serviços
 
-- [[Load Balance]]
-- [[Service Mesh]]
-- [[mTLS]]
+- [ ]  [[Load Balance]]
+- [ ]  [[Service Mesh]]
+- [ ]  [[mTLS]]
 - [[Service Discovery]]
 
 ---
