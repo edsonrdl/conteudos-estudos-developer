@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"86baf607a52cefe3","type":"text","text":"STACK:\nEstrutura de dados criada para armazenar referências usadas  durante a execução de um programa","x":-300,"y":-180,"width":300,"height":140,"color":"4"},
+		{"id":"8d729e3230a7f2a7","x":-660,"y":-140,"width":160,"height":60,"type":"text","text":"GC Root"}
+	],
+	"edges":[]
+}
