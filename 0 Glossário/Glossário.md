@@ -43,7 +43,7 @@
 ### Linguagens e Tecnologias Base
 
 - [[HTML5]]
-- [[CSS]] (incluindo [[Sass]] e [[Less]])
+ - [ ]  [[CSS]] (incluindo [[Sass]] e [[Less]])
 - [[JavaScript]]
 - [[JSON]]
 
@@ -308,7 +308,7 @@
 
 ### Padrões e Princípios
 
-- [[Design Patterns]] - Padrões de Projeto (GoF)
+- [[DESIGN PATTERNS/]] - Padrões de Projeto (GoF)
 - [[Princípios SOLID]] - Base para código coeso e flexível
 - [[Padrões Arquiteturais]] - Hexagonal, Microservices, Clean, MVC
 
