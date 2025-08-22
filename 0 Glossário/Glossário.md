@@ -310,7 +310,7 @@
 
 - [[DESIGN PATTERNS/]] - Padrões de Projeto (GoF)
 - [[Princípios SOLID]] - Base para código coeso e flexível
-- [[Padrões Arquiteturais]] - Hexagonal, Microservices, Clean, MVC
+- [[Padrões Arquiteturais]] - Hexagonal, [[10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices | Microservices]], Clean, MVC
 
 ### Performance: Latência & Vazão
 
