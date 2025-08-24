@@ -33,6 +33,7 @@
 - [[API RESTful]] - Representational State Transfer
 - [[WebSockets]] - Comunicação bidirecional
 - [[gRPC]] - Google Remote Procedure Call
+- - [[Graph ql]] -
 
 ---
 
