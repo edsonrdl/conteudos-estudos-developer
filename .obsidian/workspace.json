@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Tipos de canais.md",
+                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de canais"
+              "title": "Desafios e soluções da arquitetura de microsserviços"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Tipos de canais.md",
+                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Tipos de canais"
+              "title": "Links inversos para Desafios e soluções da arquitetura de microsserviços"
             }
           },
           {
@@ -168,8 +168,12 @@
   },
   "active": "e09c5f9997217656",
   "lastOpenFiles": [
-    "0 Glossário/Glossário.md",
+    "TCP/IP.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
+    "Pasted image 20250407125134.png",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Tipos de canais.md",
+    "0 Glossário/Glossário.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Como definir o seu IPC.md",
     "Sem título 1.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices.md",
@@ -197,15 +201,11 @@
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/FACADE PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.3. BEHAVIORAL PATTERNS/COMMAND PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.3. BEHAVIORAL PATTERNS/ITERATOR PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.3. BEHAVIORAL PATTERNS/MEDIATOR PATTERNS.md",
     "Sem título 9.base",
     "Sem título 8.base",
     "Sem título 7.base",
     "Sem título 6.base",
     "Sem título 5.base",
-    "Sem título 4.base",
-    "Pasted image 20250407125134.png",
     "Garbage Collector/img/img-garbage-collector.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Pasted image 20250407130244.png",
