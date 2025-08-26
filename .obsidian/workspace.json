@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
+                "file": "1. REDES E INFRAESTRUTURA/Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desafios e soluções da arquitetura de microsserviços"
+              "title": "Internet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
+                "file": "1. REDES E INFRAESTRUTURA/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Desafios e soluções da arquitetura de microsserviços"
+              "title": "Links inversos para Internet"
             }
           },
           {
@@ -166,10 +166,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e09c5f9997217656",
+  "active": "eb42f7836ede1533",
   "lastOpenFiles": [
-    "TCP/IP.md",
+    "DESIGN PATTERNS.md",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "CQRS.md",
+    "API.md",
+    "2025-08-21.md",
+    "03-Frontend.md",
+    "] (incluindo [[Sass.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
+    "TCP/IP.md",
     "Pasted image 20250407125134.png",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Tipos de canais.md",
@@ -177,13 +184,11 @@
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Como definir o seu IPC.md",
     "Sem título 1.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
     "7. Bancos de Dados e Armazenamento de Dados/Read Replica.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices .md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices  1.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices.md.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices 1.md",
-    "DESIGN PATTERNS.md",
     "1. O que é Microservices.md",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/0 - Introdução Design Patterns.md",
@@ -191,16 +196,11 @@
     "Sem título 11.base",
     "Ponteiros.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
-    "2025-08-21.md",
     "Sem título.canvas",
     "Sem título 10.base",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/DECORATOR PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/FACADE PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.3. BEHAVIORAL PATTERNS/COMMAND PATTERNS.md",
     "Sem título 9.base",
     "Sem título 8.base",
     "Sem título 7.base",
