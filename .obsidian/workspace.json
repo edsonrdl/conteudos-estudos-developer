@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Padrões de commits"
+              "title": "Glossário"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Padrões de commits"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -183,6 +183,12 @@
   },
   "active": "0cb6875e11abd7e8",
   "lastOpenFiles": [
+    "OLTP.md",
+    "0 Glossário/Glossário.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/API FIST DESIGN.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/PUBSUB OU PUBSUBSCRIBE.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.1. AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Anotação spring boot.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
@@ -194,7 +200,6 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
-    "0 Glossário/Glossário.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "1. REDES E INFRAESTRUTURA/CHAVE SSH/QUANDO USAR SSH COM CHAVE.md",
     "1. REDES E INFRAESTRUTURA/CHAVE SSH/O QUE É UMA CHAVE SSH.md",
@@ -204,13 +209,8 @@
     "5. Desenvolvimento Back-End/Idenpotência.md",
     "Garbage Collector/3 Stack.md",
     "Garbage Collector/02 Gg Root.md",
-    "Garbage Collector/01 Garbage Collector.md",
     "Garbage Collector/img/img-garbage-collector.png",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Dual write Microservices.md",
-    "DESIGN PATTERNS.md",
-    "CQRS.md",
     "Pasted image 20250407125134.png",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices",
