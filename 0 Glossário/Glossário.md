@@ -1,29 +1,23 @@
 # Base de Conhecimento Tecnológico
 
 #tech #knowledge-base #desenvolvimento #infraestrutura
-
 ## 1. Redes e Infraestrutura
 
 #redes #infraestrutura
-
 ### Conceitos Fundamentais
-
 - [ ]  [[Internet]] 
 - [ ]  [[TCP/IP]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
 - [ ]  [[Firewalls]]
 - [ ]  [[Virtualização]]
-
 ### Arquitetura de Serviços
-
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
 - [ ]  [[mTLS]]
 - [[Service Discovery]]
 
 ---
-
 ## 2. Protocolos de APIs
 
 #apis #protocolos
@@ -36,20 +30,15 @@
 - - [[Graph ql]] -
 
 ---
-
 ## 3. Desenvolvimento Front-End
 
 #frontend #web
-
 ### Linguagens e Tecnologias Base
-
 - [[HTML5]]
  - [ ]  [[CSS]] (incluindo [[Sass]] e [[Less]])
 - [[JavaScript]]
 - [[JSON]]
-
 ### Frameworks e Bibliotecas
-
 - [[PWA]] - Progressive Web App
 - [[Bootstrap]]
 - [[Angular]]
@@ -58,17 +47,13 @@
 - [[jQuery]]
 
 ---
-
 ## 4. Design e Experiência do Usuário
 
 #ux #design #ui
-
 ### Princípios de Design
-
 - [[Usabilidade]]
 - [[UI Design]]
 - [[UX Design]]
-
 ### Ferramentas de Design
 
 - [[Figma]]
@@ -76,11 +61,9 @@
 - Prototipação e wireframing
 
 ---
-
 ## 5. Desenvolvimento Back-End
 
 #backend #servidor
-
 ### Linguagens e Frameworks
 
 #### Linguagens
@@ -94,14 +77,12 @@
 - [[Python]]
 - [[Perl]]
 - [[Scala]]
-
 #### Frameworks
 
 - [[.NET Core]]
 - [[ASP .NET Core]]
 - [[Django]]
 - [[Spring Boot]]
-
 ### Arquiteturas de Back-End
 
 - [[SOA]] - Service-Oriented Architecture
@@ -111,36 +92,28 @@
 - [[Arquitetura MVC]]
 
 ---
-
 ## 6. Mobile Development
 
 #mobile #app
-
 ### Linguagens e Frameworks
-
 - [[Java]] (Android)
 - [[Kotlin]] (Android)
 - [[React Native]] (Cross-platform)
 - [[Flutter]] (Cross-platform)
 
 ---
-
 ## 7. Bancos de Dados e Armazenamento
 
 #database #storage #dados
 
 ### Bancos Relacionais
-
 - [[MySQL]]
 - [[PostgreSQL]]
 - [[SQL Server]]
-
 ### Bancos Não-Relacionais
-
 - [[NoSQL]] - Conceito geral
 - [[MongoDB]]
 - [[Redis]]
-
 ### Conceitos Avançados
 
 - [[OLTP]] vs [[OLAP]]
@@ -150,65 +123,49 @@
 - [[Event Sourcing]]
 - [[Snapshotting]]
 - [[Schema Registry]]
-
 ### Big Data
 
 - [[Apache Spark]]
 - [[Hadoop]]
 
 ---
-
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
 #devops #infraestrutura #ci-cd
-
 ### Controle de Versão
-
 - [[Git]]
 - [[GitHub]]
 - [[GitLab]]
 - [[Bitbucket]]
 - [[GitFlow]]
-
 ### Virtualização e Contêineres
-
 - [[Virtualização]] (VM - Máquina Virtual)
 - [[Docker]]
 - [[Kubernetes]]
 - [[Kind]]
 - [[Minikube]]
-
 ### Cloud-Native
-
 #### Conceitos
-
 - Contêineres imutáveis e imagens reprodutíveis
 - Autoscaling em app e cluster
 - [[12-Factor App]]
     - Imutabilidade
     - Observabilidade
     - by-design
-
 #### Infrastructure as Code (IaC)
-
 - [[Terraform]]
 - [[Pulumi]]
 - [[Ansible]]
-
 #### Service Mesh
-
 - [[Istio]]
 - [[Linkerd]]
-
 ### Cloud Computing
-
 - [[Google Cloud Platform]]
 - [[AWS]] - Amazon Web Services
 - [[Azure]]
 - [[OpenStack]]
-
+- [[Salesforce]] - CRM e desenvolvimento em nuvem
 ### CI/CD - Integração e Deploy Contínuo
-
 - [[Jenkins]]
 - [[Replicaset]]
 - [[Deployment]]
@@ -327,7 +284,8 @@
 - [[Kafka]] vs [[RabbitMQ]] - Log distribuído vs message broker
 - [[EIP]] & [[ESB]] - Enterprise Integration Patterns
 - [[API Gateway]] - Roteamento, auth, rate limit
-- [[Coreografia]] vs [[Orquestração]]
+- [[Coreografia]] vs [[Orquestração]
+- [[Apache Camel]] - Enterprise Integration Patterns
 
 ### Resiliência e Controle de Fluxo
 
