@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
             }
+          },
+          {
+            "id": "ec2f6ec3caad5645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANGULAR/Estrutura Completa do Projeto/02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
+                "file": "ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
+              "title": "Links inversos para 09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais"
             }
           },
           {
@@ -209,12 +223,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9c0773d5134bbe6f",
+  "active": "ec2f6ec3caad5645",
   "lastOpenFiles": [
-    "ANGULAR/Estrutura Completa do Projeto/01 Arquitetura front-end em Angular.md",
-    "ANGULAR/Estrutura Completa do Projeto/04Módulos e Configurações Finais.md",
-    "ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
+    "ANGULAR/Estrutura Completa do Projeto/08 Como Funciona o HttpInterceptor Multi-API.md",
+    "ANGULAR/Estrutura Completa do Projeto/07 Adicionando Módulo de Clientes.md",
+    "ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
+    "ANGULAR/Estrutura Completa do Projeto/06 Criar Novos Módulos em Angular.md",
+    "ANGULAR/Estrutura Completa do Projeto/05 lazy loading com módulos.md",
     "ANGULAR/Estrutura Completa do Projeto/02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
+    "ANGULAR/Estrutura Completa do Projeto/01 Arquitetura front-end em Angular.md",
+    "ANGULAR/Estrutura Completa do Projeto/04 Módulos e Configurações Finais.md",
+    "ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
     "ANGULAR/Estrutura Completa do Projeto",
     "ANGULAR",
     "OLTP.md",
@@ -234,11 +253,6 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
-    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
-    "1. REDES E INFRAESTRUTURA/CHAVE SSH/QUANDO USAR SSH COM CHAVE.md",
-    "1. REDES E INFRAESTRUTURA/CHAVE SSH/O QUE É UMA CHAVE SSH.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
     "Garbage Collector/img/img-garbage-collector.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Pasted image 20250407125134.png",
