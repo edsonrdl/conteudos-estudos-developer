@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f7072abc037c525b",
+        "id": "cc81cc88f75a6ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "e09c5f9997217656",
+            "id": "f43abe0b17372767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com Docker.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Kafka com Docker"
-            }
-          },
-          {
-            "id": "0cb6875e11abd7e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Glossário/Glossário.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossário"
-            }
-          },
-          {
-            "id": "60d012f8a3d0018c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANGULAR/Estrutura Completa do Projeto/01 Arquitetura front-end em Angular.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 Arquitetura front-end em Angular"
-            }
-          },
-          {
-            "id": "9c0773d5134bbe6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ANGULAR/Estrutura Completa do Projeto/02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
-            }
-          },
-          {
-            "id": "ec2f6ec3caad5645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring Events observer"
-            }
-          },
-          {
-            "id": "368cdf162eee1161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager"
+              "title": "1 A infraestrutura da Amazon Web Services (AWS)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager"
+              "title": "Links inversos para 1 A infraestrutura da Amazon Web Services (AWS)"
             }
           },
           {
@@ -237,10 +166,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "368cdf162eee1161",
+  "active": "f43abe0b17372767",
   "lastOpenFiles": [
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.2. AZURE.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)",
+    "Ponteiros.md",
+    "Sem título.base",
+    "Sem título 1.base",
+    "Sem título 1.md",
+    "Sem título 2.base",
+    "Sem título.md",
+    "Sem título.canvas",
+    "Readme.md",
+    "Sketch.md",
+    "Service Mesh.md",
+    "OLTP.md",
+    "Pasted image 20250407125134.png",
+    "Garbage Collector/img/img-garbage-collector.png",
+    "Garbage Collector/01 Garbage Collector.md",
+    "5. Desenvolvimento Back-End/Idenpotência.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Anotação spring boot.md",
     "ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
@@ -254,31 +201,13 @@
     "ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
     "ANGULAR/Estrutura Completa do Projeto",
     "ANGULAR",
-    "OLTP.md",
     "Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
     "0 Glossário/Glossário.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/API FIST DESIGN.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/PUBSUB OU PUBSUBSCRIBE.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.1. AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CONTROLER DE VERSÃO/1.1. GIT/Padrões de commits.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O PROBLEMA SEM REPLICAÇÃO.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com Docker.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Consumer Group Equipe de Trabalho.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/ARQUITETURA COMPLETA.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL.md",
-    "Garbage Collector/img/img-garbage-collector.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
-    "Pasted image 20250407125134.png",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices",
     "Sem título 12.base",
     "Sem título 11.base",
-    "Sem título.canvas",
-    "Sem título 10.base",
-    "Sem título 9.base",
-    "Sem título 8.base",
-    "Sem título 7.base",
     "Pasted image 20250407130244.png",
     "Garbage Collector/img-garbage-collector.png",
     "Pasted image 20250727141818.png",
