@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 A infraestrutura da Amazon Web Services (AWS)"
+              "title": "Estratégia de Nomenclatura EC2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1 A infraestrutura da Amazon Web Services (AWS)"
+              "title": "Links inversos para Estratégia de Nomenclatura EC2"
             }
           },
           {
@@ -168,8 +168,9 @@
   },
   "active": "f43abe0b17372767",
   "lastOpenFiles": [
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.2. AZURE.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.2. AZURE.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)",
     "Ponteiros.md",
     "Sem título.base",
@@ -202,7 +203,6 @@
     "ANGULAR/Estrutura Completa do Projeto",
     "ANGULAR",
     "Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-    "0 Glossário/Glossário.md",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices",
