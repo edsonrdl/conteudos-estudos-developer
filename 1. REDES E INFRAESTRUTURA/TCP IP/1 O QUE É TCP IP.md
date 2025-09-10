@@ -6,7 +6,6 @@
 - O **TCP (Transmission Control Protocol)** é o **caminho e a garantia de entrega** (quebra os dados em pacotes e garante que cheguem na ordem correta).
 
 ---
-
 ## **🔹 Como Funciona o TCP/IP?**
 
 📌 Quando você acessa um site, faz download de um arquivo ou usa um app online, o TCP/IP age da seguinte forma:
@@ -170,5 +169,7 @@ Além do TCP, há outro protocolo de transporte chamado **UDP (User Datagram Pro
 4. IP `127.0.0.1` → ________
 
 **Respostas**: 1) Privado, 2) Público, 3) Link‑Local, 4) Loopback
+
+Mais sobre [[1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Sub-redes (Subnets).md | Sub-redes(Subnetes)]]
 
 ---
