@@ -1,0 +1,99 @@
+# Guia de rede AWS VPC para ambientes de produção
+
+A rede da Nuvem Privada Virtual da AWS forma a base de arquiteturas de nuvem seguras e escaláveis.[AWS](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)Este guia abrangente fornece orientação de implementação pronta para produção para VPC, grupos de segurança e sub-redes em serviços EC2, ECS, RDS e S3, com base na documentação oficial da AWS e nas melhores práticas empresariais.
+
+## Os fundamentos do VPC potencializam a rede empresarial
+
+**A Nuvem Privada Virtual (VPC) opera como uma rede virtual logicamente isolada** dentro da AWS, funcionando como uma rede definida por software com autorização em nível de pacote. Cada VPC oferece controle total sobre o endereçamento IP, a criação de sub-redes e a configuração de roteamento, mantendo o isolamento de segurança em nível de hipervisor de outras redes.[Cloudonauta +2](https://templates.cloudonaut.io/en/stable/vpc/)
+
+A arquitetura principal se concentra em **espaços de rede dedicados que abrangem diversas Zonas de Disponibilidade** dentro de uma única região.[Amazonas](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)Diferentemente das redes tradicionais, as VPCs usam a infraestrutura gerenciada da AWS para validação de pacotes, autenticação ARP e criptografia de tráfego transparente usando AES-256 para tipos de instância suportados.[AWS](https://docs.aws.amazon.com/whitepapers/latest/logical-separation/vpc-and-accompanying-features.html)Isso cria isolamento de rede de nível empresarial sem a complexidade do gerenciamento de hardware físico.
+
+**As VPCs padrão vêm pré-configuradas com conectividade à Internet** , incluindo gateways de Internet, sub-redes públicas e atribuição automática de IP.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)VPCs personalizadas exigem configuração explícita de todos os componentes de rede, proporcionando segurança aprimorada por meio de design de rede deliberado.[AWS](https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-in-vpc.html)As organizações normalmente escolhem VPCs personalizadas para ambientes de produção para implementar estratégias de segurança de defesa em profundidade e cumprir com requisitos regulatórios.
+
+## Os principais componentes trabalham juntos para uma arquitetura robusta
+
+**As VPCs contêm vários componentes de rede que funcionam como sistemas integrados** . As sub-redes definem intervalos de endereços IP dentro de Zonas de Disponibilidade únicas, enquanto as tabelas de rotas determinam os caminhos de tráfego entre os destinos da rede.[AWS +2](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)Os Gateways de Internet permitem acesso público à Internet por meio de tradução NAT 1 :1 , e os Gateways NAT fornecem conectividade de saída à Internet para recursos privados.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
+
+**O planejamento de blocos CIDR exige uma análise cuidadosa dos padrões de crescimento e conectividade** . As melhores práticas envolvem o uso de intervalos de endereços privados RFC 1918 com blocos VPC /16 (65.536 endereços) para maior flexibilidade. A AWS reserva cinco endereços IP por sub-rede: endereço de rede, roteador VPC, servidor DNS, uso futuro e endereço de broadcast.[AWS +3](https://docs.aws.amazon.com/vpc/latest/userguide/subnet-sizing.html)O planejamento eficaz aloca sub-redes /24 (251 IPs utilizáveis) para cargas de trabalho padrão e blocos maiores para implantações de alta densidade.
+
+**As tabelas de rotas controlam o fluxo de tráfego por meio de mapeamentos explícitos de destino-alvo** . Rotas locais para comunicação com VPC não podem ser excluídas, enquanto rotas personalizadas suportam Gateways de Internet, Gateways NAT, conexões de peering de VPC e Gateways de Trânsito. A avaliação de rotas segue a correspondência do prefixo mais longo, com rotas mais específicas tendo precedência sobre as rotas padrão.[Amazonas](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/subnet-route-tables.html)
+
+## O design de sub-rede permite arquiteturas de segurança multicamadas
+
+**Sub-redes públicas e privadas desempenham papéis arquitetônicos fundamentalmente diferentes** por meio de suas configurações de roteamento. Sub-redes públicas contêm rotas para Gateways de Internet (0.0.0.0/0 → IGW), permitindo acesso direto à Internet para balanceadores de carga, hosts bastion e Gateways NAT.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/route-table-options.html)Sub-redes privadas não possuem rotas diretas de internet, acessando recursos externos por meio de dispositivos NAT, mas permanecendo ocultas do tráfego de entrada da internet.[Cloudonauta +3](https://templates.cloudonaut.io/en/stable/vpc/)
+
+**Arquiteturas multicamadas utilizam a segmentação de sub-redes para isolamento de segurança** . A camada de apresentação é implantada em sub-redes públicas com Balanceadores de Carga de Aplicativos distribuindo o tráfego. As camadas de aplicativos operam em sub-redes privadas, recebendo tráfego apenas de fontes autorizadas. As camadas de banco de dados utilizam sub-redes privadas isoladas com padrões de acesso altamente restritivos, normalmente permitindo conexões apenas de grupos de segurança da camada de aplicativos.[Pilha de sopro](https://blowstack.com/blog/determining-network-segmentation-strategies-in-aws-environments)
+
+**As estratégias de distribuição de Zonas de Disponibilidade garantem alta disponibilidade e tolerância a falhas** . A prática recomendada envolve a distribuição de sub-redes em, no mínimo, duas Zonas de Disponibilidade (ZADs) (de preferência, três) por região, com cada sub-rede residindo inteiramente em uma zona.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-best-practices.html)[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)As AZs mantêm separação física de até 60 milhas de distância, com energia e rede independentes, conectadas por redes de alta largura de banda e baixa latência, permitindo comunicação em milissegundos de um dígito.[AWS](https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-in-vpc.html)
+
+O padrão recomendado aloca blocos CIDR consistentes entre zonas:
+
+```
+VPC: 10.0.0.0/16
+Public Subnets: 10.0.1.0/24 (AZ-A), 10.0.2.0/24 (AZ-B)
+Private App: 10.0.11.0/24 (AZ-A), 10.0.12.0/24 (AZ-B) 
+Private DB: 10.0.21.0/24 (AZ-A), 10.0.22.0/24 (AZ-B)
+```
+
+## Os grupos de segurança fornecem proteção de nível de instância com estado
+
+**Grupos de Segurança funcionam como firewalls virtuais que operam no nível da interface de rede** , controlando o tráfego de entrada e saída por meio de regras de permissão. Sua natureza com estado permite automaticamente o tráfego de resposta para conexões estabelecidas, reduzindo a complexidade das regras e mantendo a segurança.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)[AWS](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design/)Ao contrário das ACLs de rede, os grupos de segurança avaliam todas as regras coletivamente, com a regra mais permissiva determinando o acesso.
+
+**A configuração de regras oferece suporte a vários tipos de origem e destino,** incluindo endereços IP, blocos CIDR, outros Grupos de Segurança e listas de prefixos gerenciados. As referências a Grupos de Segurança permitem políticas dinâmicas que se adaptam a mudanças na infraestrutura sem dependências de IP codificadas. Essa abordagem se mostra essencial para ambientes de escalonamento automático onde os endereços IP mudam com frequência.
+
+**O comportamento com estado simplifica drasticamente o gerenciamento de regras** , rastreando o estado da conexão na memória. Quando um Grupo de Segurança de servidor web permite HTTPS de entrada (porta 443), o tráfego de retorno flui automaticamente em portas efêmeras (32768-65535) sem regras de saída explícitas. Isso contrasta com ACLs de rede sem estado, que exigem configuração de regras bidirecionais.
+
+**O encadeamento de grupos de segurança cria padrões sofisticados de controle de acesso** . Um padrão típico de três camadas envolve:
+
+- **Balanceador de carga SG** : permite HTTP/HTTPS da Internet (0.0.0.0/0)
+- **Web Tier SG** : permite tráfego somente do Load Balancer SG
+- **Nível de aplicativo SG** : permite tráfego somente do nível da Web SG
+- **SG do banco de dados** : permite portas de banco de dados somente do SG da camada de aplicativo
+
+Essa abordagem baseada em referência elimina o gerenciamento de endereços IP ao mesmo tempo em que impõe controles de acesso de privilégios mínimos.
+
+## ACLs de rede adicionam defesa em nível de sub-rede
+
+**As ACLs de rede operam como firewalls sem estado no limite da sub-rede** , fornecendo segurança adicional de defesa em profundidade. Diferentemente do modelo de permissão somente dos Grupos de Segurança, as NACLs suportam regras de permissão e negação avaliadas em ordem numérica estrita.[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-best-practices.html)A primeira regra correspondente determina a ação, tornando a ordem das regras crítica para a funcionalidade adequada.
+
+**A operação sem estado requer regras bidirecionais explícitas** para fluxos de comunicação. O acesso ao servidor web requer regras de entrada para HTTP/HTTPS e regras de saída para respostas de porta efêmeras (normalmente 32768-65535). Essa complexidade frequentemente relega as NACLs a controles de segurança amplos, enquanto os Grupos de Segurança lidam com políticas de acesso granulares.
+
+**As organizações normalmente usam NACLs para atender a requisitos de conformidade** e bloquear padrões de tráfego maliciosos conhecidos. As NACLs padrão permitem todo o tráfego, exigindo NACLs personalizadas para políticas restritivas. As melhores práticas envolvem a implementação de regras de negação para agentes mal-intencionados conhecidos, permitindo padrões de tráfego legítimos por meio de configurações de Grupos de Segurança.
+
+## Padrões de rede específicos de serviço otimizam o desempenho
+
+**As instâncias do EC2 utilizam interfaces de rede elásticas (ENIs) para conectividade VPC** , com interfaces primárias fornecendo rede básica e interfaces secundárias permitindo configurações multi-homed.[Amazonas](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-networking.html)Recursos de rede aprimorados, como SR-IOV e Elastic Fabric Adapter (EFA), oferecem até 100 Gbps de taxa de transferência para cargas de trabalho de computação de alto desempenho.[AWS](https://docs.aws.amazon.com/wellarchitected/latest/framework/perf-networking.html)Grupos de posicionamento otimizam o posicionamento de instâncias para comunicação de latência ultrabaixa dentro de Zonas de Disponibilidade únicas.[Amazonas](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-networking.html)
+
+**Os modos de rede do ECS atendem a diferentes requisitos arquitetônicos** . O modo awsvpc fornece ENIs dedicadas por tarefa com atribuição de grupos de segurança em nível de tarefa, permitindo controles de segurança granulares e visibilidade do Log de Fluxo de VPC.[AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-networking-awsvpc.html)O modo bridge compartilha a rede do host com maior densidade de contêineres, mas com isolamento reduzido.[AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/networking-networkmode-bridge.html)O modo host elimina a sobrecarga de rede do Docker, mas limita a disponibilidade de portas e os limites de segurança.[Tutoriais Dojo](https://tutorialsdojo.com/ecs-network-modes-comparison/)[Amazonas](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-networking.html)
+
+**O RDS requer grupos de sub-redes de banco de dados que abranjam várias Zonas de Disponibilidade** para implantações Multi-AZ. Os grupos de sub-redes devem conter pelo menos duas sub-redes em diferentes AZs dentro da mesma VPC, permitindo recursos de failover automático.[Amazonas](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)O RDS seleciona automaticamente o posicionamento da sub-rede, mantendo configurações consistentes do grupo de segurança nas instâncias primária e em espera.[Amazonas](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.html)
+
+**O S3 integra-se com VPCs por meio de endpoints de gateway e interface** . Os endpoints de gateway fornecem acesso gratuito ao S3 por meio de entradas na tabela de rotas usando listas de prefixos gerenciadas pela AWS, eliminando as taxas de roteamento de internet e gateway NAT.[AWS](https://docs.aws.amazon.com/vpc/latest/privatelink/gateway-endpoints.html)[Amazonas](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)Os endpoints de interface usam a tecnologia PrivateLink com conectividade baseada em ENI, suportando padrões de acesso entre regiões e no local, ao mesmo tempo em que incorrem em cobranças por hora e processamento de dados.[AWS +3](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
+
+## Arquiteturas do mundo real equilibram segurança e desempenho
+
+**Arquiteturas de aplicativos de três camadas implementam segurança de defesa em profundidade** por meio de segmentação de rede e controles de acesso. A camada de apresentação hospeda Application Load Balancers em sub-redes públicas com terminação SSL e proteção WAF. As camadas de aplicativos são implantadas em sub-redes privadas com Grupos de Dimensionamento Automático para resiliência. As camadas de banco de dados utilizam sub-redes isoladas com armazenamento criptografado e configurações de backup automatizadas.
+
+**Padrões de alta disponibilidade distribuem recursos entre múltiplas Zonas de Disponibilidade** com mecanismos de failover coordenados. Os Application Load Balancers direcionam automaticamente o tráfego para longe de instâncias com problemas de integridade, enquanto os Grupos de Dimensionamento Automático substituem recursos com falha. As implantações Multi-AZ do RDS fornecem failover automático do banco de dados com tempos de recuperação de 60 a 120 segundos. Essa arquitetura suporta metas de disponibilidade de 99,99% para aplicativos de missão crítica.
+
+**As estratégias de otimização de custos concentram-se na transferência de dados e nas despesas com serviços gerenciados** . Os custos do NAT Gateway incluem cobranças por hora (~~US$ 0,045/hora) e taxas de processamento de dados (~~US$ 0,045/GB). As organizações otimizam a implantação de Gateways NAT em cada AZ para evitar cobranças de transferência entre AZs, usando endpoints VPC para acesso a serviços da AWS e implementando o CloudFront para acelerar o tráfego vinculado à Internet.[Serviços Web da Amazon](https://aws.amazon.com/vpc/pricing/)[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/nat-gateway-pricing.html)
+
+A transferência de dados entre AZs custa US$ 0,01/GB em cada direção,[AWS re:Post](https://repost.aws/articles/ARjUrsuXuMSoOfRVTWryGQxw/monitoring-and-optimizing-eks-inter-az-data-transfer-cost)tornando a afinidade AZ importante para aplicativos de comunicação. Os endpoints VPC eliminam essas cobranças para acesso ao S3 e DynamoDB, enquanto os endpoints de interface reduzem os custos de processamento de dados do Gateway NAT para outros serviços da AWS.[AWS](https://docs.aws.amazon.com/vpc/latest/privatelink/gateway-endpoints.html)[AWS](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+
+## A implementação segue padrões de implantação comprovados
+
+**A criação de VPCs geralmente segue abordagens automatizadas ou manuais** . A opção "VPC e mais" do Console AWS cria pilhas de rede completas com sub-redes públicas/privadas, gateways de Internet, gateways NAT e tabelas de rotas em várias zonas de disponibilidade (AZs).[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)[Médio](https://medium.com/@boltonwill/creating-a-three-tier-architecture-in-aws-777c927c4beb)A criação manual fornece controle granular sobre cada componente, dando suporte a requisitos complexos de rede e especificações de conformidade.[Amazonas](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-web-database-servers.html)[AWS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)
+
+**A Infraestrutura como Código permite implantações consistentes e repetíveis** em todos os ambientes. Os modelos do CloudFormation definem pilhas completas de VPCs com parâmetros para personalização específica do ambiente. Os módulos do Terraform fornecem componentes reutilizáveis ​​para criação de VPCs, gerenciamento de grupos de segurança e padrões de integração de serviços.[Pilha de Golpe +2](https://blowstack.com/blog/determining-network-segmentation-strategies-in-aws-environments)
+
+**A configuração de Grupos de Segurança requer abordagens sistemáticas** para aplicações multicamadas. Grupos de Segurança da camada Web permitem HTTP/HTTPS apenas de Grupos de Segurança do Balanceador de Carga de Aplicações. Grupos de Segurança da camada de aplicações permitem tráfego de camadas Web, ao mesmo tempo que permitem a conectividade com o banco de dados. Grupos de Segurança de Banco de Dados restringem o acesso exclusivamente a fontes da camada de aplicações, implementando princípios de rede de confiança zero.[Amazonas](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-web-database-servers.html)
+
+**O monitoramento e a solução de problemas utilizam os Logs de Fluxo da VPC e as métricas do CloudWatch** . Os Logs de Fluxo capturam metadados de tráfego para análise de segurança, otimização de desempenho e relatórios de conformidade.[AWS +2](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)O VPC Reachability Analyzer diagnostica problemas de conectividade analisando caminhos de tráfego e identificando componentes de bloqueio.[Pilha de Golpe +2](https://blowstack.com/blog/determining-network-segmentation-strategies-in-aws-environments)Os alarmes do CloudWatch monitoram o processamento de dados do NAT Gateway, o desempenho do balanceador de carga e a integridade do grupo de dimensionamento automático.
+
+## Conclusão
+
+A rede AWS VPC possibilita arquiteturas de nuvem de nível empresarial por meio de controles de segurança abrangentes, padrões de alta disponibilidade e estratégias de otimização de desempenho. O sucesso exige um planejamento CIDR cuidadoso, design sistemático de grupos de segurança e profundo conhecimento dos requisitos de rede específicos do serviço.[Amazonas](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/welcome.html)
+
+A chave está na implementação de segurança de defesa em profundidade por meio da segmentação de rede, mantendo alta disponibilidade em múltiplas Zonas de Disponibilidade e otimizando custos por meio do uso estratégico de serviços gerenciados e padrões de transferência de dados. Organizações que dominam esses princípios constroem infraestruturas de nuvem robustas, escaláveis ​​e seguras, dando suporte a aplicações críticas aos negócios.
+
+Revisões regulares de arquitetura, adoção de Infraestrutura como Código e monitoramento abrangente garantem excelência operacional contínua à medida que os requisitos evoluem. Os padrões e práticas descritos neste guia fornecem a base para a implementação de soluções de rede AWS prontas para produção, que se adaptam ao crescimento organizacional e às mudanças nas demandas técnicas.
