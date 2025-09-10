@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "90bac734152727a1",
+        "id": "76a4e96e46279321",
         "type": "tabs",
         "children": [
           {
-            "id": "f63f4f35512abc92",
+            "id": "0164fc66748ca7c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png"
+                "file": "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250910110046"
+              "icon": "lucide-file",
+              "title": "Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian"
+            }
+          },
+          {
+            "id": "c7eabcffb5821158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 O QUE É TCP IP"
+            }
+          },
+          {
+            "id": "951b1df349798d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 O QUE É TCP IP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Pasted image 20250910110046"
+              "title": "Links inversos para 1 O QUE É TCP IP"
             }
           },
           {
@@ -164,17 +195,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f63f4f35512abc92",
+  "active": "951b1df349798d8b",
   "lastOpenFiles": [
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910111151.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Sub-redes (Subnets).md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/Subnetes.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
     "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Sub-redes (Subnets).md",
+    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "Sub-redes(Subnetes).md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/FLYWEIGHT PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01.png",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.1. CREATIONAL PATTERNS/BUILDER PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.2. CRITERIA API JAVA.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.1. SPECIFICATION JAVA.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-02.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
+    "1. REDES E INFRAESTRUTURA/Subnetes.md",
     "1. REDES E INFRAESTRUTURA/IP (Internet Protocol)",
     "5. Desenvolvimento Back-End/JAVA/Interrelacionais/Funções como objetos (Functional Interfaces).md",
     "5. Desenvolvimento Back-End/JAVA/Visão Geral da Java Collections Framework.md",
@@ -189,30 +232,19 @@
     "Sem título.base",
     "Pasted image 20250407125134.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/3.2. AZURE.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)",
-    "Ponteiros.md",
     "Sem título 1.base",
-    "Sem título 1.md",
     "Sem título 2.base",
-    "Sem título.md",
     "Sem título.canvas",
-    "Readme.md",
-    "Sketch.md",
-    "Service Mesh.md",
-    "OLTP.md",
     "Garbage Collector/img/img-garbage-collector.png",
     "ANGULAR/Estrutura Completa do Projeto",
     "ANGULAR",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
     "Pasted image 20250407130244.png",
     "Garbage Collector/img-garbage-collector.png",
     "Pasted image 20250727141818.png",
     "Sem título 1.canvas",
     "Pasted image 20250407130037.png",
-    "Pasted image 20250407125752.png",
-    "Pasted image 20250407125621.png"
+    "Pasted image 20250407125752.png"
   ]
 }
