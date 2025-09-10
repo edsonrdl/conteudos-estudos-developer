@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f61b8e8e1e66ef4",
+        "id": "90bac734152727a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1d4876b9973a07c1",
+            "id": "f63f4f35512abc92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
-                "mode": "source",
-                "source": false
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png"
               },
-              "icon": "lucide-file",
-              "title": "Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250910110046"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo"
+              "title": "Links inversos para Pasted image 20250910110046"
             }
           },
           {
@@ -166,12 +164,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1d4876b9973a07c1",
+  "active": "f63f4f35512abc92",
   "lastOpenFiles": [
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910111151.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Pasted image 20250910110046.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Sub-redes (Subnets).md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
+    "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/Subnetes.md",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/IP (Internet Protocol)",
+    "5. Desenvolvimento Back-End/JAVA/Interrelacionais/Funções como objetos (Functional Interfaces).md",
+    "5. Desenvolvimento Back-End/JAVA/Visão Geral da Java Collections Framework.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Dual write Microservices.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Evento de mensagens.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com Docker.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/0 - Introdução Design Patterns.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
     "Sem título 13.base",
     "Sem título.base",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
     "Pasted image 20250407125134.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
@@ -188,34 +203,16 @@
     "Service Mesh.md",
     "OLTP.md",
     "Garbage Collector/img/img-garbage-collector.png",
-    "Garbage Collector/01 Garbage Collector.md",
-    "5. Desenvolvimento Back-End/Idenpotência.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Anotação spring boot.md",
-    "ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
-    "ANGULAR/Estrutura Completa do Projeto/08 Como Funciona o HttpInterceptor Multi-API.md",
-    "ANGULAR/Estrutura Completa do Projeto/07 Adicionando Módulo de Clientes.md",
-    "ANGULAR/Estrutura Completa do Projeto/06 Criar Novos Módulos em Angular.md",
-    "ANGULAR/Estrutura Completa do Projeto/05 lazy loading com módulos.md",
-    "ANGULAR/Estrutura Completa do Projeto/02 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-    "ANGULAR/Estrutura Completa do Projeto/01 Arquitetura front-end em Angular.md",
-    "ANGULAR/Estrutura Completa do Projeto/04 Módulos e Configurações Finais.md",
     "ANGULAR/Estrutura Completa do Projeto",
     "ANGULAR",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices",
-    "Sem título 12.base",
     "Pasted image 20250407130244.png",
     "Garbage Collector/img-garbage-collector.png",
     "Pasted image 20250727141818.png",
     "Sem título 1.canvas",
     "Pasted image 20250407130037.png",
     "Pasted image 20250407125752.png",
-    "Pasted image 20250407125621.png",
-    "Pasted image 20250407125530.png",
-    "Pasted image 20250407125432.png"
+    "Pasted image 20250407125621.png"
   ]
 }
