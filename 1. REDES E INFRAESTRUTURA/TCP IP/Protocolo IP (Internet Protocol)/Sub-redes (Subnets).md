@@ -39,4 +39,85 @@ As faixas de IP são classificações para a usabilidade de cada tipo de rede. V
     - **Usabilidade:** É a mais comum para **redes domésticas e pequenas empresas**. A maioria dos roteadores de internet que você usa em casa vem configurada para esta faixa de IP.
         
 
-Em resumo, enquanto as **sub-redes** dividem uma rede para torná-la mais eficiente, os **endereços IP** identificam cada dispositivo e as **faixas de IP** classificam esses endereços para que sejam usados de forma organizada.
+
+Esta imagem explica as três classes principais de endereços IPv4 e como as máscaras de sub-rede são usadas para definir o tamanho da rede e o número de dispositivos (hosts) que ela pode acomodar.
+
+- **O Conceito:** Cada endereço IP é dividido em duas partes: a parte da **rede** (Network) e a parte do **host** (Host). A **máscara de sub-rede** é o que determina a divisão entre essas duas partes, dizendo ao roteador quais bits pertencem à rede e quais pertencem ao host. Onde a máscara tem `255`, a parte do endereço IP é para a rede. Onde tem `0`, a parte é para os hosts.
+    
+- **Classe A:**
+    
+    - **Máscara de Sub-rede:** `255.0.0.0`
+        
+    - **Divisão:** Usa 8 bits para a rede e 24 bits para os hosts.
+        
+    - **Usabilidade:** Ideal para redes gigantescas, como as de grandes corporações, pois permite um número enorme de hosts por rede (mais de 16 milhões).
+        
+- **Classe B:**
+    
+    - **Máscara de Sub-rede:** `255.255.0.0`
+        
+    - **Divisão:** Usa 16 bits para a rede e 16 bits para os hosts.
+        
+    - **Usabilidade:** Usada para redes de porte médio a grande, como as de universidades, pois oferece um bom equilíbrio entre o número de redes e o número de hosts.
+        
+- **Classe C:**
+    
+    - **Máscara de Sub-rede:** `255.255.255.0`
+        
+    - **Divisão:** Usa 24 bits para a rede e apenas 8 bits para os hosts.
+        
+    - **Usabilidade:** É a mais comum para redes pequenas, como as domésticas e de escritórios, pois o número de hosts por rede é limitado (256), mas o número de redes disponíveis é gigantesco.
+
+___
+![[./img/subnet-img-01.png]]
+Esta imagem explica as três classes principais de endereços IPv4 e como as máscaras de sub-rede são usadas para definir o tamanho da rede e o número de dispositivos (hosts) que ela pode acomodar.
+
+- **O Conceito:** Cada endereço IP é dividido em duas partes: a parte da **rede** (Network) e a parte do **host** (Host). A **máscara de sub-rede** é o que determina a divisão entre essas duas partes, dizendo ao roteador quais bits pertencem à rede e quais pertencem ao host. Onde a máscara tem `255`, a parte do endereço IP é para a rede. Onde tem `0`, a parte é para os hosts.
+    
+- **Classe A:**
+    
+    - **Máscara de Sub-rede:** `255.0.0.0`
+        
+    - **Divisão:** Usa 8 bits para a rede e 24 bits para os hosts.
+        
+    - **Usabilidade:** Ideal para redes gigantescas, como as de grandes corporações, pois permite um número enorme de hosts por rede (mais de 16 milhões).
+        
+- **Classe B:**
+    
+    - **Máscara de Sub-rede:** `255.255.0.0`
+        
+    - **Divisão:** Usa 16 bits para a rede e 16 bits para os hosts.
+        
+    - **Usabilidade:** Usada para redes de porte médio a grande, como as de universidades, pois oferece um bom equilíbrio entre o número de redes e o número de hosts.
+        
+- **Classe C:**
+    
+    - **Máscara de Sub-rede:** `255.255.255.0`
+        
+    - **Divisão:** Usa 24 bits para a rede e apenas 8 bits para os hosts.
+        
+    - **Usabilidade:** É a mais comum para redes pequenas, como as domésticas e de escritórios, pois o número de hosts por rede é limitado (256), mas o número de redes disponíveis é gigantesco.
+
+
+___
+
+![[1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-02.png]]
+Esta imagem demonstra o conceito de **subnetting**, que é a prática de dividir uma grande rede IP em sub-redes menores.
+
+- **A Rede Original:** A rede principal é a `200.1.1.0/24`. O **/24** significa que os primeiros 24 bits (ou os três primeiros números, `200.1.1.`) são fixos e identificam a rede, enquanto os 8 bits restantes (o último número, de `0` a `255`) podem ser usados para endereços de dispositivos. Isso resulta em um total de 256 endereços de IP disponíveis na rede original (`200.1.1.0` a `200.1.1.255`).
+    
+- **As Sub-redes (Subnets):** A imagem mostra como essa rede de 256 endereços foi "cortada" (com a metáfora da serra elétrica) em sub-redes menores para atender a diferentes locais (lojas). Cada sub-rede tem um propósito específico:
+    
+    - **Subnet 1:** Usada para a loja de Nova York (NY Store) e tem 32 endereços de IP.
+        
+    - **Subnet 2:** Usada para conectar a Roteador 1 e a Roteador 2, e tem 4 endereços de IP.
+        
+    - **Subnet 3:** Também usada para a interconexão de roteadores (Roteador 2 e Roteador 4), com 4 endereços.
+        
+    - **Subnet 4:** Usada para a loja de Los Angeles (LA Store), com 16 endereços.
+        
+    - **Subnet 5:** Usada para a loja de Chicago (CHI Store), com 16 endereços.
+        
+    - **Endereços Restantes:** Após a divisão, ainda restam 184 endereços de IP que podem ser usados para criar novas sub-redes no futuro.
+        
+- **A Rota (Roteadores):** A parte de baixo da imagem mostra a arquitetura física. Os roteadores (`Router 1` a `Router 4`) são os dispositivos que conectam essas sub-redes. Eles direcionam o tráfego de dados de uma sub-rede para outra, garantindo que os dados de uma loja cheguem à outra, se necessário.
