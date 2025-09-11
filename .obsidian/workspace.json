@@ -8,49 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0164fc66748ca7c6",
+            "id": "4e7f8767600d395c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian"
+              "title": "Glossário"
             }
           },
           {
-            "id": "c7eabcffb5821158",
+            "id": "355edd32bbb45d41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 O QUE É TCP IP"
-            }
-          },
-          {
-            "id": "951b1df349798d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 O QUE É TCP IP"
+              "title": "1 TCP IP  Guia Completo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "f882909fcc3240dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6134b4e77926a300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sub-redes (Subnets)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buff",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1 O QUE É TCP IP"
+              "title": "Links inversos para Sub-redes (Subnets)"
             }
           },
           {
@@ -195,18 +201,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "951b1df349798d8b",
+  "active": "6134b4e77926a300",
   "lastOpenFiles": [
-    "0 Glossário/Glossário.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 O QUE É TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/Sub-redes (Subnets).md",
-    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
-    "Sub-redes(Subnetes).md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
+    "Sem título 17.base",
+    "Sem título 16.base",
+    "Sem título 15.base",
+    "Sem título 14.base",
+    "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md",
+    "Erros Críticos em Programação.md",
+    "0 Glossário/Glossário.md",
+    "Terraform.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
+    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
+    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/S3.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/EC2.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
+    "Sub-redes(Subnetes).md",
     "1. REDES E INFRAESTRUTURA/Internet.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/FLYWEIGHT PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01.png",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
@@ -214,31 +237,13 @@
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.2. CRITERIA API JAVA.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.1. SPECIFICATION JAVA.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-02.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img",
+    "1. REDES E INFRAESTRUTURA/TCP IP/img",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
     "1. REDES E INFRAESTRUTURA/Subnetes.md",
     "1. REDES E INFRAESTRUTURA/IP (Internet Protocol)",
-    "5. Desenvolvimento Back-End/JAVA/Interrelacionais/Funções como objetos (Functional Interfaces).md",
-    "5. Desenvolvimento Back-End/JAVA/Visão Geral da Java Collections Framework.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Dual write Microservices.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/Problemas enfrentados/Desafios e soluções da arquitetura de microsserviços.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Evento de mensagens.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com Docker.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/0 - Introdução Design Patterns.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "Sem título 13.base",
-    "Sem título.base",
     "Pasted image 20250407125134.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)",
-    "Sem título 1.base",
-    "Sem título 2.base",
     "Sem título.canvas",
     "Garbage Collector/img/img-garbage-collector.png",
-    "ANGULAR/Estrutura Completa do Projeto",
-    "ANGULAR",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Pasted image 20250407130244.png",
     "Garbage Collector/img-garbage-collector.png",
