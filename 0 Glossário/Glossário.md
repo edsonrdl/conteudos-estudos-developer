@@ -153,7 +153,7 @@
     - Observabilidade
     - by-design
 #### Infrastructure as Code (IaC)
-- [[Terraform]]
+- [ ]  [[8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md|Terraform]]
 - [[Pulumi]]
 - [[Ansible]]
 #### Service Mesh
