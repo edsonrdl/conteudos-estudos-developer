@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+                "file": "7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL)"
+            }
+          },
+          {
+            "id": "dbf756958b6639fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia definitivo de comandos Linux para desenvolvedores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia definitivo de comandos Linux para desenvolvedores"
             }
           }
         ],
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+                "file": "7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para VPC"
+              "title": "Links inversos para Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL)"
             }
           },
           {
@@ -197,10 +211,22 @@
   },
   "active": "59826939c2db4a12",
   "lastOpenFiles": [
-    "0 Glossário/Glossário.md",
+    "Pasted image 20250727141818.png",
+    "7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL).md",
+    "Sem título 15.base",
+    "Sem título 16.base",
+    "Sem título 17.base",
+    "Readme.md",
+    "Ponteiros.md",
+    "Pasted image 20250407125621.png",
+    "Pasted image 20250407125432.png",
+    "Pasted image 20250407125134.png",
+    "Guia definitivo de comandos Linux para desenvolvedores.md",
+    "Link documentação vpc ..md",
+    "Erros Críticos em Programação.md",
     "Documentação.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "Link documentação vpc ..md",
+    "0 Glossário/Glossário.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/S3.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
@@ -211,13 +237,9 @@
     "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
-    "Sem título 17.base",
-    "Sem título 16.base",
-    "Sem título 15.base",
     "Sem título 14.base",
     "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md",
-    "Erros Críticos em Programação.md",
     "Terraform.md",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
@@ -231,20 +253,12 @@
     "1. REDES E INFRAESTRUTURA/Internet.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/FLYWEIGHT PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.1. CREATIONAL PATTERNS/BUILDER PATTERNS.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.2. CRITERIA API JAVA.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
-    "Pasted image 20250407125134.png",
     "Sem título.canvas",
     "Garbage Collector/img/img-garbage-collector.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
-    "Pasted image 20250407130244.png",
-    "Garbage Collector/img-garbage-collector.png",
     "Sem título 1.canvas"
   ]
 }
