@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPC"
+              "title": "infraestrutura da Amazon Web Services (AWS)"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para VPC"
+              "title": "Links inversos para infraestrutura da Amazon Web Services (AWS)"
             }
           },
           {
@@ -223,10 +223,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "42cc2191d1aa9f23",
+  "active": "eb42f7836ede1533",
   "lastOpenFiles": [
-    "Sem títuloProxy.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+    "Sem títuloProxy.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "7. Bancos de Dados e Armazenamento de Dados/Event Sourcing.md",
     "7. Bancos de Dados e Armazenamento de Dados/OLTP VS OLAP.md",
@@ -263,11 +265,9 @@
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/EC2.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1 A infraestrutura da Amazon Web Services (AWS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Sem Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
     "Sub-redes(Subnetes).md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
