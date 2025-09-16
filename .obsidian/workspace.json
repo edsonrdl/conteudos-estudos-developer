@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
+                "file": "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "infraestrutura da Amazon Web Services (AWS)"
+              "title": "Guia Completo Estruturas de Dados em Java"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
+                "file": "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para infraestrutura da Amazon Web Services (AWS)"
+              "title": "Links inversos para Guia Completo Estruturas de Dados em Java"
             }
           },
           {
@@ -239,6 +239,11 @@
   },
   "active": "c52ac0b37e96f470",
   "lastOpenFiles": [
+    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Visão Geral da Java Collections Framework.md",
+    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
+    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados",
+    "5. Desenvolvimento Back-End/Idenpotência.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/S3.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
     "Jump Box  Bastion Host.md",
@@ -248,7 +253,6 @@
     "1. REDES E INFRAESTRUTURA/Internet.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
     "Sem títuloProxy.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "7. Bancos de Dados e Armazenamento de Dados/Event Sourcing.md",
@@ -276,15 +280,11 @@
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
     "Sem título 14.base",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md",
-    "Terraform.md",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
-    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/EC2.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
