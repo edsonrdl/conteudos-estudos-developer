@@ -4,95 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "76a4e96e46279321",
+        "id": "dcedd8d34ee1345d",
         "type": "tabs",
         "children": [
           {
-            "id": "4e7f8767600d395c",
+            "id": "ef2b28dfeade79a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Glossário/Glossário.md",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossário"
+              "title": "Rede vs. Sub-rede"
             }
           },
           {
-            "id": "355edd32bbb45d41",
+            "id": "19a6fba746af0b5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1 TCP IP  Guia Completo"
-            }
-          },
-          {
-            "id": "59826939c2db4a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VPC"
-            }
-          },
-          {
-            "id": "42cc2191d1aa9f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Como saber qual  IP USAR para configurar um DNS"
-            }
-          },
-          {
-            "id": "c52ac0b37e96f470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guia Completo Estruturas de Dados em Java"
-            }
-          },
-          {
-            "id": "dbf756958b6639fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guia definitivo de comandos Linux para desenvolvedores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guia definitivo de comandos Linux para desenvolvedores"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 439.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -165,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
+                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Guia Completo Estruturas de Dados em Java"
+              "title": "Links inversos para Rede vs. Sub-rede"
             }
           },
           {
@@ -237,54 +176,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c52ac0b37e96f470",
+  "active": "ef2b28dfeade79a6",
   "lastOpenFiles": [
-    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Visão Geral da Java Collections Framework.md",
-    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
-    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados",
-    "5. Desenvolvimento Back-End/Idenpotência.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/infraestrutura da Amazon Web Services (AWS).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/S3.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "Jump Box  Bastion Host.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
     "1. REDES E INFRAESTRUTURA/Internet.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
-    "Sem títuloProxy.md",
+    "1. REDES E INFRAESTRUTURA/Subnetes.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
+    "Pasted image 20250917010008.png",
+    "Pasted image 20250917010002.png",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Clean Architecture Camadas.md",
+    "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS GOT/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.2. CRITERIA API JAVA.md",
+    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/DESIGN PATTERNS EXTENSIONS/1.2.1. SPECIFICATION JAVA.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Camada de Domain/Boas Práticas para Spring Boot e .NET Core.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Sem título.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/MVC",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture em Português Brasileiro.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Camada de Domain.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Camada de Domain",
+    "10. Arquitetura de Software e Design de Software/img",
+    "0 Glossário/Glossário.md",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Tratamento de Erro em Spring Boot.md",
+    "5. Desenvolvimento Back-End/Dot Net Core/Tratamento de Erro em .NET Core.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
+    "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
+    "5. Desenvolvimento Back-End/Idenpotência.md",
+    "5. Desenvolvimento Back-End/Melhores Práticas para Tratamento de Erros Spring Boot vs ASP.NET Core.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
+    "5. Desenvolvimento Back-End/Dot Net Core",
+    "Erros Críticos em Programação.md",
+    "Guia definitivo de comandos Linux para desenvolvedores.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Arquitetura Apache Kafka em Produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Apache Kafka.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka",
+    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "7. Bancos de Dados e Armazenamento de Dados/Event Sourcing.md",
-    "7. Bancos de Dados e Armazenamento de Dados/OLTP VS OLAP.md",
-    "7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/Estrutura e Funcionalidade de Bancos de Dados Não Relacionais (NoSQL).md",
     "Pasted image 20250727141818.png",
     "Sem título 15.base",
     "Sem título 16.base",
-    "Sem título 17.base",
-    "Readme.md",
-    "Ponteiros.md",
     "Pasted image 20250407125621.png",
     "Pasted image 20250407125432.png",
     "Pasted image 20250407125134.png",
-    "Guia definitivo de comandos Linux para desenvolvedores.md",
-    "Link documentação vpc ..md",
-    "Erros Críticos em Programação.md",
-    "Documentação.md",
-    "0 Glossário/Glossário.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/visap-vpc.jpg",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
-    "Sem título 14.base",
-    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
-    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)",
-    "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Protocolo IP (Internet Protocol)/img/subnet-img-01 1.png",
-    "1. REDES E INFRAESTRUTURA/TCP IP/img",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
