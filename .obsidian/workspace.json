@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20689ef908aa7945",
+        "id": "e18475225121ef63",
         "type": "tabs",
         "children": [
           {
-            "id": "3cdc86379e802b1d",
+            "id": "dd77b625c12765d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/05 lazy loading.md",
+                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 lazy loading"
+              "title": "04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 461.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/05 lazy loading.md",
+                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 05 lazy loading"
+              "title": "Links inversos para 04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
             }
           },
           {
@@ -166,19 +166,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3cdc86379e802b1d",
+  "active": "dd77b625c12765d4",
   "lastOpenFiles": [
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/10 Como Funciona o HttpInterceptor Multi-API.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/08 Adicionando Módulo de Clientes.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/06 Organização dos Services.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Organização dos Services camada.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/07 Criar Novos Módulos em Angular.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/09 Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/05 lazy loading.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Módulos e Configurações Finais.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/08 Adicionando Módulo de Clientes.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Funciona o HttpInterceptor Multi-API.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Layout em Angular.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Services - Estratégias de Implementação com Exemplos Detalhados.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Rotas Angular - Exemplo Completo.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/lazy loading.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Configuração de Múltiplas APIs.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/02 Estrutura de Pastas Standalone.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/01 Estrutura de pastas  Module.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
+    "Sem título 26.base",
+    "Sem título 25.base",
+    "Sem título 24.base",
+    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "0 Glossário/Glossário.md",
+    "Sem título 23.base",
+    "Sem título 22.base",
+    "Sem título 21.base",
+    "Sem título 20.base",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
@@ -193,24 +206,11 @@
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Autenticação e Autorização.md",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/img",
-    "0 Glossário/Glossário.md",
-    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização",
-    "13. Segurança da Informação/Conceitos Fundamentais",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
     "Sem título.canvas",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
-    "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-02.png",
     "Pasted image 20250917010008.png",
     "Pasted image 20250917010002.png",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/MVC",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Camada de Domain",
-    "10. Arquitetura de Software e Design de Software/img",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "Pasted image 20250727141818.png",
     "Pasted image 20250407125621.png",
