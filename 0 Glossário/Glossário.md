@@ -434,7 +434,7 @@
 
 ### Ferramentas de ETL
 
-- [[Apache Kafka]]
+- [[8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Apache Kafka]]
 - [[Talend]]
 - [[Pentaho]]
 - [[Apache Spark]]
