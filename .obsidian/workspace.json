@@ -11,14 +11,12 @@
             "id": "dd77b625c12765d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-                "mode": "source",
-                "source": false
+                "file": "10. Arquitetura de Software e Design de Software/img/clean-architecture.png"
               },
-              "icon": "lucide-file",
-              "title": "04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
+              "icon": "lucide-image",
+              "title": "clean-architecture"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
+                "file": "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos"
+              "title": "Links inversos para clean-architecture"
             }
           },
           {
@@ -168,6 +166,17 @@
   },
   "active": "dd77b625c12765d4",
   "lastOpenFiles": [
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/APACHE KAFKA.md",
+    "0 Glossário/Glossário.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Componentes e Ferramentas do Apache Kafka.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com Docker.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka com um schema Registry Sem título AWS Lambda.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Apache Kafka com um Schema Registry.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Busca e Ordenação.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Arquitetura Angular - Guia de Boas Práticas.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/lazy loading.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Passo a Passo Analisando seu Projeto Angular.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Organização dos Services camada.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/07 Criar Novos Módulos em Angular.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/08 Adicionando Módulo de Clientes.md",
@@ -176,34 +185,23 @@
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Layout em Angular.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Services - Estratégias de Implementação com Exemplos Detalhados.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Rotas Angular - Exemplo Completo.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/lazy loading.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Configuração de Múltiplas APIs.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/02 Estrutura de Pastas Standalone.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/01 Estrutura de pastas  Module.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
     "Sem título 26.base",
     "Sem título 25.base",
     "Sem título 24.base",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
-    "0 Glossário/Glossário.md",
     "Sem título 23.base",
     "Sem título 22.base",
     "Sem título 21.base",
     "Sem título 20.base",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégias de produção do Amazon EC2  abordagens nativas e em contêinerestítulo.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Estratégia de Nomenclatura EC2.md",
     "Sem título 19.base",
     "Sem título 18.base",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/0 - Introdução Design Patterns.md",
     "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Clean Architecture Camadas.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture em Português Brasileiro.md",
-    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
-    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Autenticação e Autorização.md",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/img",
     "Sem título.canvas",
