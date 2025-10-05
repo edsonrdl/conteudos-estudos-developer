@@ -11,15 +11,46 @@
             "id": "dd77b625c12765d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/img/clean-architecture.png"
+                "file": "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "clean-architecture"
+              "icon": "lucide-file",
+              "title": "EVENT_DRIVEN"
+            }
+          },
+          {
+            "id": "20e03e7f8b5feef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FUNCIONAL"
+            }
+          },
+          {
+            "id": "66afe2b02d465d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analise de build"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
+                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para clean-architecture"
+              "title": "Links inversos para Analise de build"
             }
           },
           {
@@ -164,8 +195,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dd77b625c12765d4",
+  "active": "66afe2b02d465d70",
   "lastOpenFiles": [
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Melhorar o Menu Hardcoded.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
+    "Garbage Collector/Lambdas.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/Reativo.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/PROCEDURAL.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
+    "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/APACHE KAFKA.md",
     "0 Glossário/Glossário.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Componentes e Ferramentas do Apache Kafka.md",
@@ -184,24 +224,15 @@
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Funciona o HttpInterceptor Multi-API.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Layout em Angular.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Services - Estratégias de Implementação com Exemplos Detalhados.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Rotas Angular - Exemplo Completo.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Configuração de Múltiplas APIs.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/02 Estrutura de Pastas Standalone.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/03 Templates HTML e Componentes Reutilizáveis.md",
     "Sem título 26.base",
     "Sem título 25.base",
     "Sem título 24.base",
-    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "Sem título 23.base",
     "Sem título 22.base",
     "Sem título 21.base",
     "Sem título 20.base",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
     "Sem título 19.base",
     "Sem título 18.base",
-    "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/img",
     "Sem título.canvas",
