@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erros Críticos em Programação.md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erros Críticos em Programação"
+              "title": "Glossário"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erros Críticos em Programação.md",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Erros Críticos em Programação"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -178,6 +178,13 @@
   },
   "active": "d337b28af0ce2eb0",
   "lastOpenFiles": [
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Pub Sub Publish Subscribe  Conceito Complet.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/pub sub/Exemplo visual.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/pub sub",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Notification Service (SNS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Queue Service (SQS).md",
+    "Jump Box  Bastion Host.md",
+    "Erros Críticos em Programação.md",
     "0 Glossário/Glossário.md",
     "12. Plataformas e Sistemas Operacionais/Guia definitivo de comandos Linux para desenvolvedores.md",
     "4. Design e Experiência do Usuário/Fundamentos de UI UX para Interfaces Web Profissionais.md",
@@ -193,7 +200,6 @@
     "Sem título 19.base",
     "Sem título 17.base",
     "Sem título 16.base",
-    "Sem título 15.base",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Services - Estratégias de Implementação com Exemplos Detalhados.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Rotas Angular - Exemplo Completo.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Organização dos Services camada.md",
@@ -206,14 +212,9 @@
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Arquitetura Angular - Guia de Boas Práticas.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-    "Erros Críticos em Programação.md",
-    "Jump Box  Bastion Host.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Passo a Passo Analisando seu Projeto Angular.md",
     "Garbage Collector/Lambdas.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/Reativo.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
     "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
