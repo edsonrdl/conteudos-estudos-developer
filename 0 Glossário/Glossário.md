@@ -504,4 +504,4 @@
 
 ---
 
-_Nota: Cada tópico marcado com [[]] pode ser transformado em uma nota individual no Obsidian para detalhamento específico._
+_
