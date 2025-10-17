@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d337b28af0ce2eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/pub sub/Exemplo visual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exemplo visual"
-            }
-          },
-          {
-            "id": "e35426d0e4320ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/Classes  A B C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes  A B C"
-            }
-          },
-          {
             "id": "836a138bfcff68e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Design e Experiência do Usuário/Fundamentos de UI UX para Interfaces Web Profissionais.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos de UI UX para Interfaces Web Profissionais"
-            }
-          },
-          {
-            "id": "2c236cb586e8f9cc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Ciclo de Vida de Lambda Serverless Terminologia Técnica"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 359.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -133,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Design e Experiência do Usuário/Fundamentos de UI UX para Interfaces Web Profissionais.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Fundamentos de UI UX para Interfaces Web Profissionais"
+              "title": "Links inversos para Ciclo de Vida de Lambda Serverless Terminologia Técnica"
             }
           },
           {
@@ -207,20 +168,25 @@
   },
   "active": "836a138bfcff68e1",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Notification Service (SNS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda",
+    "0 Glossário/Glossário.md",
+    "Poc (Prova de conceito).md",
+    "Ponteiros.md",
+    "Proxy.md",
+    "Sem título.base",
+    "Sem título 1.base",
+    "4. Design e Experiência do Usuário/Fundamentos de UI UX para Interfaces Web Profissionais.md",
     "Readme.md",
     "Sem título 9.base",
     "Sem título 12.base",
-    "Proxy.md",
     "Sem título 16.base",
     "Sem título 15.base",
     "Sem título 13.base",
     "Sem título 11.base",
     "Sem título 10.base",
-    "Sem título 6.base",
-    "Sem título 5.base",
-    "Sem título 4.base",
-    "Ponteiros.md",
-    "Poc (Prova de conceito).md",
     "Pasted image 20250407125530.png",
     "Pasted image 20250407125134.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS IAM - Guia Completo de Permissões.md",
@@ -237,15 +203,11 @@
     "1. REDES E INFRAESTRUTURA/TCP IP/Classes  A B C.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/pub sub/Exemplo visual.md",
-    "0 Glossário/Glossário.md",
     "Sem título.canvas",
     "Pasted image 20250407125432.png",
     "Jump Box  Bastion Host.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Notification Service (SNS).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Queue Service (SQS).md",
     "Erros Críticos em Programação.md",
-    "12. Plataformas e Sistemas Operacionais/Guia definitivo de comandos Linux para desenvolvedores.md",
-    "4. Design e Experiência do Usuário/Fundamentos de UI UX para Interfaces Web Profissionais.md",
     "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png",
