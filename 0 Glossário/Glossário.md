@@ -5,7 +5,7 @@
 
 #redes #infraestrutura
 ### Conceitos Fundamentais
-- [ ]  [[Internet]] 
+- [ ]  [[Internet]] [[Low-Latency]] vs [[High-Throughput]] [[Low-Latency]] vs [[High-Throughput]] 
 - [ ]  [[TCP/IP]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
@@ -127,7 +127,20 @@
 
 - [[Apache Spark]]
 - [[Hadoop]]
-
+### Big Data e Arquitetura de Dados
+- **Arquiteturas de Dados:**
+    
+    - **[[Data Warehouse]]** - Armazenamento centralizado e estruturado para BI.
+        
+    - **[[Data Lake]]** - Repositório centralizado para dados brutos em grande escala.
+        
+    - **[[Data Mesh]]** - Abordagem descentralizada, tratando dados como produtos.
+        
+- **Ferramentas de Processamento:**
+    
+    - [[Apache Spark]]
+        
+    - [[Hadoop]]
 ---
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
@@ -146,12 +159,14 @@
 - [[Minikube]]
 ### Cloud-Native
 #### Conceitos
+- Serverless
 - Contêineres imutáveis e imagens reprodutíveis
 - Autoscaling em app e cluster
 - [[12-Factor App]]
     - Imutabilidade
     - Observabilidade
     - by-design
+
 #### Infrastructure as Code (IaC)
 - [ ]  [[8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md|Terraform]]
 - [[Pulumi]]
@@ -269,6 +284,7 @@
 - [[DESIGN PATTERNS/]] - Padrões de Projeto (GoF)
 - [[Princípios SOLID]] - Base para código coeso e flexível
 - [[Padrões Arquiteturais]] - Hexagonal, [[10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices | Microservices]], Clean, MVC
+- Statefull vs Stateless
 
 ### Performance: Latência & Vazão
 
@@ -291,6 +307,7 @@
 
 - [[Backpressure]] - Controle de fluxo upstream
 - [[Rate Limiting]] - Limita chamadas por janela
+- [[API Throttling]] - Controle de uso (por exemplo, por plano de serviço)
 - [[Load Shedding]] - Descarta carga para manter sistema
 - [[Circuit Breaker]] - Evita chamar dependências instáveis
 - [[Bulkhead]] - Isolamento de falhas
