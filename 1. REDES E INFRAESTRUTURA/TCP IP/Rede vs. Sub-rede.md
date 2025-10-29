@@ -25,7 +25,7 @@ A **rede** é definida pelo endereço **e** pela máscara de rede. No nosso exem
 A combinação desses dois elementos nos diz que a rede inteira abrange todos os endereços de `192.168.1.0` a `192.168.1.255`, um total de 256 endereços.
 
 #### 2. Criando e Identificando as Sub-redes
-![[1. REDES E INFRAESTRUTURA/TCP IP/img/subnet-img-01.png]]
+![[subnet-img-01.png]]
 Agora, vamos dividir essa rede em duas sub-redes menores para, por exemplo, separar o tráfego de PCs (`Subnet A`) do tráfego de impressoras (`Subnet B`).
 
 Para dividir a rede, alteramos a máscara. Em vez de `/24`, vamos usar `/25`.
