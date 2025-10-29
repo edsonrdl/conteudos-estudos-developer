@@ -15,7 +15,8 @@
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
 - [ ]  [[mTLS]]
-- [ ] [[Service Discovery]]
+- [ ] [[Service Registry ou Service Discovery]
+- [ ] Sidecar
 
 ---
 ## 2. Protocolos de APIs
@@ -158,10 +159,7 @@
 - [ ] [[Contêineres imutáveis e imagens reprodutíveis]]
 - [ ] [[Autoscaling em app e cluster]]
 - [ ] [[12-Factor App]]
-    - Imutabilidade
-    - Observabilidade
-    - by-design
-
+- [ ] [[Configuration Externalization]]
 #### Infrastructure as Code (IaC)
 - [ ]  [[8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md|Terraform]]
 - [[Pulumi]]
@@ -282,6 +280,8 @@
 - [[Clean architecture]]
 - [[MVC]]
 - [[Statefull vs Stateless]]
+- Database per Service
+- Strangler Fig
 ### Performance: Latência & Vazão
 
 - [[Low-Latency]] vs [[High-Throughput]] - Trade-offs
@@ -299,8 +299,10 @@
 - [[Event-Driven Architecture]] (EDA) - Reações a eventos
 - [[Event Streaming]] ([[Kafka]]) - Stream contínuo de eventos
 - [[Kafka]] vs [[RabbitMQ]] - Log distribuído vs message broker
+- Pub sub
 - [[EIP]] & [[ESB]] - Enterprise Integration Patterns
 - [[API Gateway]] - Roteamento, auth, rate limit
+- API Composition
 - [[Coreografia]] vs [[Orquestração]
 - [[Apache Camel]] - Enterprise Integration Patterns
 
@@ -326,6 +328,7 @@
 - [[BASE]] vs [[ACID]] - Eventual vs forte consistência
 - [[Consistência Eventual]]
 - Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
+- Leader Election - Escolha de um nó coordenador em um cluster.edsoOpa
 
 ### Observabilidade
 
