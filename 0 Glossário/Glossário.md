@@ -5,7 +5,7 @@
 
 #redes #infraestrutura
 ### Conceitos Fundamentais
-- [ ]  [[Internet]] [[Low-Latency]] vs [[High-Throughput]] [[Low-Latency]] vs [[High-Throughput]] 
+- [ ]  [[Internet]]
 - [ ]  [[TCP/IP]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
@@ -15,50 +15,52 @@
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
 - [ ]  [[mTLS]]
-- [[Service Discovery]]
+- [ ] [[Service Discovery]]
 
 ---
 ## 2. Protocolos de APIs
 
 #apis #protocolos
 
-- [[API]] - Conceitos gerais
-- [[SOAP]] - Simple Object Access Protocol
-- [[API RESTful]] - Representational State Transfer
-- [[WebSockets]] - Comunicação bidirecional
-- [[gRPC]] - Google Remote Procedure Call
-- - [[Graph ql]] -
+- [ ] [[API]] -
+- [ ] [[SOAP]] - Simple Object Access Protocol
+- [ ] [[API RESTful]] - Representational State Transfer
+- [ ] [[WebSockets]] - Comunicação bidirecional
+- [ ] [[gRPC]] - Google Remote Procedure Call
+- [ ] [[Graph ql]] -
 
 ---
 ## 3. Desenvolvimento Front-End
 
 #frontend #web
 ### Linguagens e Tecnologias Base
-- [[HTML5]]
- - [ ]  [[CSS]] (incluindo [[Sass]] e [[Less]])
-- [[JavaScript]]
-- [[JSON]]
+- [ ]  [[HTML5]]
+- [ ]  [[CSS]]
+- [ ] [[Sass]]
+- [ ] [[JavaScript]]
+- [ ] [[JSON]]
 ### Frameworks e Bibliotecas
-- [[PWA]] - Progressive Web App
-- [[Bootstrap]]
-- [[Angular]]
-- [[VueJS]]
-- [[React]]
-- [[jQuery]]
+- [ ] [[PWA]] - Progressive Web App
+- [ ] [[Bootstrap]]
+- [ ] [[Angular]]
+- [ ] [[VueJS]]
+- [ ] [[React]]
+- [ ] [[jQuery]]
 
 ---
 ## 4. Design e Experiência do Usuário
 
 #ux #design #ui
 ### Princípios de Design
-- [[Usabilidade]]
-- [[UI Design]]
-- [[UX Design]]
+- [ ] [[Usabilidade]]
+- [ ] [[UI Design]]
+- [ ] [[UX Design]]
 ### Ferramentas de Design
 
-- [[Figma]]
-- [[Sketch]]
-- Prototipação e wireframing
+- [ ] [[Figma]]
+- [ ] [[Sketch]]
+- [ ] [[Prototipação]] 
+- [ ] [[Wireframing]]
 
 ---
 ## 5. Desenvolvimento Back-End
@@ -68,38 +70,38 @@
 
 #### Linguagens
 
-- [[PHP]]
-- [[Java]]
-- [[C#]]
-- [[C++]]
-- [[Node.js]] (incluindo [[Express.js]])
-- [[Ruby]]
-- [[Python]]
-- [[Perl]]
-- [[Scala]]
+- [ ] [[PHP]]
+- [ ] [[Java]]
+- [ ] [[C#]]
+- [ ] [[C++]]
+- [ ] [[Node.js]] (incluindo [[Express.js]])
+- [ ] [[Ruby]]
+- [ ] [[Python]]
+- [ ] [[Perl]]
+- [ ] [[Scala]]
 #### Frameworks
 
-- [[.NET Core]]
-- [[ASP .NET Core]]
-- [[Django]]
-- [[Spring Boot]]
+- [ ] [[.NET Core]]
+- [ ] [[ASP .NET Core]]
+- [ ] [[Django]]
+- [ ] [[Spring Boot]]
 ### Arquiteturas de Back-End
 
-- [[SOA]] - Service-Oriented Architecture
-- [[Microsserviços]]
-- [[Arquitetura Hexagonal]]
-- [[Clean Architecture]]
-- [[Arquitetura MVC]]
+- [ ] [[SOA]] - Service-Oriented Architecture
+- [ ] [[Microsserviços]]
+- [ ] [[Arquitetura Hexagonal]]
+- [ ] [[Clean Architecture]]
+- [ ] [[Arquitetura MVC]]
 
 ---
 ## 6. Mobile Development
 
 #mobile #app
 ### Linguagens e Frameworks
-- [[Java]] (Android)
-- [[Kotlin]] (Android)
-- [[React Native]] (Cross-platform)
-- [[Flutter]] (Cross-platform)
+- [ ] [[Java]] (Android)
+- [ ] [[Kotlin]] (Android)
+- [ ] [[React Native]] (Cross-platform)
+- [ ] [[Flutter]] (Cross-platform)
 
 ---
 ## 7. Bancos de Dados e Armazenamento
@@ -107,62 +109,55 @@
 #database #storage #dados
 
 ### Bancos Relacionais
-- [[MySQL]]
-- [[PostgreSQL]]
-- [[SQL Server]]
+- [ ] [[MySQL]]
+- [ ] [[PostgreSQL]]
+- [ ] [[SQL Server]]
 ### Bancos Não-Relacionais
-- [[NoSQL]] - Conceito geral
-- [[MongoDB]]
-- [[Redis]]
+- [ ] [[NoSQL]] - Conceito geral
+- [ ] [[MongoDB]]
+- [ ] [[Redis]]
 ### Conceitos Avançados
 
-- [[OLTP]] vs [[OLAP]]
-- [[Read Replica]]
-- [[Sharding]]
-- [[Partitioning]]
-- [[Event Sourcing]]
-- [[Snapshotting]]
-- [[Schema Registry]]
+- [ ] [[OLTP]] vs [[OLAP]]
+- [ ] [[Read Replica]]
+- [ ] [[Sharding]]
+- [ ] [[Partitioning]]
+- [ ] [[Event Sourcing]]
+- [ ] [[Snapshotting]]
+- [ ] [[Schema Registry]]
 ### Big Data
 
-- [[Apache Spark]]
-- [[Hadoop]]
+- [ ] [[Apache Spark]]
+- [ ] [[Hadoop]]
 ### Big Data e Arquitetura de Dados
 - **Arquiteturas de Dados:**
-    
-    - **[[Data Warehouse]]** - Armazenamento centralizado e estruturado para BI.
-        
-    - **[[Data Lake]]** - Repositório centralizado para dados brutos em grande escala.
-        
-    - **[[Data Mesh]]** - Abordagem descentralizada, tratando dados como produtos.
-        
+- [ ] [[Data Warehouse]] - Armazenamento centralizado e estruturado para BI.
+- [ ] [[Data Lake]] - Repositório centralizado para dados brutos em grande escala.
+- [ ] [[Data Mesh]] - Abordagem descentralizada, tratando dados como produtos.
 - **Ferramentas de Processamento:**
-    
-    - [[Apache Spark]]
-        
-    - [[Hadoop]]
+- [ ] [[Apache Spark]]
+- [ ] [[Hadoop]]
 ---
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
 #devops #infraestrutura #ci-cd
 ### Controle de Versão
-- [[Git]]
-- [[GitHub]]
-- [[GitLab]]
-- [[Bitbucket]]
-- [[GitFlow]]
+- [ ] [[Git]]
+- [ ] [[GitHub]]
+- [ ] [[GitLab]]
+- [ ] [[Bitbucket]]
+- [ ] [[GitFlow]]
 ### Virtualização e Contêineres
-- [[Virtualização]] (VM - Máquina Virtual)
-- [[Docker]]
-- [[Kubernetes]]
-- [[Kind]]
-- [[Minikube]]
+- [ ] [[Virtualização]] 
+- [ ] [[Docker]]
+- [ ] [[Kubernetes]]
+- [ ] [[Kind]]
+- [ ] [[Minikube]]
 ### Cloud-Native
-#### Conceitos
-- Serverless
-- Contêineres imutáveis e imagens reprodutíveis
-- Autoscaling em app e cluster
-- [[12-Factor App]]
+- [ ] [[Serverless]]
+- [ ] [[Contêineres imutáveis e imagens reprodutíveis]]
+- [ ] [[Autoscaling em app e cluster]]
+- [ ] [[12-Factor App]]
     - Imutabilidade
     - Observabilidade
     - by-design
@@ -267,9 +262,7 @@
 ### Métricas e SLAs
 
 - [[SLI/SLO/SLA]]
-
 ### Processos de Testes
-
 - [[Latência]]
 - [[Throughput]]
 
@@ -281,17 +274,25 @@
 
 ### Padrões e Princípios
 
-- [[DESIGN PATTERNS/]] - Padrões de Projeto (GoF)
+- [[DESIGN PATTERNS]] - Padrões de Projeto (GoF)
 - [[Princípios SOLID]] - Base para código coeso e flexível
-- [[Padrões Arquiteturais]] - Hexagonal, [[10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices | Microservices]], Clean, MVC
-- Statefull vs Stateless
-
+- [[Padrões Arquiteturais]] 
+- [[Hexagonal]]
+- [[Microservices]]
+- [[Clean architecture]]
+- [[MVC]]
+- [[Statefull vs Stateless]]
 ### Performance: Latência & Vazão
 
 - [[Low-Latency]] vs [[High-Throughput]] - Trade-offs
 - [[Latency Budget]] - Tempo máximo por request/serviço
-- **Métricas:** p95/p99, RTT, req/s, bytes/s
-- **Táticas:** batching, paralelismo, caching
+- [[Métricas p95/p99]]
+- [[Métricas RTT]]
+- [[Métricas req/s]]
+- [[Métricas bytes/s]]
+- [[Táticas Batching]]
+- [[Táticas Paralelismo]]
+- [[Táticas Caching]]
 
 ### Integração e Mensageria
 
@@ -310,6 +311,9 @@
 - [[API Throttling]] - Controle de uso (por exemplo, por plano de serviço)
 - [[Load Shedding]] - Descarta carga para manter sistema
 - [[Circuit Breaker]] - Evita chamar dependências instáveis
+- Retry Pattern - Permite que uma operação falha seja repetida automaticamente
+- Timeout / Deadline -Define um tempo limite máximo para as chamadas de rede ou operações
+- Fallback Pattern - Fornece uma resposta alternativa (cache, dados padrão).
 - [[Bulkhead]] - Isolamento de falhas
 - [[Caching]] - Melhoria de latência e disponibilidade
 
@@ -318,8 +322,10 @@
 - [[CQRS]] - Command Query Responsibility Segregation
 - [[SAGA]] - Coordenação de transações distribuídas
 - [[CAP Theorem]] - Consistency, Availability, Partition tolerance
+- [[Transactional Outbox Pattern]] - Consistência de dados e eventos em microsserviços
 - [[BASE]] vs [[ACID]] - Eventual vs forte consistência
 - [[Consistência Eventual]]
+- Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
 
 ### Observabilidade
 
@@ -352,6 +358,7 @@
 - [[Algoritmos de Busca]]
 - [[Algoritmos de Ordenação]]
 - [[Complexidade de Algoritmos]] (Big O)
+- Algoritmos de balanceamento ou  ponderado
 
 ---
 
@@ -381,6 +388,7 @@
 
 - [[Criptografia]]
 - [[Autenticação]] e [[Autorização]]
+-  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]] 
 - [[Teste de Penetração]]
 - [[Proteção de Dados Pessoais]]
 
@@ -392,7 +400,7 @@
 ### Controles de Acesso
 
 - [[Rate Limiting]]
-- 
+- [[JWT]] (Padrão para Tokens de Sessão/Acesso)
 ---
 
 ## 14. Inteligência Artificial e Machine Learning
@@ -476,7 +484,7 @@
 
 #testes #qa #testing
 
-### Ferramentas por Categoria
+### Ferramentas por CategoriaE
 
 #### Testes Unitários
 
@@ -495,30 +503,3 @@
 - [[K6]] - Testes de carga para APIs e serviços
 
 ---
-
-## Tags para Organização
-
-### Por Área
-
-- `#frontend` `#backend` `#mobile` `#fullstack`
-- `#devops` `#sre` `#cloud` `#kubernetes`
-- `#database` `#data-engineering` `#big-data`
-- `#ai` `#ml` `#analytics` `#bi`
-- `#security` `#testing` `#qa`
-
-### Por Tecnologia
-
-- `#javascript` `#python` `#java` `#csharp`
-- `#react` `#angular` `#vue` `#node`
-- `#docker` `#kubernetes` `#aws` `#gcp`
-- `#kafka` `#redis` `#mongodb` `#postgresql`
-
-### Por Conceito
-
-- `#architecture` `#design-patterns` `#microservices`
-- `#performance` `#scalability` `#resilience`
-- `#observability` `#monitoring` `#logging`
-
----
-
-_
