@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhecimentos específicos.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conhecimentos específicos"
+              "title": "Fluxo e as Permissões Necessárias terraform"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conhecimentos específicos.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Conhecimentos específicos"
+              "title": "Links inversos para Fluxo e as Permissões Necessárias terraform"
             }
           },
           {
@@ -225,8 +225,11 @@
   },
   "active": "bc8129ec72a61667",
   "lastOpenFiles": [
-    "Proxy.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
     "Conhecimentos específicos.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
+    "Proxy.md",
     "Perfil dev.md",
     "0 Glossário/Glossário.md",
     "Sem título.md",
@@ -249,8 +252,6 @@
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/ESTRUTURA BÁSICA DA MENSAGEM KAFKA.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Evento de mensagens.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka com um schema Registry Sem título AWS Lambda.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O PROBLEMA SEM REPLICAÇÃO.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Microservices/1. O que é Microservices.md",
     "bytes",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/Sem título",
@@ -268,7 +269,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Serverless",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda",
     "Sem título 1.base",
-    "Sem título 9.base",
     "Pasted image 20250407125530.png",
     "Pasted image 20250407125134.png",
     "Sem título.canvas",
