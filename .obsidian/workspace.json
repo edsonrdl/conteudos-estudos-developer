@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/0 TCP IP.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 TCP IP"
+              "title": "🛡️ O que é um Role"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/TCP IP/0 TCP IP.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 TCP IP"
+              "title": "Backlinks for 🛡️ O que é um Role"
             }
           },
           {
@@ -199,12 +199,13 @@
   },
   "active": "7aacec2fe685fec0",
   "lastOpenFiles": [
-    "1. REDES E INFRAESTRUTURA/TCP IP/Explicação resumida do TCP IP, histórico e propósito.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "0 Glossário/Glossário.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/0 TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/TCP IP/Explicação resumida do TCP IP, histórico e propósito.md",
     "1 Practitioner.md",
     "Lambdas.md",
     "5. Desenvolvimento Back-End/Melhores Práticas para Tratamento de Erros Spring Boot vs ASP.NET Core.md",
-    "0 Glossário/Glossário.md",
     "5. Desenvolvimento Back-End/C sharp/C sharp.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "5. Desenvolvimento Back-End/C sharp",
@@ -237,7 +238,6 @@
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/1.1 Conceito Fundamental.md",
     "7. Bancos de Dados e Armazenamento de Dados/Snapshotting.md",
     "7. Bancos de Dados e Armazenamento de Dados/Sharding.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/1. O que é Garbage Collection",
     "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP",
     "TCP IP  1. REDES E INFRAESTRUTURA",
