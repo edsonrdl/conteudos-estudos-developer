@@ -329,7 +329,7 @@
 - [[BASE]] vs [[ACID]] - Eventual vs forte consistência
 - [[Consistência Eventual]]
 - Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
-- Leader Election - Escolha de um nó coordenador em um cluster.edsoOpa
+- Leader Election - Escolha de um nó coordenador em um cluster.
 
 ### Observabilidade
 
