@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🛡️ O que é um Role"
+              "title": "Glossário"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🛡️ O que é um Role"
+              "title": "Backlinks for Glossário"
             }
           },
           {
@@ -197,8 +197,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7aacec2fe685fec0",
+  "active": "eb42f7836ede1533",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
     "0 Glossário/Glossário.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/0 TCP IP.md",
@@ -237,7 +238,6 @@
     "7. Bancos de Dados e Armazenamento de Dados/Sub consultas sql banco de dados.md",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/1.1 Conceito Fundamental.md",
     "7. Bancos de Dados e Armazenamento de Dados/Snapshotting.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Sharding.md",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/1. O que é Garbage Collection",
     "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP",
     "TCP IP  1. REDES E INFRAESTRUTURA",
