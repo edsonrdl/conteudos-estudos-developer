@@ -325,6 +325,7 @@
 - [[CQRS]] - Command Query Responsibility Segregation
 - [[SAGA]] - Coordenação de transações distribuídas
 - [[CAP Theorem]] - Consistency, Availability, Partition tolerance
+- [[Teorema PACELC]] - 
 - [[Transactional Outbox Pattern]] - Consistência de dados e eventos em microsserviços
 - [[BASE]] vs [[ACID]] - Eventual vs forte consistência
 - [[Consistência Eventual]]
