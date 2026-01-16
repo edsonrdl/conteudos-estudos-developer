@@ -10,13 +10,14 @@
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
 - [ ]  [[Firewalls]]
+- [ ]  [[Proxy]]
 - [ ]  [[Virtualização]]
 ### Arquitetura de Serviços
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
-- [ ]  [[mTLS]]
 - [ ] [[Service Registry ou Service Discovery]
 - [ ] [Sidecar] - Ambassador, Envoy, Nginx
+- [ ] [[mTLS]]
 
 ---
 ## 2. Protocolos de APIs
@@ -273,8 +274,8 @@
 ### Padrões e Princípios
 
  - [ ] **[[Domain-Driven Design (DDD)]]**
-- - [[DESIGN PATTERNS]] - Padrões de Projeto (GoF)
-- [[Princípios SOLID]] - Base para código coeso e flexível
+- - [[DESIGN PATTERNS]]
+- [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md|Princípios SOLID]]
 - [[Padrões Arquiteturais]] 
 - [[Hexagonal]]
 - [[Microservices]]
@@ -285,16 +286,10 @@
 - Strangler Fig
 ### Performance: Latência & Vazão
 
-- [[Low-Latency]] vs [[High-Throughput]] - Trade-offs
-- [[Latency Budget]] - Tempo máximo por request/serviço
-- [[Métricas p95/p99]]
-- [[Métricas RTT]]
-- [[Métricas req/s]]
-- [[Métricas bytes/s]]
-- [[Táticas Batching]]
-- [[Táticas Paralelismo]]
-- [[Táticas Caching]]
-
+- [ ] [[Latência vs Throughput]] — **(Nova Nota)**: O trade-off fundamental (Item 1, 2 e 3 da sua lista).
+- [ ] [[Latency Budgeting]] — Tempo máximo aceitável por request.
+- [[Métricas p95 e p99]] — Como medir a experiência real.
+- [ ] [[Táticas de Otimização]] — (Batching, Paralelismo, Caching).
 ### Integração e Mensageria
 
 - [[Event-Driven Architecture]] (EDA) - Reações a eventos
