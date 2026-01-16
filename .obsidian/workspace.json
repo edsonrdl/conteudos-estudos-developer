@@ -24,63 +24,21 @@
             }
           },
           {
-            "id": "6774449a79c46d6a",
+            "id": "80c49d1e1fa76dae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhecimentos específicos.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conhecimentos específicos"
-            }
-          },
-          {
-            "id": "30aaea1109d3db54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proxy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proxy"
-            }
-          },
-          {
-            "id": "cd5c58438ed67d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Métricas p95 e p99.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Métricas p95 e p99"
-            }
-          },
-          {
-            "id": "745bf52e97b9efb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perfil dev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perfil dev"
+              "title": "0 TCP IP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perfil dev.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perfil dev"
+              "title": "Backlinks for 0 TCP IP"
             }
           },
           {
@@ -225,17 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "745bf52e97b9efb8",
+  "active": "80c49d1e1fa76dae",
   "lastOpenFiles": [
     "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais",
+    "Perfil dev.md",
     "Conhecimentos específicos.md",
     "Métricas p95 e p99.md",
-    "Proxy.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/0 TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Endereçamento IP, máscara de rede e sub redes.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Classes  A B C.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
-    "Perfil dev.md",
+    "1. REDES E INFRAESTRUTURA/Proxy.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Endereçamento IP, máscara de rede e sub redes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Classes  A B C.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2 Como Funciona o TCP IP.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "Poc (Prova de conceito).md",
     "10. Arquitetura de Software e Design de Software/Dados e Consistência/Theorem CAP.md",
@@ -248,13 +207,12 @@
     "Jump Box  Bastion Host.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Explicação resumida do TCP IP, histórico e propósito.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Explicação resumida do TCP IP, histórico e propósito.md",
     "1 Practitioner.md",
     "Lambdas.md",
     "5. Desenvolvimento Back-End/Melhores Práticas para Tratamento de Erros Spring Boot vs ASP.NET Core.md",
     "5. Desenvolvimento Back-End/C sharp/C sharp.md",
     "5. Desenvolvimento Back-End/C sharp",
-    "7. Bancos de Dados e Armazenamento de Dados/OLTP VS OLAP.md",
     "7. Bancos de Dados e Armazenamento de Dados/MongoDb",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/DocumentDb",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
@@ -272,7 +230,6 @@
     "TCP IP  1. REDES E INFRAESTRUTURA",
     "TCP",
     "7. Bancos de Dados e Armazenamento de Dados/Arquitetura de dados",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
