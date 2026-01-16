@@ -125,15 +125,15 @@
 
 ## 🧠 Conceitos adicionais para decisões técnicas melhores
 
-|Conceito|O que é|Aplicação|
-|---|---|---|
-|**Backpressure**|Sistema avisa quando não consegue receber mais|Kafka, Reactive Streams|
-|**Idempotência**|Repetir a mesma operação sem efeito colateral|Requisições de API seguras|
-|**Consistência eventual**|Dados ficam consistentes com o tempo|Arquiteturas distribuídas|
-|**CQRS**|Separação de leitura e escrita|Alta performance, leitura rápida|
-|**SAGA Pattern**|Coordenação de transações distribuídas|Integração entre microsserviços|
-|**CAP Theorem**|Escolha entre Consistência, Disponibilidade, Partição|Bancos distribuídos|
-|**Latency Budget**|Tempo total permitido para cada request|Design para APIs e integrações|
+| Conceito                  | O que é                                               | Aplicação                        |
+| ------------------------- | ----------------------------------------------------- | -------------------------------- |
+| **Backpressure**          | Sistema avisa quando não consegue receber mais        | Kafka, Reactive Streams          |
+| **Idempotência**          | Repetir a mesma operação sem efeito colateral         | Requisições de API seguras       |
+| **Consistência eventual** | Dados ficam consistentes com o tempo                  | Arquiteturas distribuídas        |
+| **CQRS**                  | Separação de leitura e escrita                        | Alta performance, leitura rápida |
+| **SAGA Pattern**          | Coordenação de transações distribuídas                | Integração entre microsserviços  |
+| **CAP Theorem**           | Escolha entre Consistência, Disponibilidade, Partição | Bancos distribuídos              |
+| **Latency Budget**        | Tempo total permitido para cada request               | Design para APIs e integrações   |
 
 ---
 
@@ -171,15 +171,15 @@
 
 ## ⏱️ **Desempenho e Escalabilidade**
 
-|Conceito|Descrição|
-|---|---|
-|**Latency vs Throughput**|Já visto: tempo de resposta vs volume processado.|
-|**Backpressure**|Controle de fluxo para evitar sobrecarga.|
-|**Rate Limiting**|Limite de requisições por tempo (segurança e desempenho).|
-|**Load Shedding**|Rejeitar requisições para manter o sistema estável.|
-|**Circuit Breaker**|Bloqueia chamadas a sistemas instáveis.|
-|**Bulkhead**|Isola falhas por tipo de operação.|
-|**Caching**|Memória temporária para acelerar respostas (ex: Redis, CDN).|
+| Conceito                  | Descrição                                                    |
+| ------------------------- | ------------------------------------------------------------ |
+| **Latency vs Throughput** | Já visto: tempo de resposta vs volume processado.            |
+| **Backpressure**          | Controle de fluxo para evitar sobrecarga.                    |
+| **Rate Limiting**         | Limite de requisições por tempo (segurança e desempenho).    |
+| **Load Shedding**         | Rejeitar requisições para manter o sistema estável.          |
+| **Circuit Breaker**       | Bloqueia chamadas a sistemas instáveis.                      |
+| **Bulkhead**              | Isola falhas por tipo de operação.                           |
+| **Caching**               | Memória temporária para acelerar respostas (ex: Redis, CDN). |
 
 ---
 
@@ -224,15 +224,15 @@
 
 ## 🧠 **Princípios e Teorias**
 
-|Conceito|Descrição|
-|---|---|
-|**CAP Theorem**|Não é possível garantir Consistência, Disponibilidade e Tolerância à Partição ao mesmo tempo.|
-|**BASE vs ACID**|BASE (eventualmente consistente) vs ACID (fortemente consistente).|
-|**Idempotência**|Mesma operação executada múltiplas vezes não muda o resultado final.|
-|**Resiliência vs Robustez**|Resiliência: recuperar rápido; Robustez: resistir a falhas.|
-|**Fail Fast vs Retry**|Falhar imediatamente ou tentar de novo.|
-|**Latency Budgeting**|Tempo máximo aceitável por serviço num request encadeado.|
-|**SLI / SLO / SLA**|Indicadores e metas de qualidade do serviço.|
+| Conceito                    | Descrição                                                                                     |
+| --------------------------- | --------------------------------------------------------------------------------------------- |
+| **CAP Theorem**             | Não é possível garantir Consistência, Disponibilidade e Tolerância à Partição ao mesmo tempo. |
+| **BASE vs ACID**            | BASE (eventualmente consistente) vs ACID (fortemente consistente).                            |
+| **Idempotência**            | Mesma operação executada múltiplas vezes não muda o resultado final.                          |
+| **Resiliência vs Robustez** | Resiliência: recuperar rápido; Robustez: resistir a falhas.                                   |
+| **Fail Fast vs Retry**      | Falhar imediatamente ou tentar de novo.                                                       |
+| **Latency Budgeting**       | Tempo máximo aceitável por serviço num request encadeado.                                     |
+| **SLI / SLO / SLA**         | Indicadores e metas de qualidade do serviço.                                                  |
 
 ---
 
@@ -250,23 +250,3 @@
 ---
 
 
-## 🎯 Dica Extra: Repositório de Estudos
-
-Você pode manter um repositório chamado `arquitetura-avancada-notes`, com os tópicos acima organizados assim:
-
-```
-CopiarEditar
-📁 arquitetura-avancada-notes
-├── README.md
-├── 🔁-integracao/
-│   ├── api-gateway.md
-│   └── service-mesh.md
-├── ⏱️-performance/
-│   ├── latency-vs-throughput.md
-│   └── circuit-breaker.md
-├── 🔐-seguranca/
-├── 🔎-observabilidade/
-├── 📦-dados/
-└── 🧠-teoria/
-
-```
