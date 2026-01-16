@@ -274,7 +274,7 @@
 ### Padrões e Princípios
 
  - [ ] **[[Domain-Driven Design (DDD)]]**
-- - [[DESIGN PATTERNS]]
+- [[DESIGN PATTERNS]]
 - [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md|Princípios SOLID]]
 - [[Padrões Arquiteturais]] 
 - [[Hexagonal]]
