@@ -24,15 +24,61 @@
             }
           },
           {
-            "id": "3e2d643f1431538f",
+            "id": "4652c72d5101f0ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0 TCP IP"
+            }
+          },
+          {
+            "id": "505b5106d06f7afb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png"
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "subnet-img-02"
+              "icon": "lucide-file",
+              "title": "4. Redes e Sub-redes"
+            }
+          },
+          {
+            "id": "6d1c378a88214460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Redes e Sub-redes"
+            }
+          },
+          {
+            "id": "920ffd7d63382f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Protocolos TCP e UDP"
             }
           }
         ],
@@ -109,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for subnet-img-02"
+              "title": "Backlinks for 0 TCP IP"
             }
           },
           {
@@ -181,28 +227,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e2d643f1431538f",
+  "active": "4652c72d5101f0ff",
   "lastOpenFiles": [
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Sub-redes (Subnets).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Classes  A B C.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
+    "0 Glossário/Glossário.md",
+    "Conhecimentos específicos.md",
+    "Domain-Driven Design (DDD).md",
+    "Lambdas.md",
+    "Métricas p95 e p99.md",
+    "Perfil dev.md",
+    "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
     "1. REDES E INFRAESTRUTURA/Internet.md",
-    "0 Glossário/Glossário.md",
     "10. Arquitetura de Software e Design de Software/Performance  Latência & Vazão/Métricas p95 e p99.md",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Domain Diven Design DDD/01 Introdução DDD.md",
     "Transactions Per Second.md",
-    "Domain-Driven Design (DDD).md",
     "10. Arquitetura de Software e Design de Software/Performance  Latência & Vazão",
     "10. Arquitetura de Software e Design de Software/Observabilidade",
     "10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Timeout e Retry  contextos.md",
     "10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais",
-    "Perfil dev.md",
-    "Conhecimentos específicos.md",
-    "Métricas p95 e p99.md",
     "1. REDES E INFRAESTRUTURA/Proxy.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Endereçamento IP, máscara de rede e sub redes.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/Classes  A B C.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2 Como Funciona o TCP IP.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "Poc (Prova de conceito).md",
     "10. Arquitetura de Software e Design de Software/Dados e Consistência/Theorem CAP.md",
@@ -210,10 +262,6 @@
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios",
     "Complexidade de Algoritmos O(n).md",
-    "Algoritmos de Busca Linear.md",
-    "Erros Críticos em Programação.md",
-    "Jump Box  Bastion Host.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
     "5. Desenvolvimento Back-End/C sharp",
     "7. Bancos de Dados e Armazenamento de Dados/MongoDb",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/DocumentDb",
@@ -225,8 +273,6 @@
     "10. Arquitetura de Software e Design de Software/img/img-design-patterns-singleton.png",
     "Pasted image 20250917010002.png",
     "Pasted image 20250407130244.png",
-    "Pasted image 20250407130221.png",
-    "Pasted image 20250407130131.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/1. O que é Garbage Collection",
     "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP",
     "Sem título.canvas",
