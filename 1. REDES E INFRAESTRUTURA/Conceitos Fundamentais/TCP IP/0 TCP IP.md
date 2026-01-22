@@ -3,21 +3,19 @@
 
 ---
 
-## 1. Visão Geral
+## [[1. Visão Geral|1. Visão Geral]]
 Explicação resumida do TCP/IP, histórico e propósito.
 
 ---
 
-## 2. Como Funciona o TCP/IP
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md|2. Como Funciona o TCP/IP]]
 - Explicação da pilha
 - OSI vs TCP/IP
 - Encapsulamento
 
-[[Pilha OSI]] se quiser linkar para outro arquivo
-
 ---
 
-## 3. Endereçamento IP
+## [[3. Endereçamento IP|3. Endereçamento IP]]
 ### 3.1 Classes A, B, C
 - O que são
 - Intervalos
@@ -33,7 +31,7 @@ Explicação resumida do TCP/IP, histórico e propósito.
 
 ---
 
-## 4. Redes e Sub-redes
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md|4. Redes e Sub-redes]]
 ### 4.1 Diferença entre Rede e Sub-rede
 ### 4.2 Sub-redes (Subnets)
 ### 4.3 Como calcular sub-redes (com exemplos)
@@ -41,7 +39,7 @@ Explicação resumida do TCP/IP, histórico e propósito.
 
 ---
 
-## 5. Protocolos TCP e UDP
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md|5. Protocolos TCP e UDP]]
 ### 5.1 TCP
 ### 5.2 UDP
 ### 5.3 Diferenças e casos de uso
