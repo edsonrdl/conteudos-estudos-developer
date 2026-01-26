@@ -3,7 +3,7 @@
 
 ---
 
-## [[1. Visão Geral|1. Visão Geral]]
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral|1. Visão Geral]]
 Explicação resumida do TCP/IP, histórico e propósito.
 
 ---
