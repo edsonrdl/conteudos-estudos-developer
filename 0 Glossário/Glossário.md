@@ -332,6 +332,7 @@
 - **Três Pilares:** [[Logs]], [[Métricas]], [[Traces]]
 - [[Tracing Distribuído]] - Rastreamento ponta a ponta
 - [[SLOs]] & [[Latency Budget]] - Metas guiando alertas
+- [[0 Correlation ID (Glossário)]]
 
 ---
 
