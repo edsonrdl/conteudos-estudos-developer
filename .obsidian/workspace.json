@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
+                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS"
+              "title": "Arquitetura Avançada e Dinâmica Operacional do Apache Kafka"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
+                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS"
+              "title": "Links inversos para Arquitetura Avançada e Dinâmica Operacional do Apache Kafka"
             }
           },
           {
@@ -213,9 +213,9 @@
   },
   "active": "94c2d92ba6f44291",
   "lastOpenFiles": [
-    "Poc (Prova de conceito).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
+    "Poc (Prova de conceito).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/A VM e o Processo.md",
