@@ -309,8 +309,8 @@
 - [[API Throttling]] - Controle de uso (por exemplo, por plano de serviço)
 - [[Load Shedding]] - Descarta carga para manter sistema
 - [[Circuit Breaker]] - Evita chamar dependências instáveis
-- Retry Pattern - Permite que uma operação falha seja repetida automaticamente
-- Timeout / Deadline -Define um tempo limite máximo para as chamadas de rede ou operações
+- [[ |Retry Pattern]] - Permite que uma operação falha seja repetida automaticamente
+- [[10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Timeout Patterns.md |Timeout / Deadline Pattern]] -Define um tempo limite máximo para as chamadas de rede ou operações
 - Fallback Pattern - Fornece uma resposta alternativa (cache, dados padrão).
 - [[Bulkhead]] - Isolamento de falhas
 - [[Caching]] - Melhoria de latência e disponibilidade
