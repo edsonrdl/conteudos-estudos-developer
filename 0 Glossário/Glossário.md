@@ -403,7 +403,8 @@
 
 - [[Criptografia]]
 - [[Autenticação]] e [[Autorização]]
--  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]] 
+-  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]]
+- [ ] [[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md |SSL e TLS]] -  O protocolo prático de segurança.
 - [[Teste de Penetração]]
 - [[Proteção de Dados Pessoais]]
 
