@@ -87,7 +87,7 @@
     - AWS Direct Connect
     - Internet pública
 
-#### 3.2 Infraestrutura global da AWS
+#### [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md|3.2 Infraestrutura global da AWS]]
 
 - **Componentes**
     - Regiões (Regions)
