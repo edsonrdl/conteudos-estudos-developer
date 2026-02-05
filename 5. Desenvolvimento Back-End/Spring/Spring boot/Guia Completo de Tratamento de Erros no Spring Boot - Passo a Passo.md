@@ -73,8 +73,6 @@ public class ErrorResponse {
 
 ### **Passo 2: Criar Exceções Customizadas do Domínio**
 
-java
-
 ```java
 // ResourceNotFoundException.java
 package com.exemplo.exception;
