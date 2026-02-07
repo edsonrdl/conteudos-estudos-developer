@@ -29,16 +29,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
+                "file": "Certificacoes estudos/Certificacoes linguagens frameworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eventos transacionais (@TransactionalEventListener)"
+              "title": "Certificacoes linguagens frameworks"
+            }
+          },
+          {
+            "id": "028837bd63cc6a28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.7"
+            }
+          },
+          {
+            "id": "cfd91de312338a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conteúdo de estudos Architect – Associate"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
+                "file": "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Eventos transacionais (@TransactionalEventListener)"
+              "title": "Links inversos para Conteúdo de estudos Architect – Associate"
             }
           },
           {
@@ -183,12 +209,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8b59a9862cea6b9b",
+  "active": "cfd91de312338a51",
   "lastOpenFiles": [
+    "Certificacoes estudos/aws/As Certificações AWS.md",
+    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "Certificacoes estudos/Arquiteto.md",
+    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
+    "Certificacoes estudos/aws",
+    "Prompt de pesquisa avançada.md",
+    "Readme.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Guia Completo de Tratamento de Erros no Spring Boot - Passo a Passo.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
@@ -201,7 +234,6 @@
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
     "Erros Críticos em Programação.md",
-    "Certificacoes estudos/Arquiteto.md",
     "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md",
     "TCP/IP.md",
     "Complexidade de Algoritmos O(n).md",
@@ -211,19 +243,13 @@
     "Sem título.base",
     "0 Glossário/Glossário.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Abrangente de Infraestrutura Global da AWS  Arquitetura, Componentes e Resiliência Operacional.md",
-    "Sem título.md",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS",
-    "Lambdas.md",
-    "Métricas p95 e p99.md",
-    "Perfil dev.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID",
     "10. Arquitetura de Software e Design de Software/Observabilidade",
-    "10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
     "10. Arquitetura de Software e Design de Software/img/img-transactional-outbox pattern.png",
     "10. Arquitetura de Software e Design de Software/img/img-hexagonal-2.png",
