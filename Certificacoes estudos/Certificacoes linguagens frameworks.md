@@ -34,9 +34,9 @@ A Oracle é a responsável oficial pelas certificações Java:
 
 Para Angular, a certificação mais notável é oferecida por organizações reconhecidas por Google Developer Experts (GDEs):
 
-|**Certificação**|**Provedor**|**Nível**|**Formato**|
-|---|---|---|---|
-|**Angular Certification**|Organizações como **Angular Training** / **Certificates.dev** (Criada por GDEs)|Junior, Mid-Level, Senior|Envolve prova de múltipla escolha, **desafio prático de codificação (mini-projeto)** e, para os níveis mais altos, uma **entrevista** com um Expert.|
+| **Certificação**          | **Provedor**                                                                    | **Nível**                 | **Formato**                                                                                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Angular Certification** | Organizações como **Angular Training** / **Certificates.dev** (Criada por GDEs) | Junior, Mid-Level, Senior | Envolve prova de múltipla escolha, **desafio prático de codificação (mini-projeto)** e, para os níveis mais altos, uma **entrevista** com um Expert. |
 
 ---
 
