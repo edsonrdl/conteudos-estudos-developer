@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+                "file": "Jump Box  Bastion Host.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 AWS (Glossário )"
+              "title": "Jump Box  Bastion Host"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 444.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+                "file": "Jump Box  Bastion Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 AWS (Glossário )"
+              "title": "Backlinks for Jump Box  Bastion Host"
             }
           },
           {
@@ -225,15 +225,28 @@
   },
   "active": "6710fd0652f99b30",
   "lastOpenFiles": [
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/4.2. REPLICASET.md",
     "Complexidade de Algoritmos O(n).md",
-    "Conhecimentos específicos.md",
-    "Transactions Per Second.md",
+    "Lambdas.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+    "Métricas p95 e p99.md",
     "Sem título 2.base",
     "Sem título 1.base",
     "Sem título.base",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/DocumentDb/DocumentDb.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE/ETL e Governança de Dados.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/AWS IAM - Guia Completo de Permissões.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/4.2. REPLICASET.md",
+    "Conhecimentos específicos.md",
+    "Transactions Per Second.md",
     "Readme.md",
     "1. REDES E INFRAESTRUTURA/Proxy.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
@@ -244,24 +257,11 @@
     "Certificacoes estudos/aws",
     "Prompt de pesquisa avançada.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Guia Completo de Tratamento de Erros no Spring Boot - Passo a Passo.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID/0 Correlation ID (Glossário).md",
-    "10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Retry Patterns.md",
     "13. Segurança da Informação/img/jwt-structure.png",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID",
     "10. Arquitetura de Software e Design de Software/Observabilidade",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
