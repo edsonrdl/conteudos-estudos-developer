@@ -1,4 +1,4 @@
-## Resumo Executivo e Filosofia Arquitetônica
+# Resumo Executivo e Filosofia Arquitetônica
 
 A infraestrutura global da Amazon Web Services (AWS) representa um dos empreendimentos de engenharia distribuída mais complexos e ambiciosos da era moderna. Não se trata meramente de uma coleção de servidores dispersos geograficamente, mas de um sistema integrado, projetado sob uma filosofia rigorosa de isolamento de falhas, redundância em camadas e capacidade elástica aparentemente infinita. Este relatório disseca a anatomia dessa infraestrutura, desde os cabos de fibra óptica submarinos que formam seu backbone até as unidades lógicas de computação na borda das redes 5G, analisando como cada componente contribui para os imperativos de alta disponibilidade, baixa latência e soberania de dados que definem a computação em nuvem contemporânea.
 

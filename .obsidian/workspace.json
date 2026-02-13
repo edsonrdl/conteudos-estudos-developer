@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Conteúdo de estudos Architect – Associate"
             }
+          },
+          {
+            "id": "6710fd0652f99b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 AWS (Glossário )"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Conteúdo de estudos Architect – Associate"
+              "title": "Backlinks for 0 AWS (Glossário )"
             }
           },
           {
@@ -200,24 +214,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "cfd91de312338a51",
+  "active": "6710fd0652f99b30",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/4.2. REPLICASET.md",
+    "Complexidade de Algoritmos O(n).md",
+    "Conhecimentos específicos.md",
+    "Transactions Per Second.md",
+    "Sem título 2.base",
+    "Sem título 1.base",
+    "Sem título.base",
+    "Readme.md",
+    "1. REDES E INFRAESTRUTURA/Proxy.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
     "Certificacoes estudos/aws/As Certificações AWS.md",
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
     "Certificacoes estudos/Arquiteto.md",
     "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "Certificacoes estudos/aws",
     "Prompt de pesquisa avançada.md",
-    "Readme.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Guia Completo de Tratamento de Erros no Spring Boot - Passo a Passo.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Clico de vida de um Bean.md",
@@ -227,21 +252,10 @@
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
     "10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID/0 Correlation ID (Glossário).md",
-    "Sem título 2.base",
-    "Sem título 1.base",
     "10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Retry Patterns.md",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
-    "Erros Críticos em Programação.md",
-    "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md",
-    "TCP/IP.md",
-    "Complexidade de Algoritmos O(n).md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/🚀 1. O que é Event Listener e Pub Sub.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/✅ O que é @EventListener no Spring.md",
-    "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
-    "Sem título.base",
-    "0 Glossário/Glossário.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
