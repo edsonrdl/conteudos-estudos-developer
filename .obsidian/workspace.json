@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jump Box  Bastion Host.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jump Box  Bastion Host"
+              "title": "2. Como Funciona o TCP IP"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jump Box  Bastion Host.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jump Box  Bastion Host"
+              "title": "Backlinks for 2. Como Funciona o TCP IP"
             }
           },
           {
@@ -225,6 +225,8 @@
   },
   "active": "6710fd0652f99b30",
   "lastOpenFiles": [
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+    "Jump Box  Bastion Host.md",
     "Complexidade de Algoritmos O(n).md",
     "Lambdas.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
@@ -255,8 +257,6 @@
     "Certificacoes estudos/Arquiteto.md",
     "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "Certificacoes estudos/aws",
-    "Prompt de pesquisa avançada.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
     "13. Segurança da Informação/img/jwt-structure.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS",
