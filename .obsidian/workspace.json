@@ -24,61 +24,35 @@
             }
           },
           {
-            "id": "8b59a9862cea6b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certificacoes estudos/Certificacoes linguagens frameworks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Certificacoes linguagens frameworks"
-            }
-          },
-          {
-            "id": "028837bd63cc6a28",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.7"
-            }
-          },
-          {
-            "id": "cfd91de312338a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conteúdo de estudos Architect – Associate"
-            }
-          },
-          {
             "id": "6710fd0652f99b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Como Funciona o TCP IP"
+              "title": "Guia de rede AWS VPC para ambientes de produção"
+            }
+          },
+          {
+            "id": "2b94f8e5d6b56c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VLSM (Variable Length Subnet Mask) - Nível Especialista"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Como Funciona o TCP IP"
+              "title": "Backlinks for VLSM (Variable Length Subnet Mask) - Nível Especialista"
             }
           },
           {
@@ -223,39 +197,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "6710fd0652f99b30",
+  "active": "2b94f8e5d6b56c42",
   "lastOpenFiles": [
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IP de Rede vs. IP de Broadcast vs. Hosts.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE/ETL e Governança de Dados.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
     "Jump Box  Bastion Host.md",
     "Complexidade de Algoritmos O(n).md",
     "Lambdas.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
     "Métricas p95 e p99.md",
     "Sem título 2.base",
     "Sem título 1.base",
     "Sem título.base",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/DocumentDb/DocumentDb.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE/ETL e Governança de Dados.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/AWS IAM - Guia Completo de Permissões.md",
     "8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/4.2. REPLICASET.md",
     "Conhecimentos específicos.md",
     "Transactions Per Second.md",
-    "Readme.md",
-    "1. REDES E INFRAESTRUTURA/Proxy.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "Certificacoes estudos/aws/As Certificações AWS.md",
-    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
-    "Certificacoes estudos/Arquiteto.md",
-    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "Certificacoes estudos/aws",
     "13. Segurança da Informação/img/jwt-structure.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
