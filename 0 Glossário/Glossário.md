@@ -110,10 +110,15 @@
 
 #database #storage #dados
 
+### Fundamentos de Banco de dados Relacionais
+- [ ] Introdução a banco de dados Relacional
+- [ ] SQL
 ### Bancos Relacionais
 - [ ] [[MySQL]]
 - [ ] [[PostgreSQL]]
 - [ ] [[SQL Server]]
+### Fundamentos de Banco de dados Não Relacional
+- [ ] Introdução a banco de dados Não Relacional
 ### Bancos Não-Relacionais
 - [ ] [[NoSQL]] - Conceito geral
 - [ ] [[7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/MONGODB/MONGODB]]
