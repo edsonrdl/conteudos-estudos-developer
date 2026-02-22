@@ -24,35 +24,119 @@
             }
           },
           {
-            "id": "e8160dd9a7ac65a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Visão Geral"
-            }
-          },
-          {
             "id": "4c1bbdfcd82143fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
+                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/0 Glossário ( Spring boot ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Glossário ( Java )"
+              "title": "0 Glossário ( Spring boot )"
+            }
+          },
+          {
+            "id": "91874faa26e946ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Glossário ( Angular )"
+            }
+          },
+          {
+            "id": "386676ca7bbb07cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.1. INTRODUÇÃO/INTRODUÇÃO BANCO DE DADOS RELACIONAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUÇÃO BANCO DE DADOS RELACIONAL"
+            }
+          },
+          {
+            "id": "2f9f86a9c8b2be54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.3. AVAÇADO/AVANÇADO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVANÇADO"
+            }
+          },
+          {
+            "id": "105e2709cef2df8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.1. INTRODUÇÃO/INTRODUÇÃO BANCO DE DADOS RELACIONAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUÇÃO BANCO DE DADOS RELACIONAL"
+            }
+          },
+          {
+            "id": "e4cc07c8ce807fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schema Registry"
+            }
+          },
+          {
+            "id": "f637055fdb7e23a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/0 Glossário (Fundamentos de Banco de dados Relacionais).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Glossário (Fundamentos de Banco de dados Relacionais)"
+            }
+          },
+          {
+            "id": "5c500aa567a8865b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Glossário (MongoDb)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -72,7 +156,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -125,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
+                "file": "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 Glossário ( Java )"
+              "title": "Backlinks for 0 Glossário (MongoDb)"
             }
           },
           {
@@ -197,54 +281,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c1bbdfcd82143fd",
+  "active": "5c500aa567a8865b",
   "lastOpenFiles": [
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "7. Bancos de Dados e Armazenamento de Dados/2 SQL/0 Glossário ( SQL ).md",
     "0 Glossário/Glossário.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
-    "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
-    "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis com final.md",
-    "5. Desenvolvimento Back-End/JAVA/Java.md",
-    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Visão Geral da Java Collections Framework.md",
-    "5. Desenvolvimento Back-End/JAVA/Estrutura de dados/Guia Completo Estruturas de Dados em Java.md",
-    "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IP de Rede vs. IP de Broadcast vs. Hosts.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+    "7. Bancos de Dados e Armazenamento de Dados/2 SQL",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/0 Glossário (Fundamentos de Banco de dados Relacionais).md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.1. INTRODUÇÃO/INTRODUÇÃO BANCO DE DADOS RELACIONAL.md",
+    "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
+    "7. Bancos de Dados e Armazenamento de Dados/Sharding.md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.3. AVAÇADO/AVANÇADO.md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.4. TCL.md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.3. DQL.md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.2. DML.md",
+    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.1. DDL.md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass/0 Glossário ( Sass ).md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
+    "Pasted image 20260222171047.png",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Untitled",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Organização dos Services camada.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Funciona o HttpInterceptor Multi-API.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Arquitetura Angular - Guia de Boas Práticas.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript/0 Glossário (javaScript).md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Css/0 Glossário ( Css).md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/html/0 Glossário ( html ).md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Css",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Untitled.md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/html",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/0 Glossário ( Spring boot ).md",
+    "5. Desenvolvimento Back-End/Node.js",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE/ETL e Governança de Dados.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
-    "Jump Box  Bastion Host.md",
-    "Complexidade de Algoritmos O(n).md",
-    "Lambdas.md",
-    "Métricas p95 e p99.md",
     "Sem título 2.base",
-    "Sem título 1.base",
-    "Sem título.base",
-    "Certificacoes estudos/aws",
     "13. Segurança da Informação/img/jwt-structure.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS",
-    "10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID",
-    "10. Arquitetura de Software e Design de Software/Observabilidade",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
     "10. Arquitetura de Software e Design de Software/img/img-transactional-outbox pattern.png",
     "10. Arquitetura de Software e Design de Software/img/img-hexagonal-2.png",
     "10. Arquitetura de Software e Design de Software/img/img-hexagonal-1.png",
     "10. Arquitetura de Software e Design de Software/img/img-clean-architecture.png",
     "10. Arquitetura de Software e Design de Software/img/img-design-patterns-singleton.png",
-    "Pasted image 20250917010002.png",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
