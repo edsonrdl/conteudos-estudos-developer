@@ -127,12 +127,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
+                "file": "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Glossário (MongoDb)"
+              "title": "Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
             }
           }
         ],
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
+                "file": "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 Glossário (MongoDb)"
+              "title": "Backlinks for Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
             }
           },
           {
@@ -283,6 +283,10 @@
   },
   "active": "5c500aa567a8865b",
   "lastOpenFiles": [
+    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
+    "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
+    "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL/0 Glossário ( SQL ).md",
     "0 Glossário/Glossário.md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL",
@@ -310,14 +314,10 @@
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript/0 Glossário (javaScript).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Css/0 Glossário ( Css).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/html/0 Glossário ( html ).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Css",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Untitled.md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/html",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/0 Glossário ( Spring boot ).md",
     "5. Desenvolvimento Back-End/Node.js",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
