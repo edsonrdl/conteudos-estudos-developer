@@ -240,3 +240,7 @@ A sustentabilidade também é impulsionada pelo hardware personalizado. Os proce
 A infraestrutura global da AWS é um organismo vivo em constante expansão e evolução. Ela transcende a definição tradicional de hospedagem de TI, oferecendo uma plataforma programável que abrange desde o fundo do oceano até a borda do espaço (com serviços como AWS Ground Station).
 
 Para arquitetos e líderes de tecnologia, a mensagem é clara: a resiliência não é um produto que se compra, mas um resultado que se arquiteta. A infraestrutura da AWS fornece as ferramentas — Regiões isoladas, AZs redundantes, redes de borda aceleradas e extensões híbridas — mas cabe ao usuário combiná-las eficazmente. A compreensão profunda desses componentes, suas limitações físicas (como a latência da luz na fibra) e suas capacidades lógicas (como a replicação síncrona), é o diferencial que permite construir sistemas que não apenas sobrevivem a falhas, mas prosperam em escala global. À medida que novas fronteiras como Local Zones e computação quântica se expandem, a infraestrutura da AWS continuará a redefinir o que é possível na intersecção entre software, hardware e redes globais. 
+
+---
+## Links Relacionados
+[[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS|Arquitetura aws]]
