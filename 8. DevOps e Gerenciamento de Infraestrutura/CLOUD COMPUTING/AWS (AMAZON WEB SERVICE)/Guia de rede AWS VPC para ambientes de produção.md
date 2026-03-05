@@ -91,6 +91,8 @@ A transferência de dados entre AZs custa US$ 0,01/GB em cada direção,[AWS re:
 **O monitoramento e a solução de problemas utilizam os Logs de Fluxo da VPC e as métricas do CloudWatch** . Os Logs de Fluxo capturam metadados de tráfego para análise de segurança, otimização de desempenho e relatórios de conformidade.[AWS +2](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)O VPC Reachability Analyzer diagnostica problemas de conectividade analisando caminhos de tráfego e identificando componentes de bloqueio.[Pilha de Golpe +2](https://blowstack.com/blog/determining-network-segmentation-strategies-in-aws-environments)Os alarmes do CloudWatch monitoram o processamento de dados do NAT Gateway, o desempenho do balanceador de carga e a integridade do grupo de dimensionamento automático.
 
 ## Conclusão
+![[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png]]
+![[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png]]
 
 A rede AWS VPC possibilita arquiteturas de nuvem de nível empresarial por meio de controles de segurança abrangentes, padrões de alta disponibilidade e estratégias de otimização de desempenho. O sucesso exige um planejamento CIDR cuidadoso, design sistemático de grupos de segurança e profundo conhecimento dos requisitos de rede específicos do serviço.[Amazonas](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/welcome.html)
 
