@@ -127,16 +127,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
+              "title": "0 AWS (Glossário )"
+            }
+          },
+          {
+            "id": "37f121e2f435dc9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -209,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
+              "title": "Links inversos"
             }
           },
           {
@@ -272,17 +283,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "5c500aa567a8865b",
+  "active": "37f121e2f435dc9a",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IP de Rede vs. IP de Broadcast vs. Hosts.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+    "Certificacoes estudos/aws/As Certificações AWS.md",
+    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
     "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
@@ -294,33 +323,15 @@
     "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.1. INTRODUÇÃO/INTRODUÇÃO BANCO DE DADOS RELACIONAL.md",
     "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
     "7. Bancos de Dados e Armazenamento de Dados/Sharding.md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.3. AVAÇADO/AVANÇADO.md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.4. TCL.md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.3. DQL.md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.2. DML.md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.2. COMANDOS SQL/1.2.1. DDL.md",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass/0 Glossário ( Sass ).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
     "Pasted image 20260222171047.png",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Analise de build.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Untitled",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Organização dos Services camada.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Estratégias de Autenticação para Múltiplas APIs - Cenários Reais.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Funciona o HttpInterceptor Multi-API.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Auth Guard - Guia Completo de Uso.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Arquitetura Angular - Guia de Boas Práticas.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript/0 Glossário (javaScript).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/JavaScript",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Css",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/html",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base",
     "5. Desenvolvimento Back-End/Node.js",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/Pasted image 20250911000529.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "Sem título 2.base",
     "13. Segurança da Informação/img/jwt-structure.png",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
