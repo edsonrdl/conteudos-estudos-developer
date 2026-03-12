@@ -139,12 +139,14 @@
             "id": "37f121e2f435dc9a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
+              "icon": "lucide-file",
+              "title": "IPs Reservados"
             }
           }
         ],
@@ -221,6 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para IPs Reservados"
             }
           },
           {
@@ -294,6 +297,11 @@
   },
   "active": "37f121e2f435dc9a",
   "lastOpenFiles": [
+    "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
+    "5. Desenvolvimento Back-End/Node.js/0 Glossário (Node.js).md",
+    "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
@@ -308,7 +316,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
     "Certificacoes estudos/aws/As Certificações AWS.md",
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
     "Certificacoes estudos/Certificacoes linguagens frameworks.md",
@@ -317,12 +324,8 @@
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
     "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL/0 Glossário ( SQL ).md",
-    "0 Glossário/Glossário.md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL",
     "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/0 Glossário (Fundamentos de Banco de dados Relacionais).md",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/1.1. INTRODUÇÃO/INTRODUÇÃO BANCO DE DADOS RELACIONAL.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Sharding.md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass",
     "Pasted image 20260222171047.png",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Untitled",
