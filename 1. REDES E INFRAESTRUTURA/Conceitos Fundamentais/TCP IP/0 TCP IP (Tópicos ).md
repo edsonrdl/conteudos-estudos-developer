@@ -60,12 +60,8 @@ Explicação resumida do TCP/IP, histórico e propósito.
 
 ---
 
-## 8. Resumo Rápido
-Checklist para revisão.
 
----
-
-## 9. Links Relacionados
+## 8. Links Relacionados
 - [[Internet]]
 - [[DNS]]
 - [[NAT]]
