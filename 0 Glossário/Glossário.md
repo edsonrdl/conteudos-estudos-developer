@@ -286,8 +286,8 @@
 ### Padrões e Princípios
 
  - [ ] **[[Domain-Driven Design (DDD)]]**
-- [[DESIGN PATTERNS]]
-- [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md|Princípios SOLID]]
+- [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário)|DESIGN PATTERNS]]
+- [[|Princípios SOLID]]
 - [[Padrões Arquiteturais]] 
 - [[Hexagonal]]
 - [[Microservices]]
@@ -298,9 +298,9 @@
 - Strangler Fig
 ### Performance: Latência & Vazão
 
-- [ ] [[Latência vs Throughput]] — **(Nova Nota)**: O trade-off fundamental (Item 1, 2 e 3 da sua lista).
+- [ ] [[Latência vs Throughput]] — O trade-off fundamental .
 - [ ] [[Latency Budgeting]] — Tempo máximo aceitável por request.
-- [[Métricas p95 e p99]] — Como medir a experiência real.
+- [ ] [[Métricas p95 e p99]] — Como medir a experiência real.
 - [ ] [[Táticas de Otimização]] — (Batching, Paralelismo, Caching).
 ### Integração e Mensageria
 
