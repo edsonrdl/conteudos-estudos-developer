@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
+                "file": "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPs Reservados"
+              "title": "O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT"
             }
           }
         ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
+                "file": "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para IPs Reservados"
+              "title": "Links inversos para O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT"
             }
           },
           {
@@ -297,8 +297,10 @@
   },
   "active": "37f121e2f435dc9a",
   "lastOpenFiles": [
-    "0 Glossário/Glossário.md",
+    "13. Segurança da Informação/img/jwt-structure.png",
+    "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
+    "0 Glossário/Glossário.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS (Glossário ).md",
     "5. Desenvolvimento Back-End/Node.js/0 Glossário (Node.js).md",
     "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
@@ -320,12 +322,10 @@
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
     "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/JTW.md",
-    "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
     "13. Segurança da Informação/Conceitos Fundamentais/Autenticação e Autorização/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
     "7. Bancos de Dados e Armazenamento de Dados/MongoDb/0 Glossário (MongoDb).md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL/0 Glossário ( SQL ).md",
     "7. Bancos de Dados e Armazenamento de Dados/2 SQL",
-    "7. Bancos de Dados e Armazenamento de Dados/1 Fundamentos de Banco de dados Relacionais/0 Glossário (Fundamentos de Banco de dados Relacionais).md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Sass",
     "Pasted image 20260222171047.png",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Untitled",
@@ -336,7 +336,6 @@
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base",
     "5. Desenvolvimento Back-End/Node.js",
     "Sem título 2.base",
-    "13. Segurança da Informação/img/jwt-structure.png",
     "10. Arquitetura de Software e Design de Software/img/img-teorema-palelc.png",
     "10. Arquitetura de Software e Design de Software/img/img-transactional-outbox pattern.png",
     "10. Arquitetura de Software e Design de Software/img/img-hexagonal-2.png",
