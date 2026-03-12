@@ -95,6 +95,13 @@
 - [ ] [[Clean Architecture]]
 - [ ] [[Arquitetura MVC]]
 
+### Padrões de Processamento e Fluxo
+
+- [ ] [[Middleware e Pipeline]] — Processamento em cadeia (Curto-circuito, roteamento). Usado em Express, ASP.NET.
+- [ ] [[Command Handler Pattern]] — Separação extrema de responsabilidades. Uma classe para cada intenção (usado com MediatR/CQRS).
+- [ ] [[Interceptor e Filter]] — Interceptação via hooks de framework (AOP, Spring, Axios, gRPC).
+- [ ] [[Decorator Pattern aplicado]] — Como usar Wrappers para adicionar Resiliência (Retry, Cache) sem alterar a regra de negócio.
+
 ---
 ## 6. Mobile Development
 
