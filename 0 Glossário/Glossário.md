@@ -174,7 +174,7 @@
 - [ ] [[12-Factor App]]
 - [ ] [[Configuration Externalization]]
 #### Infrastructure as Code (IaC)
-- [ ]  [[8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Infrastructure as Code (IaC)/Terraform.md|Terraform]]
+- [ ]  [[Terraform|Terraform]]
 - [[Pulumi]]
 - [[Ansible]]
 #### Service Mesh
