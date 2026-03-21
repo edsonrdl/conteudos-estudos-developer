@@ -15,7 +15,7 @@
 ### Arquitetura de Serviços
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
-- [ ] [[Service Registry ou Service Discovery]
+- [ ] [Service Registry ou Service Discovery]
 - [ ] [Sidecar] - Ambassador, Envoy, Nginx
 - [ ] [[mTLS]]
 
@@ -162,17 +162,18 @@
 - [ ] [[Bitbucket]]
 - [ ] [[GitFlow]]
 ### Virtualização e Contêineres
-- [ ] [[Virtualização]] 
-- [ ] [[Docker]]
-- [ ] [[Kubernetes]]
-- [ ] [[Kind]]
-- [ ] [[Minikube]]
+- [ ]  Hipervisores (Hypervisors / VMM)
+- [ ] Virtualização
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] Kind
+- [ ] Minikube
 ### Cloud-Native
-- [ ] [[Serverless]]
-- [ ] [[Contêineres imutáveis e imagens reprodutíveis]]
-- [ ] [[Autoscaling em app e cluster]]
-- [ ] [[12-Factor App]]
-- [ ] [[Configuration Externalization]]
+- [ ] Serverless
+- [ ] Contêineres imutáveis e imagens reprodutíveis
+- [ ] Autoscaling em app e cluster
+- [ ] 12-Factor App
+- [ ] Configuration Externalization
 #### Infrastructure as Code (IaC)
 - [ ]  [[Terraform|Terraform]]
 - [[Pulumi]]
@@ -182,7 +183,7 @@
 - [[Linkerd]]
 ### Cloud Computing
 - [[Google Cloud Platform]]
-- [[AWS]] - Amazon Web Services
+- [[0 AWS core (Glossário )|AWS]] - Amazon Web Services
 - [[Azure]]
 - [[OpenStack]]
 - [[Salesforce]] - CRM e desenvolvimento em nuvem
@@ -277,6 +278,9 @@
 - [[Latência]]
 - [[Throughput]]
 
+### Métricas e Qualidade:
+[[9. Engenharia de Software/Métricas e Qualidade/0 Erros Críticos em Programação (Glossário)|Erros Críticos em Programação]]
+
 ---
 
 ## 10. Arquitetura de Software e Design
@@ -285,7 +289,7 @@
 
 ### Padrões e Princípios
 
- - [ ] **[[Domain-Driven Design (DDD)]]**
+ - [ ] [[Domain-Driven Design (DDD)]]
 - [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário)|DESIGN PATTERNS]]
 - [[|Princípios SOLID]]
 - [[Padrões Arquiteturais]] 
@@ -416,7 +420,7 @@
 - [[Criptografia]]
 - [[Autenticação]] e [[Autorização]]
 -  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]]
-- [ ] [[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md |SSL e TLS]] -  O protocolo prático de segurança.
+- [ ] [[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md |SSL e TLS]] Mana-  O protocolo prático de segurança.
 - [[Teste de Penetração]]
 - [[Proteção de Dados Pessoais]]
 
