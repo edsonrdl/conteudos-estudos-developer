@@ -1,58 +1,50 @@
-SSL e TLS (Secure Sockets Layer / Transport Layer Security)
-#seguranca #redes #criptografia
+SSL e TLS #tag #seguranca #redes #criptografia
 
-## 1. Visão Geral
+## 1. Visão Geral 
+ Explicação resumida do SSL e TLS, histórico e propósito.
+ 
+ ---
+## 2. Como Funciona o SSL/TLS 
+O processo de Handshake 
+Criptografia Assimétrica vs Simétrica
+Estabelecimento da Sessão Segura
 
-Protocolos criptográficos projetados para fornecer segurança de comunicação em uma rede de computadores.
+---
+## 3. Certificados Digitais 
+3.1 Padrão X.509 
+3.2 Autoridade Certificadora (CA) 
+3.3 Cadeia de Confiança (Chain of Trust) 
+3.4 Let's Encrypt e Automação
 
-> **Nota Importante:** O SSL (versões 1.0, 2.0, 3.0) está **depreciado** por falhas de segurança. O padrão moderno é o **TLS** (1.2 ou 1.3), mas ainda usamos o termo "SSL" por hábito.
+---
+## 4. Componentes Criptográficos 
+4.1 Chaves Públicas e Privadas 
+4.2 Algoritmos de Hash e Integridade (MAC/SHA) 
+4.3 Cipher Suites
 
-## 2. Para que serve?
+---
+## 5. Evolução e Diferenças (SSL vs TLS) 
+5.1 SSL 1.0, 2.0 e 3.0 (Descontinuados) 
+5.2 TLS 1.0, 1.1 e 1.2 
+5.3 TLS 1.3 (Melhorias de performance e segurança)
 
-1. **Criptografia:** Garante que ninguém no meio do caminho (Man-in-the-Middle) leia os dados.
-    
-2. **Integridade:** Garante que os dados não foram alterados no trajeto.
-    
-3. **Autenticação:** Garante que o servidor é quem diz ser (via Certificado).
-    
+---
+## 6. Ataques e Vulnerabilidades 
+Heartbleed 
+POODLE 
+Man-in-the-Middle (MitM)
 
-## 3. Como funciona: O Handshake (Aperto de Mão)
+---
+## 7. Exemplos Práticos 
+Geração de CSR e Chaves com OpenSSL
+Configuração de TLS no Nginx / Apache 
+Automação com Certbot 
+Inspeção de Handshake no Wireshark
 
-Antes de trocar dados, cliente e servidor negociam a segurança:
-
-1. **Client Hello:** "Olá, eu suporto TLS 1.2 e essas cifras."
-    
-2. **Server Hello:** "Olá, vamos usar TLS 1.2. Aqui está meu **Certificado Digital** (Chave Pública)."
-    
-3. **Verificação:** O cliente checa se o certificado é válido (emitido por uma CA confiável).
-    
-4. **Troca de Chaves:** Cliente e Servidor geram uma **Chave de Sessão** (Simétrica) usando a Chave Pública (Assimétrica) para proteção inicial.
-    
-5. **Túnel Seguro:** A partir daqui, tudo é criptografado com a Chave de Sessão (que é muito mais rápida).
-    
-
-## 4. Certificados Digitais
-
-- **CA (Certificate Authority):** A entidade que "assina" o certificado (ex: Let's Encrypt, DigiCert).
-    
-- **Self-Signed:** Certificado assinado por você mesmo (bom para dev/testes, ruim para produção pois o navegador alerta "Não Seguro").
-    
-- **Wildcard:** Protege `*.dominio.com` (todos os subdomínios).
-    
-
-## 5. Diferença: Criptografia Simétrica vs Assimétrica
-
-- **Assimétrica (Par de Chaves):** Usada apenas no Handshake para trocar o segredo. (Lenta, mas segura para troca).
-    
-- **Simétrica (Chave Única):** Usada para transmitir os dados da sessão. (Rápida).
-    
-
-## 6. Links Relacionados
-
-- [[Criptografia]]
-    
-- [[HTTPS]]
-    
-- [[mTLS]] (Quando o cliente TAMBÉM precisa de certificado)
-    
-- [[Man-in-the-Middle]] (O ataque que o SSL previne)
+---
+## 8. Links Relacionados 
+Criptografia 
+HTTPS 
+Chave SSH 
+VPN 
+Firewalls

@@ -21,10 +21,13 @@ Explicação resumida do TCP/IP, histórico e propósito.
 - Intervalos
 - Quando usar
 
+---
+
 ### 3.2 Máscara de Rede
 - Explicação simples
 - Exemplos práticos
 
+---
 ### 3.3 CIDR (Classless Inter-Domain Routing)
 - Porque foi criado
 - Exemplo
@@ -59,7 +62,6 @@ Explicação resumida do TCP/IP, histórico e propósito.
 - Wireshark
 
 ---
-
 
 ## 8. Links Relacionados
 - [[Internet]]
