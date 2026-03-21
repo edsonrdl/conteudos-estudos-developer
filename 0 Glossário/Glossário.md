@@ -12,7 +12,7 @@
 - [ ]  [[Firewalls]]
 - [ ]  [[Proxy]]
 - [ ]  [[Virtualização]]
-### Arquitetura de Serviços
+### Arquitetura de Serviços!
 - [ ]  [[Load Balance]]
 - [ ]  [[Service Mesh]]
 - [ ] [Service Registry ou Service Discovery]
@@ -367,30 +367,20 @@
 
 ### Paradigmas de Programação
 
-- [[Orientação a Objetos]]
-- [[Programação Funcional]]
+- [ ] [[Orientação a Objetos]]
+- [ ] [[Programação Funcional]]
+
+### Mecanismos de Execução
+- [ ] [[0 Expressões Lambda (Funções Anônimas)]]
+- [ ] [[Closures]]
+- [ ] [[Higher-Order Functions]]
+- [ ] [[Recursão]]
 
 ### Algoritmos e Abordagens Fundamentais
 
- **Algoritmos de Busca **
-- **[[Algoritmos de Busca Linear]]**
-- **[[Algoritmos de Busca Binária]]**
-- **[[Algoritmos de Busca Hashing]]**
-- **[[Algoritmos de Ordenação Quick Sort]]**
-- **[[Algoritmos de Ordenação Merge Sort]]**
-- **[[Algoritmos de Ordenação Heap Sort]]**
- **Complexidade de Algoritmos **
-- **[[Complexidade de Algoritmos O(1)]]**
-- **[[Complexidade de Algoritmos O(log n)]]**
-- **[[Complexidade de Algoritmos O(n)]]**
-- **[[Algoritmos de Balanceamento Round Robin]]**
-- **[[Algoritmos de Balanceamento Least Connections]]**
-- **[[Algoritmos de Balanceamento Ponderado (Weighted)]]**
-- **[[Algoritmos de Grafo BFS (Busca em Largura)]]**
-- **[[Algoritmos de Grafo DFS (Busca em Profundidade)]]**
-- **[[Algoritmos de Grafo Dijkstra]]**
-- **[[Pattern Matching em Mensagens]]**
-- **[[Programação Dinâmica (Memoização)]]**
+- [ ] [[Algoritmos de Busca]]
+- [ ] [[Algoritmos de Ordenação]] 
+- [ ] [[Complexidade de Algoritmos (Big-O)]]
 ---
 
 ## 12. Plataformas e Sistemas Operacionais
