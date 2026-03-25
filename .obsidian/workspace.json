@@ -85,14 +85,12 @@
             "id": "67b18089233520b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-                "mode": "source",
-                "source": false
+                "file": "13. Segurança da Informação/img/jwt-structure.png"
               },
-              "icon": "lucide-file",
-              "title": "0 TCP IP (Tópicos )"
+              "icon": "lucide-image",
+              "title": "jwt-structure"
             }
           }
         ],
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+                "file": "13. Segurança da Informação/img/jwt-structure.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 0 TCP IP (Tópicos )"
+              "title": "Links inversos para jwt-structure"
             }
           },
           {
@@ -243,15 +241,25 @@
   },
   "active": "67b18089233520b3",
   "lastOpenFiles": [
+    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/0 OAuth 2.0 (Glossário).md",
+    "0 Glossário/Glossário.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de HandshakeSem título.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
-    "0 Glossário/Glossário.md",
     "1. REDES E INFRAESTRUTURA/Internet.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IP de Rede vs. IP de Broadcast vs. Hosts.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Complexidade de Algoritmos (Big-O)/0 Complexidade de Algoritmos (Big-O) Glossário.md",
@@ -266,24 +274,14 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Balanceamento de Carga.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/PARADGMAS DE PROGRAMAÇÃO/0 Paradigmas de Programação ( Glossário ).md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures/0 Closures (Fechamentos Léxicos) (Glossário).md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas/0 Expressões Lambda (Funções Anônimas).md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL/0 Programação Funcional (Glossário).md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/ESTRUTURADA.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/EVENT_DRIVEN.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/01 ESTRUTURA DE DADOS/1.2. PARADGMAS DE PROGRAMAÇÃO/IMPERATIVA.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL",
     "9. Engenharia de Software/Métricas e Qualidade",
-    "9. Engenharia de Software",
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "Sem título.canvas",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
