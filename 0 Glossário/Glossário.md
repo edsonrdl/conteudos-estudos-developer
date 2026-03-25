@@ -411,6 +411,9 @@
 - [[Autenticação]] e [[Autorização]]
 -  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]]
 - [ ] [[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md |SSL e TLS]] Mana-  O protocolo prático de segurança.
+- [ ] [[OAuth 2.0]]
+- [ ] [[OpenID Connect (OIDC)]]
+- [ ] [[SAML]]
 - [[Teste de Penetração]]
 - [[Proteção de Dados Pessoais]]
 
