@@ -40,61 +40,34 @@
             }
           },
           {
-            "id": "c4303b711c147fb3",
+            "id": "41c7ef8a358b6739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
+                "file": "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Algoritmos de Busca (Glossário)"
+              "title": "O Caminho para a Autonomia em Inteligência Artificial"
             }
           },
           {
-            "id": "371a7489a1d1aa2a",
+            "id": "ffb2c8f971a5ce30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+                "file": "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/OAuth 2.0 Machine-to-Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Visão Geral"
-            }
-          },
-          {
-            "id": "bd926313f9f40c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Visão Geral"
-            }
-          },
-          {
-            "id": "67b18089233520b3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "13. Segurança da Informação/img/jwt-structure.png"
-              },
-              "icon": "lucide-image",
-              "title": "jwt-structure"
+              "title": "OAuth 2.0 Machine-to-Machine"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Segurança da Informação/img/jwt-structure.png",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para jwt-structure"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -239,22 +212,25 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "67b18089233520b3",
+  "active": "24649e90229319a4",
   "lastOpenFiles": [
-    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/0 OAuth 2.0 (Glossário).md",
+    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/OAuth 2.0 Machine-to-Machine.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de HandshakeSem título.md",
     "0 Glossário/Glossário.md",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
+    "14. Inteligência Artificial e Machine Learning",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/0 OAuth 2.0 (Glossário).md",
     "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de HandshakeSem título.md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
@@ -269,16 +245,13 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Round-Robin Ponderado (Weighted Round-Robin - WRR).md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Geolocation (Geographic Load Balancing Ponderado).md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Least Connections (WLC) - Menos Conexões Ponderado.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Least Response Time (WLRT) - Menor Tempo de Resposta Ponderado.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Complexidade de Algoritmos (Big-O)",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Balanceamento de Carga.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL",
-    "9. Engenharia de Software/Métricas e Qualidade",
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
