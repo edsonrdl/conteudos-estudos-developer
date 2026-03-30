@@ -114,43 +114,44 @@
 
 ---
 ## 7. Bancos de Dados e Armazenamento
-
 #database #storage #dados
 
-### Fundamentos de Banco de dados Relacionais
-- [ ] Introdução a banco de dados Relacional
-- [ ] SQL
-### Bancos Relacionais
-- [ ] [[MySQL]]
-- [ ] [[PostgreSQL]]
-- [ ] [[SQL Server]]
-### Fundamentos de Banco de dados Não Relacional
-- [ ] Introdução a banco de dados Não Relacional
-### Bancos Não-Relacionais
+### Fundamentos e Bancos Relacionais
+- [ ] [[Introdução a banco de dados Relacional]]
+- [ ] [[SQL]]
+#### Motores: 
+[[MySQL]]
+[[PostgreSQL]]
+[[SQL Server]]
+
+### Fundamentos e Bancos Não-Relacionais
+- [ ] [[Introdução a banco de dados Não Relacional]]
 - [ ] [[NoSQL]] - Conceito geral
-- [ ] [[7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/MONGODB/MONGODB]]
-- [ ] [[Redis]]
-### Conceitos Avançados
+#### Motores:
+[[7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/MONGODB/MONGODB|MongoDB]]
+[[Redis]]
 
-- [ ] [[OLTP]] vs [[OLAP]]
-- [ ] [[Read Replica]]
-- [ ] [[Sharding]]
-- [ ] [[Partitioning]]
-- [ ] [[Event Sourcing]]
-- [ ] [[Snapshotting]]
-- [ ] [[Schema Registry]]
-### Big Data
+### Escalabilidade e Alta Disponibilidade (Resiliência)
+- [ ] [[Read Replica]] (Escala de Leitura)
+- [ ] [[Partitioning]] (Divisão Lógica/Física no mesmo nó)
+- [ ] [[Sharding]] (Divisão Física distribuída em múltiplos nós)
 
-- [ ] [[Apache Spark]]
-- [ ] [[Hadoop]]
-### Big Data e Arquitetura de Dados
-- **Arquiteturas de Dados:**
-- [ ] [[Data Warehouse]] - Armazenamento centralizado e estruturado para BI.
-- [ ] [[Data Lake]] - Repositório centralizado para dados brutos em grande escala.
-- [ ] [[Data Mesh]] - Abordagem descentralizada, tratando dados como produtos.
-- **Ferramentas de Processamento:**
-- [ ] [[Apache Spark]]
-- [ ] [[Hadoop]]
+### Padrões de Arquitetura de Dados e Estado
+- [ ] [[OLTP vs OLAP]] (Transacional vs Analítico)
+- [ ] [[Event Sourcing]] (Estado como fluxo de eventos imutáveis)
+- [ ] [[Snapshotting]] (Otimização de leitura para Event Sourcing)
+
+### Governança e Contratos de Dados
+- [ ] [[Schema Registry]] (Validação e evolução de schemas)
+
+### Big Data e Arquiteturas Analíticas
+#### Arquiteturas: [[Data Warehouse]]
+[[Data Lake]]
+[[Data Mesh]]
+#### Motores de Processamento: 
+[[Apache Spark]]
+[[Hadoop]]
+
 ---
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
