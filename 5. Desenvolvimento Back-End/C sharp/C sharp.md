@@ -24,6 +24,7 @@
 #### 1.2.4. Enums
 
 #### 1.2.5. Records
+#### 1.2.6. required
 
 ### 1.3. Tipos Anuláveis (Nullable)
 
@@ -74,6 +75,8 @@
 #### 2.2.3. `do…while`
 
 #### 2.2.4. `foreach`
+#### 2.2.5. `List Patterns`
+#### 2.2.6. `pan Pattern Matching`
 
 ### 2.3. Controle de Fluxo
 
@@ -265,6 +268,7 @@
 ### 12.5. `Stack<T>`
 
 ### 12.6. `HashSet<T>`
+### 12.6.  `Collection Expressions`
 
 ### 12.7. Coleções Concorrentes
 
@@ -322,6 +326,8 @@
 ### 15.2. `Task` e `ValueTask`
 
 ### 15.3. Cancelamento (`CancellationToken`)
+### 15.4. Async Enumerable & IAsyncDisposable
+### 15.4. Task.WaitAsync
 
 ---
 
@@ -358,6 +364,8 @@
 #### 17.6.2. `ReadOnlySpan<T>`
 
 #### 17.6.3. `Memory<T>`
+#### 17.6.4. `Inline Arrays`
+#### 17.6.5. `Ref Fields e Scoped Ref`
 
 ---
 
@@ -391,84 +399,59 @@
 
 ### 20.3. Correlação de Eventos
 
----
-
-## **21. Testes em C#**
-
-### 21.1. Testes Unitários
-
-### 21.2. Mocking
-
-### 21.3. Testabilidade de Código
 
 ---
 
-# **22. C# – Manipulação de Arquivos**
+# **21. C# – Manipulação de Arquivos**
 
-## **22.1. Leitura e Escrita**
+## 2122.1. Leitura e Escrita**
 
-### 22.1.1. Arquivos de Texto
+### 21.1.1. Arquivos de Texto
 
-### 22.1.2. Arquivos Binários
+### 21.1.2. Arquivos Binários
 
-## **22.2. Diretórios**
+## **21.2. Diretórios**
 
-### 22.2.1. Criação e Remoção
+### 21.2.1. Criação e Remoção
 
-### 22.2.2. Navegação
+### 21.2.2. Navegação
 
-### 22.2.3. Verificação
+### 21.2.3. Verificação
 
-### 22.2.4. Listagem
+### 21.2.4. Listagem
 
-## **22.3. XML**
+## **21.3. XML**
 
-### 22.3.1. Leitura
+### 21.3.1. Leitura
 
-### 22.3.2. Escrita
+### 21.3.2. Escrita
 
-### 22.3.3. Modificação
+### 21.3.3. Modificação
 
-### 22.3.4. Validação
+### 21.3.4. Validação
 
-### 22.3.5. Transformações
+### 21.3.5. Transformações
 
-## **22.4. JSON**
+## **21.4. JSON**
 
-### 22.4.1. Leitura
+### 21.4.1. Leitura
 
-### 22.4.2. Escrita
+### 21.4.2. Escrita
 
-### 22.4.3. Modificação
+### 21.4.3. Modificação
 
-### 22.4.4. Validação
+### 21.4.4. Validação
 
-### 22.4.5. Serialização de Objetos
+### 21.4.5. Serialização de Objetos
 
 ---
 
-# **23. C# – Manipulação de Dados**
+# **22. C# – Manipulação de Dados**
 
-## **23.1. Conceitos de Banco de Dados**
+## **22.1. Conceitos de Banco de Dados**
 
-### 23.1.1. Relacional
+### 22.1.1. Relacional
 
-### 23.1.2. Transações
+### 22.1.2. Transações
 
-### 23.1.3. Normalização
-
-## **23.2. ADO.NET**
-
-### 23.2.1. Criação de Conexões
-
-### 23.2.2. Execução de Consultas
-
-### 23.2.3. Atualização de Dados
-
-## **23.3. ORM**
-
-### 23.3.1. Conceito de ORM
-
-### 23.3.2. Entity Framework (fundamentos)
-
-> _Integrações com ASP.NET Core ficam fora deste escopo._
+### 22.1.3. Normalização
