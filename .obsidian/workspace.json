@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4796cf99b4f9f7ff",
+        "id": "41d08c126221893a",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcf27930224a516",
+            "id": "7534d8057ba04236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 APACHE KAFKA (Glossário)"
+              "title": "Glossário"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 0 APACHE KAFKA (Glossário)"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -167,13 +166,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ddcf27930224a516",
+  "active": "7534d8057ba04236",
   "lastOpenFiles": [
+    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
+    "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
+    "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "5. Desenvolvimento Back-End/C sharp/C sharp.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
-    "0 Glossário/Glossário.md",
     "Readme.md",
     "Transactions Per Second.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
@@ -189,7 +193,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
@@ -197,10 +200,6 @@
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IPs Reservados.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/VLSM (Variable Length Subnet Mask) - Nível Especialista.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/IP de Rede vs. IP de Broadcast vs. Hosts.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Ordenação",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Complexidade de Algoritmos (Big-O)",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca",
@@ -213,7 +212,6 @@
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
     "Sem título.canvas",
-    "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
