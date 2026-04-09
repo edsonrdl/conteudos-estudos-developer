@@ -243,7 +243,8 @@
 
 ### Gerenciamento de APIs e Serviços
 
-- [[Postman]]
+- [[Insomnia]]
+-  [[Isominia]]
 - [[Firebase]]
 
 ### Interface Gráfica e Gerenciamento de Clusters
@@ -522,7 +523,7 @@
 
 #### Testes de API
 
-- [[Postman]] / [[Newman]] - Testes de API REST
+- [[Insomnia]] / [[Newman]] - Testes de API REST
 
 #### Testes de Performance
 
