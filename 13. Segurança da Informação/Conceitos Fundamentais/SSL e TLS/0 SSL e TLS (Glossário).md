@@ -5,7 +5,7 @@ SSL e TLS #tag #seguranca #redes #criptografia
  
  ---
 ## 2. Como Funciona o SSL/TLS 
-O processo de Handshake 
+[[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake|O processo de Handshake ]]
 Criptografia Assimétrica vs Simétrica
 Estabelecimento da Sessão Segura
 
