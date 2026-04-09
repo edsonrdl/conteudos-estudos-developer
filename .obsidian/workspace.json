@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Glossário/Glossário.md",
+                "file": "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossário"
+              "title": "Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Glossário/Glossário.md",
+                "file": "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Glossário"
+              "title": "Links inversos para Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
             }
           },
           {
@@ -168,38 +168,40 @@
   },
   "active": "7534d8057ba04236",
   "lastOpenFiles": [
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake.md",
+    "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
+    "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
+    "13. Segurança da Informação/img/mtls-img.png",
+    "13. Segurança da Informação/img/jwt-structure.png",
+    "Perfil dev.md",
+    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
+    "Transactions Per Second.md",
+    "0 Glossário/Glossário.md",
+    "Jump Box  Bastion Host.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas/0 Expressões Lambda (Funções Anônimas).md",
+    "Lambdas.md",
+    "Pasted image 20260329015359.png",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
+    "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
+    "14. Inteligência Artificial e Machine Learning/Roteiro de Estudos em Engenharia de IA.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Postman.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/5.2. FIREBASE.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "Certificacoes estudos/aws/As Certificações AWS.md",
     "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
-    "0 Glossário/Glossário.md",
     "1. REDES E INFRAESTRUTURA/Internet.md",
     "5. Desenvolvimento Back-End/C sharp/C sharp.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
-    "Readme.md",
-    "Transactions Per Second.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "Pasted image 20260329015359.png",
-    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/OAuth 2.0 Machine-to-Machine.md",
-    "Pasted image 20260329015349.png",
-    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0/0 OAuth 2.0 (Glossário).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de HandshakeSem título.md",
-    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
     "14. Inteligência Artificial e Machine Learning",
     "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca/0 Algoritmos de Busca (Glossário).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Ordenação",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Complexidade de Algoritmos (Big-O)",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca",
@@ -213,7 +215,6 @@
     "Pasted image 20260222171047.png",
     "Sem título.canvas",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
-    "13. Segurança da Informação/img/jwt-structure.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
   ]
