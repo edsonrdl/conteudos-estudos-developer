@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41d08c126221893a",
+        "id": "739989d52ea69bda",
         "type": "tabs",
         "children": [
           {
-            "id": "7534d8057ba04236",
+            "id": "3ff6474bf8b65f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
+                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
+              "title": "O Motor de Validação do Kafka  Da Alocação à Liderança"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 459.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
+                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256)"
+              "title": "Links inversos para O Motor de Validação do Kafka  Da Alocação à Liderança"
             }
           },
           {
@@ -166,38 +166,40 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7534d8057ba04236",
+  "active": "3ff6474bf8b65f1e",
   "lastOpenFiles": [
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Interna do Apache Kafka Anatomia, Distribuição e I O na Prática.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Exemplo visual.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka, Pub Sub e RabbitMQ diferença.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Pub Sub Publish Subscribe  Conceito Complet.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 Documentação de Sistemas de Mensageria Distribuída.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Contextos particulares de caso de uso.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 1. O que é PubbSub de Verdade.md",
+    "0 Glossário/Glossário.md",
+    "14. Inteligência Artificial e Machine Learning/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)",
+    "14. Inteligência Artificial e Machine Learning/Roteiro de Estudos em Engenharia de IA.md",
+    "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
+    "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
+    "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
     "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake.md",
     "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
-    "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "Perfil dev.md",
     "Certificacoes estudos/Certificacoes linguagens frameworks.md",
     "Transactions Per Second.md",
-    "0 Glossário/Glossário.md",
     "Jump Box  Bastion Host.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas/0 Expressões Lambda (Funções Anônimas).md",
-    "Lambdas.md",
     "Pasted image 20260329015359.png",
-    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
-    "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
-    "14. Inteligência Artificial e Machine Learning/Roteiro de Estudos em Engenharia de IA.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Postman.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/5.2. FIREBASE.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
-    "Certificacoes estudos/aws/As Certificações AWS.md",
-    "3. Desenvolvimento Front-End/Linguagens e Tecnologias Base/Typescript/0 Glossário ( Typescript ).md",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
-    "5. Desenvolvimento Back-End/C sharp/C sharp.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
     "14. Inteligência Artificial e Machine Learning",
     "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
@@ -209,12 +211,10 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/PARADGMAS DE PROGRAMAÇÃO/FUNCIONAL",
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
     "Sem título.canvas",
-    "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
   ]
