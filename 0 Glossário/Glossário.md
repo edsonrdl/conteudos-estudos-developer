@@ -452,6 +452,14 @@
 - [[OpenCV]] - Processamento de Imagem
 - [[YOLO]] - Detecção de Objetos
 - [[TensorFlow Object Detection API]]
+### AI Engineering (Engenharia Aplicada) 
+- [ ] [[14. Inteligência Artificial e Machine Learning/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )|Engenharia de IA Aplicada (AI Engineering)]] 
+### Padrões e Arquitetura de IA 
+- [ ] [[Retrieval-Augmented Generation (RAG)]] 
+- [ ] [[Agentic Workflows e Orquestração]] 
+- [ ] [[LLMOps e Governança]] 
+### Fundamentos Clássicos (Data Science) 
+- [ ] [[Redes Neurais e Deep Learning]] - [ ] [[Visão Computacional]]
 
 ---
 
