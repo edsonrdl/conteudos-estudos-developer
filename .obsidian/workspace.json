@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "739989d52ea69bda",
+        "id": "0d857d525f505f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff6474bf8b65f1e",
+            "id": "752ad96ecbd5e541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
+                "file": "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML)"
-            }
-          },
-          {
-            "id": "fafe6ce1e4f46b9f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WhatsApp Image 2026-04-09 at 00.55.18.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2026-04-09 at 00.55.18"
+              "title": "Modelos Open Source LLM"
             }
           }
         ]
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
+                "file": "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML)"
+              "title": "Links inversos para Modelos Open Source LLM"
             }
           },
           {
@@ -178,11 +166,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3ff6474bf8b65f1e",
+  "active": "752ad96ecbd5e541",
   "lastOpenFiles": [
-    "Sem título.md",
+    "14. Inteligência Artificial e Machine Learning/Engines de processamento.md",
+    "14. Inteligência Artificial e Machine Learning/Sem título.md",
+    "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
     "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
-    "14. Inteligência Artificial e Machine Learning/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.1. Usuários, Grupos e Roles",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "0 Glossário/Glossário.md",
+    "Sem título.md",
     "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Interna do Apache Kafka Anatomia, Distribuição e I O na Prática.md",
@@ -192,23 +198,9 @@
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka, Pub Sub e RabbitMQ diferença.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Pub Sub Publish Subscribe  Conceito Complet.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 Documentação de Sistemas de Mensageria Distribuída.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Contextos particulares de caso de uso.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 1. O que é PubbSub de Verdade.md",
-    "0 Glossário/Glossário.md",
     "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)",
-    "14. Inteligência Artificial e Machine Learning/Roteiro de Estudos em Engenharia de IA.md",
-    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
-    "13. Segurança da Informação/Análise Arquitetural e Criptográfica de JSON Web Tokens Comparativo Exaustivo entre Abordagens Simétricas (HS256) e Assimétricas (RS256).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake.md",
-    "13. Segurança da Informação/O Guia Definitivo da Criptografia Assimétrica De Certificados OpenSSL ao Payload JWT.md",
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
-    "Perfil dev.md",
-    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
-    "Transactions Per Second.md",
     "Pasted image 20260329015359.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "14. Inteligência Artificial e Machine Learning",
@@ -219,9 +211,6 @@
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Complexidade de Algoritmos (Big-O)",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Busca",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Expressões Lambda (Funções Anônimas",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução",
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
