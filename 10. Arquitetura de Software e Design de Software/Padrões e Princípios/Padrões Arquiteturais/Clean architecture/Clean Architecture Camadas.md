@@ -79,3 +79,4 @@ Ferramentas e tecnologias específicas:
 
 Essa arquitetura garante que as regras de negócio permaneçam protegidas e independentes de mudanças tecnológicas, facilitando manutenção e evolução do sistema.
 
+D
