@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d857d525f505f4c",
+        "id": "0f903f59d4913bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "752ad96ecbd5e541",
+            "id": "6c4a978ff5c45aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
+                "file": "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Monolito vs. Serviços Desacoplados LLMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelos Open Source LLM"
+              "title": "Monolito vs. Serviços Desacoplados LLMs"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 569.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
+                "file": "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Monolito vs. Serviços Desacoplados LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Modelos Open Source LLM"
+              "title": "Links inversos para Monolito vs. Serviços Desacoplados LLMs"
             }
           },
           {
@@ -166,38 +166,40 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "752ad96ecbd5e541",
+  "active": "6c4a978ff5c45aff",
   "lastOpenFiles": [
+    "Perfil dev.md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Monolito vs. Serviços Desacoplados LLMs.md",
+    "sdsddijhasihd.md",
+    "path.md",
+    "Readme.md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Calcular volumetria para implantações de LLM locais.md",
+    "Sem título.canvas",
+    "Sem título 1.canvas",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Desafios de Crescimento para PMEs.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário).md",
+    "0 Glossário/Glossário.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Clean Architecture + Domain Events + Listener Callback.md",
+    "Padrões Arquiteturais.md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Clean Architecture Camadas.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture Exemplo de código.md",
+    "14. Inteligência Artificial e Machine Learning/Desafios em llm locais.md",
+    "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
+    "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
     "14. Inteligência Artificial e Machine Learning/Engines de processamento.md",
     "14. Inteligência Artificial e Machine Learning/Sem título.md",
-    "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
     "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
     "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral.md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.1. Usuários, Grupos e Roles",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3.2 Infraestrutura global da AWS/Componentes/Infraestrutura global da AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
-    "0 Glossário/Glossário.md",
-    "Sem título.md",
-    "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Interna do Apache Kafka Anatomia, Distribuição e I O na Prática.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura e Operacionalização do Apache Kafka na Amazon Web Services MSK, EC2 e EKS.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Exemplo visual.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka, Pub Sub e RabbitMQ diferença.md",
     "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)",
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
@@ -214,8 +216,6 @@
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
-    "Sem título.canvas",
-    "Garbage Collector/img/canvas-gabarge-collector.canvas",
-    "Sem título 1.canvas"
+    "Garbage Collector/img/canvas-gabarge-collector.canvas"
   ]
 }
