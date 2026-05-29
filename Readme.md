@@ -50,7 +50,7 @@ Sempre que uma nova tecnologia ou conceito for adicionado a esta base, a nota co
 2. **Análise Comparativa Nativa:** Não crie seções isoladas de "Trade-offs". As vantagens e desvantagens (custos computacionais, manutenção, complexidade) devem estar embutidas na explicação técnica de como a ferramenta funciona.
 3. **Analogias Estratégicas:** Use analogias do mundo real **apenas** para ancorar conceitos de alta abstração. Mantenha o foco técnico para assuntos cotidianos.
 4. **Cenários do Dia a Dia:** Todo conceito deve ter um exemplo prático focado nos desafios reais que uma empresa ou desenvolvedor enfrenta em produção.
-5. **Hierarquia Estrita:** Utilize o formato de tópicos colapsáveis (1, 1.1, 1.1.1) utilizando cabeçalhos e listas identadas de Markdown para garantir a escaneabilidade.
+5. **Hierarquia Estrita:** Utilize o formato de tópicos colapsáveis (1Tem , 1.1, 1.1.1) utilizando cabeçalhos e listas identadas de Markdown para garantir a escaneabilidade.
 
 ---
 *Mantido por Edson Lopes — Arquiteto de Software*
