@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25312ea2662886f1",
+        "id": "24b803b3ae5931a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ec757bac597c3d7d",
+            "id": "e7763679920e1256",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kafka Arquitetura, Replicação e Falhas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#big-data",
+                "query": "tag:#internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Kafka Arquitetura, Replicação e Falhas"
+              "title": "Links inversos"
             }
           },
           {
@@ -166,51 +162,51 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ec757bac597c3d7d",
+  "active": "e7763679920e1256",
   "lastOpenFiles": [
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/0. Garbage Collection.md",
+    "Sem título.canvas",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
+    "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
+    "0 Glossário/Glossário.md.tmp.8500.5bc71c7f54bb",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md.tmp.8500.c290e11b364a",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.2. IPv4 e IPv6/4.1.2.1. Esgotamento do IPv4, a transição para IPv6 e mecanismos de coexistência (NAT, dual-stack, tunneling).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.2. IPv4 e IPv6/4.1.2.1. Esgotamento do IPv4, a transição para IPv6 e mecanismos de coexistência (NAT, dual-stack, tunneling).md.tmp.8500.672cec7e0a85",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.1. ICANN, IANA e RIRs/4.1.1.1. Quem governa a Internet — ICANN (domínios e coordenação), IANA (alocação de endereços e protocolos), RIRs (distribuição regional de IPs).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.1. ICANN, IANA e RIRs/4.1.1.1. Quem governa a Internet — ICANN (domínios e coordenação), IANA (alocação de endereços e protocolos), RIRs (distribuição regional de IPs).md.tmp.8500.aa5bf25bd686",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.2. Ameaças Comuns/3.1.2.1. DDoS, BGP hijacking e DNS spoofing — ataques à infraestrutura da Internet e como são mitigados.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.1. BGP — Border Gateway Protocol/2.1.1.1. O que é BGP, Sistemas Autônomos (AS) e como o roteamento entre ISPs determina o caminho dos pacotes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.2. Ameaças Comuns/3.1.2.1. DDoS, BGP hijacking e DNS spoofing — ataques à infraestrutura da Internet e como são mitigados.md.tmp.8500.eb38874d7d53",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.2 Estrutura Física/1.2.2. Infraestrutura Física/1.2.2.1. Backbones, cabos submarinos, pontos de presença (PoPs) e IXPs (Internet Exchange Points).md",
+    "_SPEC - Criar Novo Tópico Filho.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.1. TLS e SSL/3.1.1.1. Como o TLS protege o tráfego na Internet — handshake, certificados digitais e infraestrutura de chave pública (PKI).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.1. TLS e SSL/3.1.1.1. Como o TLS protege o tráfego na Internet — handshake, certificados digitais e infraestrutura de chave pública (PKI).md.tmp.8500.c3e6ec671a47",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. Outros Protocolos Fundamentais/2.2.2.1. FTP, SMTP, IMAP e POP3 — protocolos que constroem serviços de transferência de arquivos e e-mail sobre o TCP-IP.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. Outros Protocolos Fundamentais/2.2.2.1. FTP, SMTP, IMAP e POP3 — protocolos que constroem serviços de transferência de arquivos e e-mail sobre o TCP-IP.md.tmp.8500.a43f2ea70992",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP e HTTPS/2.2.1.1. Como o HTTP e HTTPS sustentam a Web — modelo request e response, versões (HTTP 1.1, HTTP 2, HTTP 3 sobre QUIC).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP e HTTPS/2.2.1.1. Como o HTTP e HTTPS sustentam a Web — modelo request e response, versões (HTTP 1.1, HTTP 2, HTTP 3 sobre QUIC).md.tmp.8500.4b8a94751b41",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.2. DNS na Internet/2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.2. DNS na Internet/2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia.md.tmp.8500.089e59c646f4",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.1. BGP — Border Gateway Protocol/2.1.1.1. O que é BGP, Sistemas Autônomos (AS) e como o roteamento entre ISPs determina o caminho dos pacotes.md.tmp.8500.43ba66cee72a",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.1 O que é a Internet/1.1.1. Definição e História/1.1.1.1. O que é a Internet, diferença entre internet (rede genérica) e Internet (a rede global), origem na ARPANET.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.2 Estrutura Física/1.2.1. Camadas de Provedores/1.2.1.1. Hierarquia de ISPs (Tier 1, Tier 2, Tier 3) — como o tráfego flui do usuário doméstico até o backbone global.md",
+    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
+    "1. REDES E INFRAESTRUTURA/Proxy.md",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
+    "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Exemplo visual.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Interna do Apache Kafka Anatomia, Distribuição e I O na Prática.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
     "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka, Pub Sub e RabbitMQ diferença.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.4. VLSM (Variable Length Subnet Mask)/2.2.4.1. Como otimizar o desperdício de IPs criando sub-redes de tamanhos diferentes dentro do mesmo bloco.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.3. Matemática de Redes/2.2.3.1. Como calcular sub-redes (com exemplos de bits emprestados).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.1. Classes Tradicionais (A, B, C)/2.1.1.1. O que são e como dividem a rede dos hosts.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.1. Classes Tradicionais (A, B, C)/2.1.1.2. Intervalos numéricos de cada classe.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.1. Classes Tradicionais (A, B, C)/2.1.1.3. Quando usar cada uma (Histórico vs Prática atual).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.2. Máscara de Rede/2.1.2.1. Explicação simples de como ela separa a porção de Rede da porção de Host.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.2. Máscara de Rede/2.1.2.2. Exemplos práticos de aplicação.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.3. CIDR (Classless Inter-Domain Routing)/2.1.3.1. Por que foi criado (esgotamento de IPs e rigidez das Classes).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.1 Endereçamento IP/2.1.3. CIDR (Classless Inter-Domain Routing)/2.1.3.2. Exemplo prático da notação com barra.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.1. Arquitetura Lógica/2.2.1.1. Diferença entre Rede principal e Sub-rede.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.2. Sub-redes (Subnets)/2.2.2.1. Conceito e necessidade de segmentação de broadcast e segurança.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/IPs Reservados.md",
-    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
-    "_SPEC - Criar Novo Tópico Filho.md.tmp.8500.086969c4b617",
-    "05-Backend.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md.tmp.8500.8356c867841c",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.2 Portas e Sockets/3.2.2. Sockets/3.2.2.1. Como o SO forma o Socket (IP + Porta) para multiplexar conexões.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.2 Portas e Sockets/3.2.2. Sockets",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.2 Portas e Sockets/3.2.1. Portas Bem Conhecidas (Well-Known Ports)/3.2.1.1. Mapeamento dos serviços principais (ex - 80 HTTP, 443 HTTPS, 22 SSH).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.2 Portas e Sockets/3.2.1. Portas Bem Conhecidas (Well-Known Ports)",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.3. Análise de Decisão/3.1.3.1. Diferenças e casos de uso (Streaming e VoIP usa UDP - Transferência de Arquivos e Bancos de Dados usa TCP).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.3. Análise de Decisão",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.2. UDP (User Datagram Protocol)/3.1.2.1. Sem conexão, rápido, melhor esforço e sem garantia de entrega.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.2. UDP (User Datagram Protocol)",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.1. TCP (Transmission Control Protocol)/3.1.1.1. Confiabilidade, Handshake de 3 vias e ordenação de pacotes.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Transporte e Comunicação (Layer 4)/3.1 Protocolos TCP e UDP/3.1.1. TCP (Transmission Control Protocol)",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.4. VLSM (Variable Length Subnet Mask)",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.3. Matemática de Redes",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/2.2 Redes e Sub-redes/2.2.2. Sub-redes (Subnets)",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
-    "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
     "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
     "Sem título 1.canvas",
-    "Sem título.canvas",
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "Pasted image 20260329015359.png",

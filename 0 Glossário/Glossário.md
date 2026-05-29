@@ -10,7 +10,7 @@
 
 ### Conceitos Fundamentais
 
-- [ ] Internet
+- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos )|Internet]]
 - [ ] [[0 TCP IP (Tópicos )|TCP IP]]
 - [ ] DNS
 - [ ] VPN
