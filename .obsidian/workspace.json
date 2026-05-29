@@ -11,10 +11,14 @@
             "id": "2d3526ca06a93538",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/FACADE PATTERNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FACADE PATTERNS"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/FACADE PATTERNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para FACADE PATTERNS"
             }
           },
           {
@@ -163,6 +168,12 @@
   },
   "active": "2d3526ca06a93538",
   "lastOpenFiles": [
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/COMPOSITE PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/BRIDGE PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/ADAPTER PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/PROXY PATTERNS.md",
+    "5. Desenvolvimento Back-End/Particularidades da memória e do Garbage Collector em Java.md",
+    "Pasted image 20250407125752.png.md",
     "0 Glossário/Glossário.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "5. Desenvolvimento Back-End/Dot Net Core/0 Glossário ( ASP .Net Core).md",
@@ -186,14 +197,8 @@
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/FLYWEIGHT PATTERNS.md",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/Distinguindo Padrões de Projeto Criacionais, Estruturais e Comportamentais.md",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/Diferença entre os design.md",
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
-    "Padrões Arquiteturais.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
-    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
     "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls",
     "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!",
-    "Sem título.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
