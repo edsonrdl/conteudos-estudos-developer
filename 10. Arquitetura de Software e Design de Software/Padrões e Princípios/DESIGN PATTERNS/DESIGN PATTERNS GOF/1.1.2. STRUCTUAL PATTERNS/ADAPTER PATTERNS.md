@@ -29,9 +29,6 @@ Adapter de Objeto (Composição)
 
 O exemplo acima demonstra um adaptador de objeto, onde o adaptador contém uma instância do adaptee e delega as chamadas de métodos apropriados a ele. Este é o método mais comum em linguagens que não suportam herança múltipla.
 
-Diagrama UML CLASS
-
-![[Pasted image 20250407125432.png]]
 
 ### Exemplo em Java
 
