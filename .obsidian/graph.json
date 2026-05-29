@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Glossário",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 8.28125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38230109687699737,
-  "close": true
+  "scale": 1.053497942386836,
+  "close": false
 }

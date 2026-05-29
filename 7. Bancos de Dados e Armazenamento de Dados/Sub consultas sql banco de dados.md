@@ -158,8 +158,6 @@ WHERE EXISTS (
 Em vez disso, poderia ser reescrito com `JOIN` e agregação, o que pode ser mais eficiente:
 
 ```sql
-sql
-Copiar
 SELECT c.nome_cliente
 FROM clientes c
 JOIN pedidos p ON p.cliente_id = c.id
@@ -177,8 +175,6 @@ Evite usar subconsultas dentro da cláusula `SELECT`, especialmente quando elas 
 **Evite:**
 
 ```sql
-sql
-Copiar
 SELECT nome_cliente,
        (SELECT COUNT(*) FROM pedidos p WHERE p.cliente_id = c.id) AS total_pedidos
 FROM clientes c;
@@ -188,8 +184,6 @@ FROM clientes c;
 **Alternativa com `JOIN` e `GROUP BY`:**
 
 ```sql
-sql
-Copiar
 SELECT c.nome_cliente, COUNT(p.id) AS total_pedidos
 FROM clientes c
 LEFT JOIN pedidos p ON p.cliente_id = c.id
@@ -205,9 +199,7 @@ As subconsultas no `FROM` são úteis para criar tabelas temporárias, onde voc�
 
 **Exemplo:**
 
-```sql
-sql
-Copiar
+``` sql
 SELECT cliente_id, SUM(valor) AS total_vendas
 FROM (
     SELECT cliente_id, valor
@@ -229,8 +221,6 @@ Se você deseja verificar a **existência** de registros sem precisar dos dados 
 **Exemplo**:
 
 ```sql
-sql
-Copiar
 -- Verificando clientes que têm pedidos
 SELECT * FROM clientes c
 WHERE EXISTS (
