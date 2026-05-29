@@ -6,17 +6,13 @@ O padrão Composite é um padrão estrutural que permite que você trate objetos
 - **Leaf**: Representa objetos finais da composição (objetos simples).
 - **Composite**: Representa objetos compostos (coleções de outros objetos).
 
-Diagrama UML CLASS
-
-![[Pasted image 20250407125621.png]]
-
 ### Exemplo em Java
 
 Vamos considerar um exemplo onde temos uma estrutura de diretórios e arquivos em um sistema de arquivos.
 
 Interface Component
 
-```
+``` java
 public interface FileSystemComponent {
     void showDetails();
 }
@@ -25,7 +21,7 @@ public interface FileSystemComponent {
 
 Leaf
 
-```
+``` java
 public class File implements FileSystemComponent {
     private String name;
 
@@ -43,7 +39,7 @@ public class File implements FileSystemComponent {
 
 Composite
 
-```
+``` java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -76,7 +72,7 @@ public class Directory implements FileSystemComponent {
 
 Client
 
-```
+``` java
 public class CompositePatternTest {
     public static void main(String[] args) {
         // Creating leaf nodes

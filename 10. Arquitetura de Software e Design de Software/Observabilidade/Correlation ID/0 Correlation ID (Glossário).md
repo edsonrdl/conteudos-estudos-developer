@@ -86,12 +86,12 @@ Com a evolução da observabilidade ([[OpenTelemetry]]), os termos ficaram mais 
 
 ## 7. Links Relacionados
 
-- [[Tracing Distribuído]] - O conceito maior onde o Correlation ID se encaixa.
+- Tracing Distribuído - O conceito maior onde o Correlation ID se encaixa.
     
-- [[OpenTelemetry]] - O padrão atual da indústria para rastreio.
+- OpenTelemetry - O padrão atual da indústria para rastreio.
     
-- [[Logs estruturados]] - Como armazenar esse ID (JSON vs Texto).
+- [Logs estruturados - Como armazenar esse ID (JSON vs Texto).
     
-- [[API Gateway]] - O local ideal para gerar o ID.
+- API Gateway - O local ideal para gerar o ID.
     
-- [[Arquitetura de Microsserviços]]
+- Arquitetura de Microsserviços

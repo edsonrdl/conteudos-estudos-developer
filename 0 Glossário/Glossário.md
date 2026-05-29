@@ -7,62 +7,62 @@
 ### Conceitos Fundamentais
 - [ ]  Internet
 - [ ]  [[0 TCP IP (Tópicos )|TCP IP]]
-- [ ]  [[DNS]]
-- [ ]  [[VPN]]
-- [ ]  [[Firewalls]]
-- [ ]  [[Proxy]]
-- [ ]  [[Virtualização]]
+- [ ]  DNS
+- [ ]  VPN
+- [ ]  Firewalls
+- [ ]  Proxy
+- [ ]  Virtualização
 ### Arquitetura de Serviços!
-- [ ]  [[Load Balance]]
-- [ ]  [[Service Mesh]]
-- [ ] [Service Registry ou Service Discovery]
-- [ ] [Sidecar] - Ambassador, Envoy, Nginx
-- [ ] [[mTLS]]
+- [ ]  Load Balance
+- [ ]  Service Mesh
+- [ ] Service Registry ou Service Discovery
+- [ ] Sidecar - Ambassador, Envoy, Nginx
+- [ ] mTLS
 
 ---
 ## 2. Protocolos de APIs
 
 #apis #protocolos
 
-- [ ] [[API]] -
-- [ ] [[SOAP]] - Simple Object Access Protocol
-- [ ] [[API RESTful]] - Representational State Transfer
-- [ ] [[WebSockets]] - Comunicação bidirecional
-- [ ] [[gRPC]] - Google Remote Procedure Call
-- [ ] [[Graph ql]] -
+- [ ] API -
+- [ ] SOAP - Simple Object Access Protocol
+- [ ] API RESTful - Representational State Transfer
+- [ ] WebSockets - Comunicação bidirecional
+- [ ] gRPC - Google Remote Procedure Call
+- [ ] Graph ql -
 
 ---
 ## 3. Desenvolvimento Front-End
 
 #frontend #web
 ### Linguagens e Tecnologias Base
-- [ ]  [[HTML5]]
-- [ ] [[CSS]]
-- [ ] [[Sass]]
-- [ ] [[JavaScript]]
-- [ ] [[JSON]]
+- [ ]  HTML5
+- [ ] CSS
+- [ ] Sass
+- [ ] JavaScript
+- [ ] JSON
 ### Frameworks e Bibliotecas
-- [ ] [[PWA]] - Progressive Web App
-- [ ] [[Bootstrap]]
-- [ ] [[Angular]]
-- [ ] [[VueJS]]
-- [ ] [[React]]
-- [ ] [[jQuery]]
+- [ ] PWA - Progressive Web App
+- [ ] Bootstrap
+- [ ] Angular
+- [ ] VueJS
+- [ ] React]]
+- [ ] jQuery
 
 ---
 ## 4. Design e Experiência do Usuário
 
 #ux #design #ui
 ### Princípios de Design
-- [ ] [[Usabilidade]]
-- [ ] [[UI Design]]
-- [ ] [[UX Design]]
+- [ ] Usabilidade
+- [ ] UI Design
+- [ ] UX Design
 ### Ferramentas de Design
 
-- [ ] [[Figma]]
-- [ ] [[Sketch]]
-- [ ] [[Prototipação]] 
-- [ ] [[Wireframing]]
+- [ ] Figma
+- [ ] Sketch
+- [ ] Prototipação
+- [ ] Wireframing
 
 ---
 ## 5. Desenvolvimento Back-End
@@ -72,96 +72,97 @@
 
 #### Linguagens
 
-- [ ] [[PHP]]
-- [ ] [[Java]]
-- [ ] [[C#]]
-- [ ] [[C++]]
-- [ ] [[Node.js]] (incluindo [[Express.js]])
-- [ ] [[Ruby]]
-- [ ] [[Python]]
-- [ ] [[Perl]]
-- [ ] [[Scala]]
+- [ ] PHP
+- [ ] Java
+- [ ] C#
+- [ ] C++
+- [ ] Node.js (incluindo Express.js)
+- [ ] Ruby
+- [ ] Python
+- [ ] Perl
+- [ ] Scala
 #### Frameworks
 
-- [ ] [[.NET Core]]
-- [ ] [[ASP .NET Core]]
-- [ ] [[Django]]
-- [ ] [[Spring Boot]]
+- [ ] .NET Core
+- [ ] ASP .NET Core
+- [ ] Django
+- [ ] Spring Boot
 ### Arquiteturas de Back-End
 
-- [ ] [[SOA]] - Service-Oriented Architecture
-- [ ] [[Microsserviços]] - 
-- [ ] [[Arquitetura Hexagonal]]
-- [ ] [[Clean Architecture]]
-- [ ] [[Arquitetura MVC]]
+- [ ] SOA - Service-Oriented Architecture
+- [ ] Microsserviços - 
+- [ ] Arquitetura Hexagonal
+- [ ] Clean Architecture
+- [ ] Arquitetura MVC
 
 ### Padrões de Processamento e Fluxo
 
-- [ ] [[Middleware e Pipeline]] — Processamento em cadeia (Curto-circuito, roteamento). Usado em Express, ASP.NET.
-- [ ] [[Command Handler Pattern]] — Separação extrema de responsabilidades. Uma classe para cada intenção (usado com MediatR/CQRS).
-- [ ] [[Interceptor e Filter]] — Interceptação via hooks de framework (AOP, Spring, Axios, gRPC).
-- [ ] [[Decorator Pattern aplicado]] — Como usar Wrappers para adicionar Resiliência (Retry, Cache) sem alterar a regra de negócio.
+- [ ] Middleware e Pipeline — Processamento em cadeia (Curto-circuito, roteamento). Usado em Express, ASP.NET.
+- [ ] Command Handler Pattern — Separação extrema de responsabilidades. Uma classe para cada intenção (usado com MediatR/CQRS).
+- [ ] Interceptor e Filter — Interceptação via hooks de framework (AOP, Spring, Axios, gRPC).
+- [ ] Decorator Pattern aplicado — Como usar Wrappers para adicionar Resiliência (Retry, Cache) sem alterar a regra de negócio.
 
 ---
 ## 6. Mobile Development
 
 #mobile #app
 ### Linguagens e Frameworks
-- [ ] [[Java]] (Android)
-- [ ] [[Kotlin]] (Android)
-- [ ] [[React Native]] (Cross-platform)
-- [ ] [[Flutter]] (Cross-platform)
+- [ ] Java (Android)
+- [ ] Kotlin (Android)
+- [ ] React Native (Cross-platform)
+- [ ] Flutter (Cross-platform)
 
 ---
 ## 7. Bancos de Dados e Armazenamento
 #database #storage #dados
 
 ### Fundamentos e Bancos Relacionais
-- [ ] [[Introdução a banco de dados Relacional]]
-- [ ] [[SQL]]
+- [ ] Introdução a banco de dados Relacional
+- [ ] SQL
 #### Motores: 
-[[MySQL]]
-[[PostgreSQL]]
-[[SQL Server]]
+MySQL
+PostgreSQL
+SQL Server
 
 ### Fundamentos e Bancos Não-Relacionais
-- [ ] [[Introdução a banco de dados Não Relacional]]
-- [ ] [[NoSQL]] - Conceito geral
+- [ ] Introdução a banco de dados Não Relacional
+- [ ] NoSQL - Conceito geral
 #### Motores:
 [[7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/MONGODB/MONGODB|MongoDB]]
-[[Redis]]
+Redis
 
 ### Escalabilidade e Alta Disponibilidade (Resiliência)
-- [ ] [[Read Replica]] (Escala de Leitura)
-- [ ] [[Partitioning]] (Divisão Lógica/Física no mesmo nó)
-- [ ] [[Sharding]] (Divisão Física distribuída em múltiplos nós)
+- [ ] Read Replica (Escala de Leitura)
+- [ ] Partitioning]] (Divisão Lógica/Física no mesmo nó)
+- [ ] Sharding (Divisão Física distribuída em múltiplos nós)
 
 ### Padrões de Arquitetura de Dados e Estado
-- [ ] [[OLTP vs OLAP]] (Transacional vs Analítico)
-- [ ] [[Event Sourcing]] (Estado como fluxo de eventos imutáveis)
-- [ ] [[Snapshotting]] (Otimização de leitura para Event Sourcing)
+- [ ] OLTP vs OLAP (Transacional vs Analítico)
+- [ ] Event Sourcing (Estado como fluxo de eventos imutáveis)
+- [ ] Snapshotting (Otimização de leitura para Event Sourcing)
 
 ### Governança e Contratos de Dados
-- [ ] [[Schema Registry]] (Validação e evolução de schemas)
+- [ ] Schema Registry (Validação e evolução de schemas)
 
 ### Big Data e Arquiteturas Analíticas
-#### Arquiteturas: [[Data Warehouse]]
-[[Data Lake]]
-[[Data Mesh]]
+#### Arquiteturas: 
+Data Warehouse
+Data Lake
+Data Mesh
 #### Motores de Processamento: 
-[[Apache Spark]]
-[[Hadoop]]
+Apache Spark
+Hadoop
 
 ---
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
 #devops #infraestrutura #ci-cd
 ### Controle de Versão
-- [ ] [[Git]]
-- [ ] [[GitHub]]
-- [ ] [[GitLab]]
-- [ ] [[Bitbucket]]
-- [ ] [[GitFlow]]
+- [ ] Git
+- [ ] GitHub
+- [ ] GitLab
+- [ ] Bitbucket
+- [ ] GitFlow
 ### Virtualização e Contêineres
 - [ ]  Hipervisores (Hypervisors / VMM)
 - [ ] Virtualização
@@ -176,50 +177,50 @@
 - [ ] 12-Factor App
 - [ ] Configuration Externalization
 #### Infrastructure as Code (IaC)
-- [ ]  [[Terraform|Terraform]]
-- [[Pulumi]]
-- [[Ansible]]
+- [ ]  Terraform
+- Pulumi
+- Ansible
 #### Service Mesh
-- [[Istio]]
-- [[Linkerd]]
+- Istio
+- Linkerd
 ### Cloud Computing
-- [[Google Cloud Platform]]
-- [[0 AWS core (Glossário )|AWS]] - Amazon Web Services
-- [[Azure]]
-- [[OpenStack]]
-- [[Salesforce]] - CRM e desenvolvimento em nuvem
+- Google Cloud Platform
+- 0 AWS core (Glossário )|AWS - Amazon Web Services
+- Azure
+- OpenStack
+- Salesforce - CRM e desenvolvimento em nuvem
 ### CI/CD - Integração e Deploy Contínuo
-- [[Jenkins]]
-- [[Replicaset]]
-- [[Deployment]]
-- [[ArgoCD]]
-- [[Tekton]]
-- [[GitHub Actions]]
-- [[GitLab CI/CD]]
+- Jenkins
+- Replicaset
+- Deployment
+- ArgoCD
+- Tekton
+- GitHub Actions
+- GitLab CI/CD
 
 #### Estratégias de Deploy
 
-- [[Blue-Green]]
-- [[Canary]]
-- [[Rolling]]
-- [[Progressive Delivery]]
+- Blue-Green
+- Canary
+- Rolling
+- Progressive Delivery
 
 ### Observabilidade
 
 #observabilidade #monitoring
 
-- [[Prometheus]]
-- [[Grafana]]
-- [[ELK Stack]] (Elasticsearch, Logstash, Kibana)
+- Prometheus
+- Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
 
 #### Tracing Distribuído
 
-- [[OpenTelemetry]]
-- [[Jaeger]]
+- OpenTelemetry
+- Jaeger
 
 #### SRE - Site Reliability Engineering
 
-- [[SLI/SLO]] - Service Level Indicators/Objectives
+- SLI/SLO - Service Level Indicators/Objectives
 - Alertas
 - Error Budget
 
@@ -231,9 +232,9 @@
 
 #### Ferramentas
 
-- [[LitmusChaos]]
-- [[Chaos Mesh]]
-- [[Gremlin]]
+- LitmusChaos
+- Chaos Mesh
+- Gremlin
 
 #### Casos de Uso
 
@@ -243,15 +244,14 @@
 
 ### Gerenciamento de APIs e Serviços
 
-- [[Insomnia]]
--  [[Isominia]]
-- [[Firebase]]
+- Insomnia
+- Firebase
 
 ### Interface Gráfica e Gerenciamento de Clusters
 
-- [[Lens]]
-- [[Rancher]]
-- [[K9s]]
+- Lens
+- Rancher
+- K9s
 
 ---
 
@@ -261,24 +261,24 @@
 
 ### Ciclo de Vida do Desenvolvimento
 
-- [[Processos de Desenvolvimento de Software]]
-- [[Requisitos de Software]]
-- [[Projeto de Software]]
-- [[Implementação e Codificação]]
-- [[Engenharia de Testes]]
-- [[Engenharia de Manutenção de Software]]
+- Processos de Desenvolvimento de Software
+- Requisitos de Software
+- Projeto de Software
+- Implementação e Codificação
+- Engenharia de Testes
+- Engenharia de Manutenção de Software
 
 ### Qualidade e Configuração
 
-- [[Qualidade de Software]]
-- [[Gerenciamento de Configuração de Software]]
+- Qualidade de Software
+- Gerenciamento de Configuração de Software
 
 ### Métricas e SLAs
 
-- [[SLI/SLO/SLA]]
+- SLI/SLO/SLA
 ### Processos de Testes
-- [[Latência]]
-- [[Throughput]]
+- Latência
+- Throughput
 
 ### Métricas e Qualidade:
 [[9. Engenharia de Software/Métricas e Qualidade/0 Erros Críticos em Programação (Glossário)|Erros Críticos em Programação]]
@@ -293,12 +293,12 @@
 
  - [ ] [[Domain-Driven Design (DDD)]]
 - [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário)|DESIGN PATTERNS]]
-- [[|Princípios SOLID]]
-- [[Hexagonal]]
+- [Princípios SOLID]
+- Hexagonal
 - [[Microservices]]
-- [[Clean architecture]]
-- [[MVC]]
-- [[Statefull vs Stateless]]
+- Clean architecture
+- MVC
+- Statefull vs Stateless
 - Database per Service
 - Strangler Fig
 

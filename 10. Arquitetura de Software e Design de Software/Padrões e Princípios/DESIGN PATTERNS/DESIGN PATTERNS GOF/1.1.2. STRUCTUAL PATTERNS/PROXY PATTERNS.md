@@ -12,7 +12,7 @@ Vamos considerar um exemplo onde temos uma interface de "Image" que é implement
 
 Subject
 
-```
+``` java
 public interface Image {
     void display();
 }
@@ -21,7 +21,7 @@ public interface Image {
 
 RealSubject
 
-```
+``` java
 public class RealImage implements Image {
     private String filename;
 
@@ -44,7 +44,7 @@ public class RealImage implements Image {
 
 Proxy
 
-```
+``` java
 public class ProxyImage implements Image {
     private RealImage realImage;
     private String filename;
@@ -66,7 +66,7 @@ public class ProxyImage implements Image {
 
 Client
 
-```
+``` java
 public class ProxyPatternTest {
     public static void main(String[] args) {
         Image image1 = new ProxyImage("test_10mb.jpg");

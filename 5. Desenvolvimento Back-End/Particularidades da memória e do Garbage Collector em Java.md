@@ -312,5 +312,3 @@ Sempre **teste seu app com o GC escolhido**, usando ferramentas como:
 - VisualVM
 - Java Flight Recorder (JFR)
 - GC logs: `Xlog:gc*` no Java 11+
-
--![[Pasted image 20250727141818.png]]

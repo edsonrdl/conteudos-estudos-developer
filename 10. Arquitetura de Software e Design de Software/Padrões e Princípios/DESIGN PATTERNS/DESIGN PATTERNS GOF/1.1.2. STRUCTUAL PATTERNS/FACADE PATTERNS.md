@@ -5,16 +5,13 @@ O padrão Facade é um padrão estrutural que fornece uma interface simplificada
 - **Facade**: Fornece uma interface simplificada para o subsistema.
 - **Subsystem Classes**: Contém a funcionalidade complexa do sistema. O Facade delega as chamadas dos clientes para os métodos apropriados dessas classes.
 
-Diagrama UML ClASS
-
-![[Pasted image 20250407125733.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo onde temos um sistema complexo de home theater com vários componentes, como DVD player, projetor, amplificador, etc. O Facade vai simplificar a interface para ligar e desligar o sistema de home theater.
 
 Classes do Subsistema
 
-```
+``` java
 public class Amplifier {
     public void on() {
         System.out.println("Amplifier on");
@@ -77,7 +74,7 @@ public class TheaterLights {
 
 Facade
 
-```
+``` java
 public class HomeTheaterFacade {
     private Amplifier amp;
     private DvdPlayer dvd;
@@ -119,7 +116,7 @@ public class HomeTheaterFacade {
 
 Cliente
 
-```
+``` java
 public class HomeTheaterTest {
     public static void main(String[] args) {
         Amplifier amp = new Amplifier();

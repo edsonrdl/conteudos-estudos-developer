@@ -8,9 +8,6 @@ O padrão Flyweight é um padrão estrutural que permite que um grande número d
 - **FlyweightFactory**: Cria e gerencia objetos Flyweight, garantindo que os objetos sejam compartilhados corretamente.
 - **Client**: Mantém referências para os objetos Flyweight e interage com eles.
 
-Diagram UML CLASS
-
-![[Pasted image 20250407125818.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo de um editor de texto onde cada caractere pode ser considerado um objeto. Usando o padrão Flyweight, podemos compartilhar a representação de cada caractere para economizar memória.
