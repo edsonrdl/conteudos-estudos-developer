@@ -44,7 +44,7 @@ public class CharacterConcreteFlyweight implements CharacterFlyweight {
 
 FlyweightFactory
 
-```
+``` java
 import java.util.HashMap;
 import java.util.Map;
 
