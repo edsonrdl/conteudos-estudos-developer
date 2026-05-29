@@ -46,7 +46,7 @@
 - [ ] Bootstrap
 - [ ] Angular
 - [ ] VueJS
-- [ ] React]]
+- [ ] React
 - [ ] jQuery
 
 ---
@@ -128,12 +128,12 @@ SQL Server
 - [ ] Introdução a banco de dados Não Relacional
 - [ ] NoSQL - Conceito geral
 #### Motores:
-[[7. Bancos de Dados e Armazenamento de Dados/03 NÃO RELACIONAL/MONGODB/MONGODB|MongoDB]]
+MongoDB
 Redis
 
 ### Escalabilidade e Alta Disponibilidade (Resiliência)
 - [ ] Read Replica (Escala de Leitura)
-- [ ] Partitioning]] (Divisão Lógica/Física no mesmo nó)
+- [ ] Partitioning (Divisão Lógica/Física no mesmo nó)
 - [ ] Sharding (Divisão Física distribuída em múltiplos nós)
 
 ### Padrões de Arquitetura de Dados e Estado
@@ -281,7 +281,7 @@ Hadoop
 - Throughput
 
 ### Métricas e Qualidade:
-[[9. Engenharia de Software/Métricas e Qualidade/0 Erros Críticos em Programação (Glossário)|Erros Críticos em Programação]]
+Erros Críticos em Programação
 
 ---
 
@@ -291,11 +291,11 @@ Hadoop
 
 ### Padrões e Princípios
 
- - [ ] [[Domain-Driven Design (DDD)]]
-- [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário)|DESIGN PATTERNS]]
+ - [ ] Domain-Driven Design (DDD)
+- DESIGN PATTERNS
 - [Princípios SOLID]
 - Hexagonal
-- [[Microservices]]
+- Microservices
 - Clean architecture
 - MVC
 - Statefull vs Stateless
@@ -325,53 +325,53 @@ Hadoop
 - Responsabilidades do BFF — Agregação, transformação, autenticação de sessão, cache de borda
 ### Performance: Latência & Vazão
 
-- [ ] [[Latência vs Throughput]] — O trade-off fundamental .
-- [ ] [[Latency Budgeting]] — Tempo máximo aceitável por request.
-- [ ] [[Métricas p95 e p99]] — Como medir a experiência real.
-- [ ] [[Táticas de Otimização]] — (Batching, Paralelismo, Caching).
+- [ ] Latência vs Throughput — O trade-off fundamental .
+- [ ] Latency Budgeting — Tempo máximo aceitável por request.
+- [ ] Métricas p95 e p99 — Como medir a experiência real.
+- [ ] Táticas de Otimização — (Batching, Paralelismo, Caching).
 ### Integração e Mensageria
 
-- [[Event-Driven Architecture]] (EDA) - Reações a eventos
-- [[Event Streaming]] ([[Kafka]]) - Stream contínuo de eventos
-- [[Kafka]] vs [[RabbitMQ]] - Log distribuído vs message broker
-- [[Pub sub]] -
-- [[EIP]] & [[ESB]] - Enterprise Integration Patterns
-- [[API Gateway]] - Roteamento, auth, rate limit
+- Event-Driven Architecture (EDA) - Reações a eventos
+- Event Streaming (Kafka) - Stream contínuo de eventos
+- Kafka vs RabbitMQ - Log distribuído vs message broker
+- Pub sub -
+- EIP & ESB - Enterprise Integration Patterns
+- API Gateway - Roteamento, auth, rate limit
 - API Composition
-- [[Coreografia]] vs [[Orquestração]
-- [[Apache Camel]] - Enterprise Integration Patterns
+- Coreografia vs [[Orquestração]
+- Apache Camel - Enterprise Integration Patterns
 
 ### Resiliência e Controle de Fluxo
 
-- [[Backpressure]] - Controle de fluxo upstream
-- [[Rate Limiting]] - Limita chamadas por janela
-- [[API Throttling]] - Controle de uso (por exemplo, por plano de serviço)
-- [[Load Shedding]] - Descarta carga para manter sistema
-- [[Circuit Breaker]] - Evita chamar dependências instáveis
-- [[ 10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Retry Patterns.md|Retry Pattern]] - Permite que uma operação falha seja repetida automaticamente
-- [[10. Arquitetura de Software e Design de Software/Resiliência e Controle de fluxo/Timeout Patterns.md |Timeout / Deadline Pattern]] -Define um tempo limite máximo para as chamadas de rede ou operações
+- Backpressure - Controle de fluxo upstream
+- Rate Limiting - Limita chamadas por janela
+- API Throttling - Controle de uso (por exemplo, por plano de serviço)
+- Load Shedding - Descarta carga para manter sistema
+- Circuit Breaker - Evita chamar dependências instáveis
+- Retry Pattern - Permite que uma operação falha seja repetida automaticamente
+- Timeout / Deadline Pattern -Define um tempo limite máximo para as chamadas de rede ou operações
 - Fallback Pattern - Fornece uma resposta alternativa (cache, dados padrão).
-- [[Bulkhead]] - Isolamento de falhas
-- [[Caching]] - Melhoria de latência e disponibilidade
+- Bulkhead - Isolamento de falhas
+- Caching - Melhoria de latência e disponibilidade
 
 ### Dados e Consistência
 
-- [[CQRS]] - Command Query Responsibility Segregation
-- [[SAGA]] - Coordenação de transações distribuídas
-- [[CAP Theorem]] - Consistency, Availability, Partition tolerance
-- [[Teorema PACELC]] - 
-- [[Transactional Outbox Pattern]] - Consistência de dados e eventos em microsserviços
-- [[BASE]] vs [[ACID]] - V
-- [[Consistência Eventual]]
+- CQRS - Command Query Responsibility Segregation
+- SAGA - Coordenação de transações distribuídas
+- CAP Theorem - Consistency, Availability, Partition tolerance
+- Teorema PACELC - 
+- Transactional Outbox Pattern - Consistência de dados e eventos em microsserviços
+- BASE vs ACID - V
+- Consistência Eventual
 - Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
 - Leader Election - Escolha de um nó coordenador em um cluster.
 
 ### Observabilidade
 
-- **Três Pilares:** [[Logs]], [[Métricas]], [[Traces]]
-- [[Tracing Distribuído]] - Rastreamento ponta a ponta
-- [[SLOs]] & [[Latency Budget]] - Metas guiando alertas
-- [[0 Correlation ID (Glossário)]]
+- **Três Pilares:** Logs, Métricas, Traces
+- Tracing Distribuído - Rastreamento ponta a ponta
+- SLOs & Latency Budget - Metas guiando alertas
+- 0 Correlation ID (Glossário)
 
 ---
 
@@ -381,29 +381,29 @@ Hadoop
 
 ### Estruturas de Dados
 
-- [[Arrays]]
-- [[Listas]]
-- [[Pilhas]]
-- [[Filas]]
-- [[Árvores]]
-- [[Grafos]]
+- Arrays
+- Listas
+- Pilhas
+- Filas
+- Árvores
+- Grafos
 
 ### Paradigmas de Programação
 
-- [ ] [[Orientação a Objetos]]
-- [ ] [[Programação Funcional]]
+- [ ] Orientação a Objetos
+- [ ] Programação Funcional
 
 ### Mecanismos de Execução
-- [ ] [[0 Expressões Lambda (Funções Anônimas)]]
-- [ ] [[Closures]]
-- [ ] [[Higher-Order Functions]]
-- [ ] [[Recursão]]
+- [ ] 0 Expressões Lambda (Funções Anônimas)
+- [ ] Closures
+- [ ] Higher-Order Functions
+- [ ] Recursão
 
 ### Algoritmos e Abordagens Fundamentais
 
-- [ ] [[Algoritmos de Busca]]
-- [ ] [[Algoritmos de Ordenação]] 
-- [ ] [[Complexidade de Algoritmos (Big-O)]]
+- [ ] Algoritmos de Busca
+- [ ] Algoritmos de Ordenação 
+- [ ] Complexidade de Algoritmos (Big-O)
 ---
 
 ## 12. Plataformas e Sistemas Operacionais
@@ -412,15 +412,15 @@ Hadoop
 
 ### Sistemas Operacionais
 
-- [[Windows]]
-- [[Linux]]
-- [[iOS]]
-- [[Android]]
-- [[IBM i]]
+- Windows
+- Linux
+- iOS
+- Android
+- IBM i
 
 ### Plataformas de Desenvolvimento
 
-- [[Google Platform]] (desenvolvimento de apps e serviços)
+- Google Platform (desenvolvimento de apps e serviços)
 
 ---
 
@@ -430,25 +430,25 @@ Hadoop
 
 ### Conceitos Fundamentais
 
-- [[Criptografia]]
-- [[Autenticação]] e [[Autorização]]
--  [[13. Segurança da Informação/Conceitos Fundamentais/CHAVE SSH/CHAVE SSH.md|CHAVE SSH]]
-- [ ] [[13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/0 SSL e TLS (Glossário).md |SSL e TLS]] Mana-  O protocolo prático de segurança.
-- [ ] [[OAuth 2.0]]
-- [ ] [[OpenID Connect (OIDC)]]
-- [ ] [[SAML]]
-- [[Teste de Penetração]]
-- [[Proteção de Dados Pessoais]]
+- Criptografia
+- Autenticação e Autorização
+-  CHAVE SSH
+- [ ] SSL e TLS Mana-  O protocolo prático de segurança.
+- [ ] OAuth 2.0
+- [ ] OpenID Connect (OIDC)
+- [ ] SAML
+- Teste de Penetração
+- Proteção de Dados Pessoais
 
 ### Conformidade
 
-- [[GDPR]] - General Data Protection Regulation
-- [[CCPA]] - California Consumer Privacy Act
+- GDPR - General Data Protection Regulation
+- CCPA - California Consumer Privacy Act
 
 ### Controles de Acesso
 
-- [[Rate Limiting]]
-- [[JWT]] (Padrão para Tokens de Sessão/Acesso)
+- Rate Limiting
+- JWT (Padrão para Tokens de Sessão/Acesso)
 ---
 
 ## 14. Inteligência Artificial e Machine Learning
@@ -457,90 +457,90 @@ Hadoop
 
 ### Conceitos e Fundamentos
 
-- [[Fundamentos de ML/AI]]
-- [[Aprendizado Supervisionado]]
-- [[Aprendizado Não Supervisionado]]
-- [[Redes Neurais]]
-- [ ] [[Modelos de Raciocínio (Reasoning Models)]] 🆕
-- [ ] [[Como LLMs Funcionam — Transformers e Tokenização]] 🆕
-- [ ] [[Context Window, Tokens e Custo de Inferência]] 🆕
-- [ ] [[Embeddings — De Texto a Vetores Semânticos]] 🆕
+- Fundamentos de ML/AI
+- Aprendizado Supervisionado
+- Aprendizado Não Supervisionado
+- Redes Neurais
+- [ ] Modelos de Raciocínio (Reasoning Models) 🆕
+- [ ] Como LLMs Funcionam — Transformers e Tokenização 🆕
+- [ ] Context Window, Tokens e Custo de Inferência 🆕
+- [ ] Embeddings — De Texto a Vetores Semânticos 🆕
 
 ---
 
 ### Ferramentas e Bibliotecas
 
-- [[scikit-learn]]
-- [[TensorFlow]]
-- [[PyTorch]]
-- [ ] [[Hugging Face Transformers]] 🆕
-- [ ] [[Ollama — Modelos Locais]] 🆕
+- scikit-learn
+- TensorFlow
+- PyTorch
+- [ ] Hugging Face Transformers 🆕
+- [ ] Ollama — Modelos Locais 🆕
 
 ---
 
 ### Visão Computacional
 
-- [[OpenCV]] - Processamento de Imagem
-- [[YOLO]] - Detecção de Objetos
-- [[TensorFlow Object Detection API]]
+- OpenCV - Processamento de Imagem
+- YOLO - Detecção de Objetos
+- TensorFlow Object Detection API
 
 ---
 
 ### Multimodalidade 🆕
 
-- [ ] [[Modelos Multimodais (GPT-4V, Claude, Gemini)]]
-- [ ] [[RAG Multimodal — Imagens, Áudio e Vídeo]]
-- [ ] [[Computer Use — Agentes que Controlam Interfaces]]
-- [ ] [[Voice Agents — Speech-to-Speech]]
+- [ ] Modelos Multimodais (GPT-4V, Claude, Gemini)
+- [ ] RAG Multimodal — Imagens, Áudio e Vídeo
+- [ ] Computer Use — Agentes que Controlam Interfaces
+- [ ] Voice Agents — Speech-to-Speech
 
 ---
 
 ### AI Engineering (Engenharia Aplicada)
 
-- [ ] [[0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )|Engenharia de IA Aplicada (AI Engineering)]] _(contém: LLMs, RAG, Embeddings, Frameworks, Extração, Avaliação, Fine-Tuning, LLMOps)_
+- [ ] Engenharia de IA Aplicada (AI Engineering) _(contém: LLMs, RAG, Embeddings, Frameworks, Extração, Avaliação, Fine-Tuning, LLMOps)_
 
 ---
 
 ### Padrões e Arquitetura de IA
 
-- [ ] [[Retrieval-Augmented Generation (RAG)]]
-- [ ] [[14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/0 Agentic Workflows e Orquestração ( Glossário )|Agentic Workflows e Orquestração]]
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] Agentic Workflows e Orquestração
 - [ ] Harness — Runtime de Controle de Agentes
-- [ ] Protocolos de Agentes — MCP e A2A]]
+- [ ] Protocolos de Agentes — MCP e A2A
 - [ ] Supervisão Humana — HITL, HOTL e HIC]
 - [ ] Memória de Agentes (Mem0, Zep, MemoryOS)
-- [ ] [[LLMOps e Governança]]
-- [ ] [[Spec-Driven Development (SDD)]] 🆕
-- [ ] [[Guardrails e Segurança de IA]] 🆕
-- [ ] [[Infraestrutura de Inferência — vLLM, Quantização, Routing]] 🆕
+- [ ] LLMOps e Governança
+- [ ] Spec-Driven Development (SDD) 🆕
+- [ ] Guardrails e Segurança de IA 🆕
+- [ ] Infraestrutura de Inferência — vLLM, Quantização, Routing 🆕
 
 ---
 
 ### Fine-Tuning e Adaptação de Modelos 🆕
 
-- [ ] [[Quando Usar Fine-Tuning vs RAG]]
-- [ ] [[LoRA e QLoRA]]
-- [ ] [[RLHF e DPO — Alinhamento de Modelos]]
-- [ ] [[Dados Sintéticos para Fine-Tuning]]
+- [ ] Quando Usar Fine-Tuning vs RAG
+- [ ] LoRA e QLoRA
+- [ ] RLHF e DPO — Alinhamento de Modelos
+- [ ] Dados Sintéticos para Fine-Tuning
 
 ---
 
 ### Governança e Ética em IA 🆕
 
-- [ ] [[AI TRiSM — AI Trust, Risk and Security Management]]
-- [ ] [[NIST AI RMF]]
-- [ ] [[EU AI Act]]
-- [ ] [[LGPD Aplicada a Sistemas de IA]]
-- [ ] [[Modelo de Maturidade de Governança de IA]]
+- [ ] AI TRiSM — AI Trust, Risk and Security Management
+- [ ] NIST AI RMF
+- [ ] EU AI Act
+- [ ] LGPD Aplicada a Sistemas de IA
+- [ ] Modelo de Maturidade de Governança de IA
 
 ---
 
 ### Fundamentos Clássicos (Data Science)
 
-- [ ] [[Redes Neurais e Deep Learning]]
-- [ ] [[Visão Computacional]]
-- [ ] [[Estatística para ML]]
-- [ ] [[Avaliação de Modelos Clássicos]]
+- [ ] Redes Neurais e Deep Learning
+- [ ] Visão Computacional
+- [ ] Estatística para ML
+- [ ] Avaliação de Modelos Clássicos
 
 ---
 
@@ -550,22 +550,22 @@ Hadoop
 
 ### Ferramentas de BI e Visualização
 
-- [[Power BI]]
-- [[Tableau]]
-- [[QlikView]]
+- Power BI
+- Tableau
+- QlikView
 
 ### Linguagens e Bibliotecas para Análise
 
 #### Python
 
-- [[pandas]]
-- [[numpy]]
-- [[matplotlib]]
-- [[seaborn]]
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 #### R
 
-- [[R]] (para estatística avançada)
+- R (para estatística avançada)
 
 ---
 
@@ -575,11 +575,11 @@ Hadoop
 
 ### Ferramentas de ETL
 
-- [[8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Apache Kafka]]
-- [[Talend]]
-- [[Pentaho]]
-- [[Apache Spark]]
-- [[Hadoop]]
+- 8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Apache Kafka
+- Talend
+- Pentaho
+- Apache Spark
+- Hadoop
 
 ---
 
@@ -589,10 +589,10 @@ Hadoop
 
 ### Ferramentas de Automação
 
-- [[Selenium]] - Automação de testes em navegadores
-- [[PyAutoGUI]] - Automação de desktop
-- [[Automation Anywhere]] - Processos empresariais
-- [[BotCity]] - Automação específica
+- Selenium - Automação de testes em navegadores
+- PyAutoGUI - Automação de desktop
+- Automation Anywhere - Processos empresariais
+- BotCity - Automação específica
 
 ---
 
@@ -604,18 +604,18 @@ Hadoop
 
 #### Testes Unitários
 
-- [[JUnit]] / [[TestNG]] (Java)
+- JUnit / TestNG (Java)
 
 #### Testes de Interface
 
-- [[Selenium]] - Testes de UI automatizados
+- Selenium - Testes de UI automatizados
 
 #### Testes de API
 
-- [[Insomnia]] / [[Newman]] - Testes de API REST
+- Insomnia / Newman - Testes de API REST
 
 #### Testes de Performance
 
-- [[K6]] - Testes de carga para APIs e serviços
+- K6 - Testes de carga para APIs e serviços
 
 ---
