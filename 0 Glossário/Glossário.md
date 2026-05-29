@@ -116,6 +116,10 @@
 - [ ] Clean Architecture
 - [ ] Arquitetura MVC
 
+### Conceitos de Runtime
+
+- [ ] [[5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/0 Garbage Collection (Tópicos )|Garbage Collection]]
+
 ### Padrões de Processamento e Fluxo
 
 - [ ] Middleware e Pipeline — Processamento em cadeia (Curto-circuito, roteamento). Usado em Express, ASP.NET.

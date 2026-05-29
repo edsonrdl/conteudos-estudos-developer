@@ -11,10 +11,14 @@
             "id": "e7763679920e1256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 Glossário/Glossário.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Glossário"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -164,45 +168,46 @@
   },
   "active": "e7763679920e1256",
   "lastOpenFiles": [
-    "12. Plataformas e Sistemas Operacionais/Garbage Collector/0. Garbage Collection.md",
-    "Sem título.canvas",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/0 Garbage Collection (Tópicos ).md",
+    "0 Glossário/Glossário.md.tmp.8500.29403b95ea6d",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/0 Garbage Collection (Tópicos ).md.tmp.8500.a71587663607",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.3. Casos Especiais e Alternativas/5.1.3.1. Sistemas low-latency e near real-time — object pooling, off-heap memory e alternativas sem GC.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.3. Casos Especiais e Alternativas/5.1.3.1. Sistemas low-latency e near real-time — object pooling, off-heap memory e alternativas sem GC.md.tmp.8500.be5aa3b3aa0c",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.3. Casos Especiais e Alternativas",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/0 Spring boot ( Glossário  ).md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.2. Padrões de Código Problemáticos/5.1.2.1. Memory leaks lógicos, objetos de vida longa, caches sem descarte e closures retendo referências.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.2. Padrões de Código Problemáticos/5.1.2.1. Memory leaks lógicos, objetos de vida longa, caches sem descarte e closures retendo referências.md.tmp.8500.1b30e8756f96",
+    "5. Desenvolvimento Back-End/C sharp/C sharp.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/5. Performance e Trade-offs/5.1 Tuning e Problemas/5.1.1. Latência vs Throughput/5.1.1.1. Trade-offs fundamentais do GC, heap sizing, escolha de coletor e análise de GC logs.md",
+    "5. Desenvolvimento Back-End/Camada de Domain/Boas Práticas para Spring Boot e .NET Core.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.3. V8 (JavaScript) e CPython/4.1.3.1. V8 incremental marking e scavenge, CPython reference counting e cycle detector.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.3. V8 (JavaScript) e CPython/4.1.3.1. V8 incremental marking e scavenge, CPython reference counting e cycle detector.md.tmp.8500.483fabb28d06",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.2. CLR (.NET)/4.1.2.1. Gerações 0, 1 e 2, Large Object Heap (LOH), Workstation GC vs Server GC.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.2. CLR (.NET)/4.1.2.1. Gerações 0, 1 e 2, Large Object Heap (LOH), Workstation GC vs Server GC.md.tmp.8500.f8001faae1c3",
     "0 Glossário/Glossário.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "0 Glossário/Glossário.md.tmp.8500.5bc71c7f54bb",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md.tmp.8500.c290e11b364a",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.2. IPv4 e IPv6/4.1.2.1. Esgotamento do IPv4, a transição para IPv6 e mecanismos de coexistência (NAT, dual-stack, tunneling).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.2. IPv4 e IPv6/4.1.2.1. Esgotamento do IPv4, a transição para IPv6 e mecanismos de coexistência (NAT, dual-stack, tunneling).md.tmp.8500.672cec7e0a85",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.1. ICANN, IANA e RIRs/4.1.1.1. Quem governa a Internet — ICANN (domínios e coordenação), IANA (alocação de endereços e protocolos), RIRs (distribuição regional de IPs).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/4. Governança e Endereçamento/4.1 Organizações e Padrões/4.1.1. ICANN, IANA e RIRs/4.1.1.1. Quem governa a Internet — ICANN (domínios e coordenação), IANA (alocação de endereços e protocolos), RIRs (distribuição regional de IPs).md.tmp.8500.aa5bf25bd686",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.2. Ameaças Comuns/3.1.2.1. DDoS, BGP hijacking e DNS spoofing — ataques à infraestrutura da Internet e como são mitigados.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.1. BGP — Border Gateway Protocol/2.1.1.1. O que é BGP, Sistemas Autônomos (AS) e como o roteamento entre ISPs determina o caminho dos pacotes.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.2. Ameaças Comuns/3.1.2.1. DDoS, BGP hijacking e DNS spoofing — ataques à infraestrutura da Internet e como são mitigados.md.tmp.8500.eb38874d7d53",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.2 Estrutura Física/1.2.2. Infraestrutura Física/1.2.2.1. Backbones, cabos submarinos, pontos de presença (PoPs) e IXPs (Internet Exchange Points).md",
-    "_SPEC - Criar Novo Tópico Filho.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.1. TLS e SSL/3.1.1.1. Como o TLS protege o tráfego na Internet — handshake, certificados digitais e infraestrutura de chave pública (PKI).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/3. Segurança e Privacidade/3.1 Segurança na Transmissão/3.1.1. TLS e SSL/3.1.1.1. Como o TLS protege o tráfego na Internet — handshake, certificados digitais e infraestrutura de chave pública (PKI).md.tmp.8500.c3e6ec671a47",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. Outros Protocolos Fundamentais/2.2.2.1. FTP, SMTP, IMAP e POP3 — protocolos que constroem serviços de transferência de arquivos e e-mail sobre o TCP-IP.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. Outros Protocolos Fundamentais/2.2.2.1. FTP, SMTP, IMAP e POP3 — protocolos que constroem serviços de transferência de arquivos e e-mail sobre o TCP-IP.md.tmp.8500.a43f2ea70992",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP e HTTPS/2.2.1.1. Como o HTTP e HTTPS sustentam a Web — modelo request e response, versões (HTTP 1.1, HTTP 2, HTTP 3 sobre QUIC).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP e HTTPS/2.2.1.1. Como o HTTP e HTTPS sustentam a Web — modelo request e response, versões (HTTP 1.1, HTTP 2, HTTP 3 sobre QUIC).md.tmp.8500.4b8a94751b41",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.2. DNS na Internet/2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.2. DNS na Internet/2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia.md.tmp.8500.089e59c646f4",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.1. BGP — Border Gateway Protocol/2.1.1.1. O que é BGP, Sistemas Autônomos (AS) e como o roteamento entre ISPs determina o caminho dos pacotes.md.tmp.8500.43ba66cee72a",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.1 O que é a Internet/1.1.1. Definição e História/1.1.1.1. O que é a Internet, diferença entre internet (rede genérica) e Internet (a rede global), origem na ARPANET.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/1. Fundamentos e Arquitetura/1.2 Estrutura Física/1.2.1. Camadas de Provedores/1.2.1.1. Hierarquia de ISPs (Tier 1, Tier 2, Tier 3) — como o tráfego flui do usuário doméstico até o backbone global.md",
-    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Proxy.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.1. JVM (Java)/4.1.1.1. G1 GC, ZGC, Shenandoah — coletores, eden e survivor spaces, Metaspace e tuning.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/4. GC por Plataforma/4.1 Implementações/4.1.1. JVM (Java)/4.1.1.1. G1 GC, ZGC, Shenandoah — coletores, eden e survivor spaces, Metaspace e tuning.md.tmp.8500.7534b18c7556",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/3. Algoritmos de GC/3.1 Algoritmos Fundamentais/3.1.3. Generational e Concurrent GC/3.1.3.1. GC geracional como estratégia dominante, coleta concorrente e incremental.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/3. Algoritmos de GC/3.1 Algoritmos Fundamentais/3.1.3. Generational e Concurrent GC/3.1.3.1. GC geracional como estratégia dominante, coleta concorrente e incremental.md.tmp.8500.e8b8d82576b6",
+    "5. Desenvolvimento Back-End/Idenpotência.md",
+    "5. Desenvolvimento Back-End/Melhores Práticas para Tratamento de Erros Spring Boot vs ASP.NET Core.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/3. Algoritmos de GC/3.1 Algoritmos Fundamentais/3.1.2. Copying Collection e Reference Counting/3.1.2.1. Cópia entre espaços (Survivor), contagem de referências e o problema de ciclos.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/3. Algoritmos de GC/3.1 Algoritmos Fundamentais/3.1.2. Copying Collection e Reference Counting/3.1.2.1. Cópia entre espaços (Survivor), contagem de referências e o problema de ciclos.md.tmp.8500.de4b7b3ad748",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/3. Algoritmos de GC/3.1 Algoritmos Fundamentais/3.1.1. Mark-and-Sweep e Mark-and-Compact/3.1.1.1. Marcação de objetos vivos, varredura dos inacessíveis, compactação e fragmentação.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/2. Como o GC Atua/2.2 Gerações de Memória/2.2.1. Hipótese Geracional/2.2.1.1. Young Generation, Old Generation, promoção de objetos e a premissa most objects die young.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/2. Como o GC Atua/2.1 Ciclo de Coleta/2.1.3. Stop-the-World/2.1.3.1. Pausas STW, impacto em threads de aplicação, coleta concorrente vs paralela.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/2. Como o GC Atua/2.1 Ciclo de Coleta/2.1.2. Tipos de Coleta/2.1.2.1. Minor GC, Major GC e Full GC — diferenças, quando ocorrem e impactos.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/2. Como o GC Atua/2.1 Ciclo de Coleta/2.1.1. Quando o GC é Acionado/2.1.1.1. Eventos de alocação, pressão de memória e saturação do Young Generation.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/1. Fundamentos e Modelo de Memória/1.2 Modelo de Vida dos Objetos/1.2.2. Stack, Heap e Alocação/1.2.2.1. Stack vs Heap, alocação de objetos, ponteiros de referência e Escape Analysis.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/1. Fundamentos e Modelo de Memória/1.2 Modelo de Vida dos Objetos/1.2.1. Reachability e GC Roots/1.2.1.1. Objetos alcançáveis vs inacessíveis, GC Roots e grafo de referências.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/1. Fundamentos e Modelo de Memória/1.1 O que é Garbage Collection/1.1.1. Conceito e Problema que Resolve/1.1.1.1. GC como mecanismo automático, problema do gerenciamento manual e os erros que ele elimina.md",
+    "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/1. Fundamentos e Modelo de Memória/1.1 O que é Garbage Collection/1.1.2. Responsabilidade do Runtime/1.1.2.1. GC pertence ao runtime (JVM, CLR, V8, CPython), não à linguagem — linguagem gerenciada vs runtime gerenciado.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/0. Garbage Collection ( Glossário ).md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
+    "Sem título.canvas",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Exemplo visual.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka Arquitetura, Replicação e Falhas.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/O Motor de Validação do Kafka  Da Alocação à Liderança.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Interna do Apache Kafka Anatomia, Distribuição e I O na Prática.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Arquitetura Avançada e Dinâmica Operacional do Apache Kafka.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka, Pub Sub e RabbitMQ diferença.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
@@ -210,8 +215,6 @@
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
     "Pasted image 20260329015359.png",
-    "Pasted image 20260321140616.png",
-    "Pasted image 20260321140617.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas"
   ]
 }
