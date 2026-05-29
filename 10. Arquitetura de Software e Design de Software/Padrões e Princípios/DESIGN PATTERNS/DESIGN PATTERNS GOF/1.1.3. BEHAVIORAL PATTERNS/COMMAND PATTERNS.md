@@ -7,10 +7,6 @@ O padrão Command é um padrão comportamental que transforma uma solicitação 
 - **Client**: Cria um objeto `ConcreteCommand` e define o receptor do comando.
 - **Invoker**: Pede ao comando para executar a solicitação.
 - **Receiver**: Sabe como realizar as operações associadas em uma solicitação.
-
-Diagrama UML CLASS
-
-![[Pasted image 20250407130037.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo de um sistema de controle remoto onde diferentes comandos podem ser executados, como ligar e desligar uma luz.

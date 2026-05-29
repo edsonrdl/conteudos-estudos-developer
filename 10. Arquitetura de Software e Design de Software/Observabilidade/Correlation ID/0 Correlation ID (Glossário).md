@@ -1,4 +1,4 @@
-## [[10. Arquitetura de Software e Design de Software/Observabilidade/Correlation ID/1. Visão Geral.md|1. Visão Geral]]
+## 10.Visão Geral
 
 > **Definição:** Um identificador único (geralmente um UUID/GUID) anexado a uma requisição no momento em que ela entra no sistema. Esse ID viaja com a requisição por todos os serviços, filas e bancos de dados.
 
@@ -25,7 +25,7 @@ Quem deve criar o ID?
 
 - **Client Side:** O Front-end gera e manda (útil para debugar problemas de rede/latência inicial).
     
-- **Edge/Gateway:** O [[API Gateway]] ou [[Load Balance]] gera se o request chegar sem um.
+- **Edge/Gateway:** O API Gateway ou Load Balance gera se o request chegar sem um.
     
 - **Formato:** Geralmente UUID v4 (ex: `f47ac10b-58cc-4372-a567-0e02b2c3d479`).
     
@@ -90,7 +90,7 @@ Com a evolução da observabilidade ([[OpenTelemetry]]), os termos ficaram mais 
     
 - OpenTelemetry - O padrão atual da indústria para rastreio.
     
-- [Logs estruturados - Como armazenar esse ID (JSON vs Texto).
+- Logs estruturados - Como armazenar esse ID (JSON vs Texto).
     
 - API Gateway - O local ideal para gerar o ID.
     

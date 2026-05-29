@@ -1,10 +1,15 @@
 # Base de Conhecimento Tecnológico
 
 #tech #knowledge-base #desenvolvimento #infraestrutura
+
+---
+
 ## 1. Redes e Infraestrutura
 
 #redes #infraestrutura
+
 ### Conceitos Fundamentais
+
 - [ ]  Internet
 - [ ]  [[0 TCP IP (Tópicos )|TCP IP]]
 - [ ]  DNS
@@ -12,7 +17,9 @@
 - [ ]  Firewalls
 - [ ]  Proxy
 - [ ]  Virtualização
-### Arquitetura de Serviços!
+
+### Arquitetura de Serviços
+
 - [ ]  Load Balance
 - [ ]  Service Mesh
 - [ ] Service Registry ou Service Discovery
@@ -20,28 +27,34 @@
 - [ ] mTLS
 
 ---
+
 ## 2. Protocolos de APIs
 
 #apis #protocolos
 
-- [ ] API -
+- [ ] API
 - [ ] SOAP - Simple Object Access Protocol
 - [ ] API RESTful - Representational State Transfer
 - [ ] WebSockets - Comunicação bidirecional
 - [ ] gRPC - Google Remote Procedure Call
-- [ ] Graph ql -
+- [ ] GraphQL
 
 ---
+
 ## 3. Desenvolvimento Front-End
 
 #frontend #web
+
 ### Linguagens e Tecnologias Base
+
 - [ ]  HTML5
 - [ ] CSS
 - [ ] Sass
 - [ ] JavaScript
 - [ ] JSON
+
 ### Frameworks e Bibliotecas
+
 - [ ] PWA - Progressive Web App
 - [ ] Bootstrap
 - [ ] Angular
@@ -50,13 +63,17 @@
 - [ ] jQuery
 
 ---
+
 ## 4. Design e Experiência do Usuário
 
 #ux #design #ui
+
 ### Princípios de Design
+
 - [ ] Usabilidade
 - [ ] UI Design
 - [ ] UX Design
+
 ### Ferramentas de Design
 
 - [ ] Figma
@@ -65,9 +82,11 @@
 - [ ] Wireframing
 
 ---
+
 ## 5. Desenvolvimento Back-End
 
 #backend #servidor
+
 ### Linguagens e Frameworks
 
 #### Linguagens
@@ -81,16 +100,18 @@
 - [ ] Python
 - [ ] Perl
 - [ ] Scala
+
 #### Frameworks
 
 - [ ] .NET Core
 - [ ] ASP .NET Core
 - [ ] Django
 - [ ] Spring Boot
+
 ### Arquiteturas de Back-End
 
 - [ ] SOA - Service-Oriented Architecture
-- [ ] Microsserviços - 
+- [ ] Microsserviços
 - [ ] Arquitetura Hexagonal
 - [ ] Clean Architecture
 - [ ] Arquitetura MVC
@@ -103,126 +124,159 @@
 - [ ] Decorator Pattern aplicado — Como usar Wrappers para adicionar Resiliência (Retry, Cache) sem alterar a regra de negócio.
 
 ---
+
 ## 6. Mobile Development
 
 #mobile #app
+
 ### Linguagens e Frameworks
+
 - [ ] Java (Android)
 - [ ] Kotlin (Android)
 - [ ] React Native (Cross-platform)
 - [ ] Flutter (Cross-platform)
 
 ---
+
 ## 7. Bancos de Dados e Armazenamento
+
 #database #storage #dados
 
 ### Fundamentos e Bancos Relacionais
+
 - [ ] Introdução a banco de dados Relacional
 - [ ] SQL
-#### Motores: 
-MySQL
-PostgreSQL
-SQL Server
+
+#### Motores:
+
+- [ ] MySQL
+- [ ] PostgreSQL
+- [ ] SQL Server
 
 ### Fundamentos e Bancos Não-Relacionais
+
 - [ ] Introdução a banco de dados Não Relacional
 - [ ] NoSQL - Conceito geral
+
 #### Motores:
-MongoDB
-Redis
+
+- [ ] MongoDB
+- [ ] Redis
 
 ### Escalabilidade e Alta Disponibilidade (Resiliência)
+
 - [ ] Read Replica (Escala de Leitura)
 - [ ] Partitioning (Divisão Lógica/Física no mesmo nó)
 - [ ] Sharding (Divisão Física distribuída em múltiplos nós)
 
 ### Padrões de Arquitetura de Dados e Estado
+
 - [ ] OLTP vs OLAP (Transacional vs Analítico)
 - [ ] Event Sourcing (Estado como fluxo de eventos imutáveis)
 - [ ] Snapshotting (Otimização de leitura para Event Sourcing)
 
 ### Governança e Contratos de Dados
+
 - [ ] Schema Registry (Validação e evolução de schemas)
 
 ### Big Data e Arquiteturas Analíticas
-#### Arquiteturas: 
-Data Warehouse
-Data Lake
-Data Mesh
-#### Motores de Processamento: 
-Apache Spark
-Hadoop
+
+#### Arquiteturas:
+
+- [ ] Data Warehouse
+- [ ] Data Lake
+- [ ] Data Mesh
+
+#### Motores de Processamento:
+
+- [ ] Apache Spark
+- [ ] Hadoop
 
 ---
+
 ## 8. DevOps e Gerenciamento de Infraestrutura
 
 #devops #infraestrutura #ci-cd
+
 ### Controle de Versão
+
 - [ ] Git
 - [ ] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
 - [ ] GitFlow
+
 ### Virtualização e Contêineres
+
 - [ ]  Hipervisores (Hypervisors / VMM)
 - [ ] Virtualização
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] Kind
 - [ ] Minikube
+
 ### Cloud-Native
+
 - [ ] Serverless
 - [ ] Contêineres imutáveis e imagens reprodutíveis
 - [ ] Autoscaling em app e cluster
 - [ ] 12-Factor App
 - [ ] Configuration Externalization
+
 #### Infrastructure as Code (IaC)
+
 - [ ]  Terraform
-- Pulumi
-- Ansible
+- [ ] Pulumi
+- [ ] Ansible
+
 #### Service Mesh
-- Istio
-- Linkerd
+
+- [ ] Istio
+- [ ] Linkerd
+
 ### Cloud Computing
-- Google Cloud Platform
-- 0 AWS core (Glossário )|AWS - Amazon Web Services
-- Azure
-- OpenStack
-- Salesforce - CRM e desenvolvimento em nuvem
+
+- [ ] Google Cloud Platform
+- [ ] AWS - Amazon Web Services
+- [ ] Azure
+- [ ] OpenStack
+- [ ] Salesforce - CRM e desenvolvimento em nuvem
+
 ### CI/CD - Integração e Deploy Contínuo
-- Jenkins
-- Replicaset
-- Deployment
-- ArgoCD
-- Tekton
-- GitHub Actions
-- GitLab CI/CD
+
+- [ ] Jenkins
+- [ ] Replicaset
+- [ ] Deployment
+- [ ] ArgoCD
+- [ ] Tekton
+- [ ] GitHub Actions
+- [ ] GitLab CI/CD
 
 #### Estratégias de Deploy
 
-- Blue-Green
-- Canary
-- Rolling
-- Progressive Delivery
+- [ ] Blue-Green
+- [ ] Canary
+- [ ] Rolling
+- [ ] Progressive Delivery
 
 ### Observabilidade
 
 #observabilidade #monitoring
 
-- Prometheus
-- Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] ELK Stack (Elasticsearch, Logstash, Kibana)
 
 #### Tracing Distribuído
 
-- OpenTelemetry
-- Jaeger
+- [ ] OpenTelemetry
+- [ ] Jaeger
 
 #### SRE - Site Reliability Engineering
 
-- SLI/SLO - Service Level Indicators/Objectives
-- Alertas
-- Error Budget
+- [ ] SLI/SLO - Service Level Indicators/Objectives
+- [ ] Alertas
+- [ ] Error Budget
 
 ### Chaos Engineering
 
@@ -232,26 +286,26 @@ Hadoop
 
 #### Ferramentas
 
-- LitmusChaos
-- Chaos Mesh
-- Gremlin
+- [ ] LitmusChaos
+- [ ] Chaos Mesh
+- [ ] Gremlin
 
 #### Casos de Uso
 
-- Queda de pods
-- Latência de rede
-- Perda parcial de nós
+- [ ] Queda de pods
+- [ ] Latência de rede
+- [ ] Perda parcial de nós
 
 ### Gerenciamento de APIs e Serviços
 
-- Insomnia
-- Firebase
+- [ ] Insomnia
+- [ ] Firebase
 
 ### Interface Gráfica e Gerenciamento de Clusters
 
-- Lens
-- Rancher
-- K9s
+- [ ] Lens
+- [ ] Rancher
+- [ ] K9s
 
 ---
 
@@ -261,27 +315,27 @@ Hadoop
 
 ### Ciclo de Vida do Desenvolvimento
 
-- Processos de Desenvolvimento de Software
-- Requisitos de Software
-- Projeto de Software
-- Implementação e Codificação
-- Engenharia de Testes
-- Engenharia de Manutenção de Software
+- [ ] Processos de Desenvolvimento de Software
+- [ ] Requisitos de Software
+- [ ] Projeto de Software
+- [ ] Implementação e Codificação
+- [ ] Engenharia de Testes
+- [ ] Engenharia de Manutenção de Software
 
 ### Qualidade e Configuração
 
-- Qualidade de Software
-- Gerenciamento de Configuração de Software
+- [ ] Qualidade de Software
+- [ ] Gerenciamento de Configuração de Software
 
 ### Métricas e SLAs
 
-- SLI/SLO/SLA
-### Processos de Testes
-- Latência
-- Throughput
+- [ ] SLI/SLO/SLA
+- [ ] Latência
+- [ ] Throughput
 
-### Métricas e Qualidade:
-Erros Críticos em Programação
+### Processos de Testes
+
+- [ ] Erros Críticos em Programação
 
 ---
 
@@ -291,87 +345,90 @@ Erros Críticos em Programação
 
 ### Padrões e Princípios
 
- - [ ] Domain-Driven Design (DDD)
-- DESIGN PATTERNS
-- [Princípios SOLID]
-- Hexagonal
-- Microservices
-- Clean architecture
-- MVC
-- Statefull vs Stateless
-- Database per Service
-- Strangler Fig
+- [ ] Domain-Driven Design (DDD)
+- [ ] DESIGN PATTERNS
+- [ ] Princípios SOLID
+- [ ] Hexagonal
+- [ ] Microservices
+- [ ] Clean Architecture
+- [ ] MVC
+- [ ] Statefull vs Stateless
+- [ ] Database per Service
+- [ ] Strangler Fig
 
-### Arquitetura Frontend & Mobile _(novo)_
+### Arquitetura Frontend & Mobile
 
 **Arquitetura em Camadas (Frontend)**
 
-- Feature-Sliced Design (FSD) — Divisão por domínio de negócio
-- `pages/` vs `features/` vs `shared/` — Responsabilidades por camada
-- `app/` → `pages/` → `features/` → `entities/` → `shared/` — Hierarquia de dependências
-- Folder-by-feature vs Folder-by-type — Trade-offs de organização
-### Arquitetura Mobile**
+- [ ] Feature-Sliced Design (FSD) — Divisão por domínio de negócio
+- [ ] `pages/` vs `features/` vs `shared/` — Responsabilidades por camada
+- [ ] `app/` → `pages/` → `features/` → `entities/` → `shared/` — Hierarquia de dependências
+- [ ] Folder-by-feature vs Folder-by-type — Trade-offs de organização
 
-- MVVM / MVI / MVP — Padrões de apresentação
-- Modularização — Feature modules vs core modules
-- Offline-first — Sync, conflict resolution, local cache
+### Arquitetura Mobile
 
-### BFF — Backend for Frontend**
+- [ ] MVVM / MVI / MVP — Padrões de apresentação
+- [ ] Modularização — Feature modules vs core modules
+- [ ] Offline-first — Sync, conflict resolution, local cache
 
-- O que é BFF — Camada intermediária dedicada a um cliente específico
-- BFF vs API Gateway — Agregação de dados vs roteamento
-- BFF por plataforma — Web BFF, Mobile BFF, TV BFF
-- GraphQL como BFF — Consultas flexíveis orientadas ao cliente
-- Responsabilidades do BFF — Agregação, transformação, autenticação de sessão, cache de borda
+### BFF — Backend for Frontend
+
+- [ ] O que é BFF — Camada intermediária dedicada a um cliente específico
+- [ ] BFF vs API Gateway — Agregação de dados vs roteamento
+- [ ] BFF por plataforma — Web BFF, Mobile BFF, TV BFF
+- [ ] GraphQL como BFF — Consultas flexíveis orientadas ao cliente
+- [ ] Responsabilidades do BFF — Agregação, transformação, autenticação de sessão, cache de borda
+
 ### Performance: Latência & Vazão
 
-- [ ] Latência vs Throughput — O trade-off fundamental .
+- [ ] Latência vs Throughput — O trade-off fundamental
 - [ ] Latency Budgeting — Tempo máximo aceitável por request.
 - [ ] Métricas p95 e p99 — Como medir a experiência real.
 - [ ] Táticas de Otimização — (Batching, Paralelismo, Caching).
+
 ### Integração e Mensageria
 
-- Event-Driven Architecture (EDA) - Reações a eventos
-- Event Streaming (Kafka) - Stream contínuo de eventos
-- Kafka vs RabbitMQ - Log distribuído vs message broker
-- Pub sub -
-- EIP & ESB - Enterprise Integration Patterns
-- API Gateway - Roteamento, auth, rate limit
-- API Composition
-- Coreografia vs [[Orquestração]
-- Apache Camel - Enterprise Integration Patterns
+- [ ] Event-Driven Architecture (EDA) - Reações a eventos
+- [ ] Event Streaming (Kafka) - Stream contínuo de eventos
+- [ ] Kafka vs RabbitMQ - Log distribuído vs message broker
+- [ ] Pub Sub
+- [ ] EIP & ESB - Enterprise Integration Patterns
+- [ ] API Gateway - Roteamento, auth, rate limit
+- [ ] API Composition
+- [ ] Coreografia vs Orquestração
+- [ ] Apache Camel - Enterprise Integration Patterns
 
 ### Resiliência e Controle de Fluxo
 
-- Backpressure - Controle de fluxo upstream
-- Rate Limiting - Limita chamadas por janela
-- API Throttling - Controle de uso (por exemplo, por plano de serviço)
-- Load Shedding - Descarta carga para manter sistema
-- Circuit Breaker - Evita chamar dependências instáveis
-- Retry Pattern - Permite que uma operação falha seja repetida automaticamente
-- Timeout / Deadline Pattern -Define um tempo limite máximo para as chamadas de rede ou operações
-- Fallback Pattern - Fornece uma resposta alternativa (cache, dados padrão).
-- Bulkhead - Isolamento de falhas
-- Caching - Melhoria de latência e disponibilidade
+- [ ] Backpressure - Controle de fluxo upstream
+- [ ] Rate Limiting - Limita chamadas por janela
+- [ ] API Throttling - Controle de uso (por exemplo, por plano de serviço)
+- [ ] Load Shedding - Descarta carga para manter sistema
+- [ ] Circuit Breaker - Evita chamar dependências instáveis
+- [ ] Retry Pattern - Permite que uma operação falha seja repetida automaticamente
+- [ ] Timeout / Deadline Pattern - Define um tempo limite máximo para as chamadas de rede ou operações
+- [ ] Fallback Pattern - Fornece uma resposta alternativa (cache, dados padrão).
+- [ ] Bulkhead - Isolamento de falhas
+- [ ] Caching - Melhoria de latência e disponibilidade
 
 ### Dados e Consistência
 
-- CQRS - Command Query Responsibility Segregation
-- SAGA - Coordenação de transações distribuídas
-- CAP Theorem - Consistency, Availability, Partition tolerance
-- Teorema PACELC - 
-- Transactional Outbox Pattern - Consistência de dados e eventos em microsserviços
-- BASE vs ACID - V
-- Consistência Eventual
-- Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
-- Leader Election - Escolha de um nó coordenador em um cluster.
+- [ ] CQRS - Command Query Responsibility Segregation
+- [ ] SAGA - Coordenação de transações distribuídas
+- [ ] CAP Theorem - Consistency, Availability, Partition tolerance
+- [ ] Teorema PACELC
+- [ ] Transactional Outbox Pattern - Consistência de dados e eventos em microsserviços
+- [ ] BASE vs ACID
+- [ ] Consistência Eventual
+- [ ] Event Sourcing - Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
+- [ ] Leader Election - Escolha de um nó coordenador em um cluster.
 
 ### Observabilidade
 
 - **Três Pilares:** Logs, Métricas, Traces
-- Tracing Distribuído - Rastreamento ponta a ponta
-- SLOs & Latency Budget - Metas guiando alertas
-- 0 Correlation ID (Glossário)
+- [ ] Tracing Distribuído - Rastreamento ponta a ponta
+- [ ] SLOs & Latency Budget - Metas guiando alertas
+- [ ] Correlation ID
 
 ---
 
@@ -381,12 +438,12 @@ Erros Críticos em Programação
 
 ### Estruturas de Dados
 
-- Arrays
-- Listas
-- Pilhas
-- Filas
-- Árvores
-- Grafos
+- [ ] Arrays
+- [ ] Listas
+- [ ] Pilhas
+- [ ] Filas
+- [ ] Árvores
+- [ ] Grafos
 
 ### Paradigmas de Programação
 
@@ -394,7 +451,8 @@ Erros Críticos em Programação
 - [ ] Programação Funcional
 
 ### Mecanismos de Execução
-- [ ] 0 Expressões Lambda (Funções Anônimas)
+
+- [ ] Expressões Lambda (Funções Anônimas)
 - [ ] Closures
 - [ ] Higher-Order Functions
 - [ ] Recursão
@@ -402,8 +460,9 @@ Erros Críticos em Programação
 ### Algoritmos e Abordagens Fundamentais
 
 - [ ] Algoritmos de Busca
-- [ ] Algoritmos de Ordenação 
+- [ ] Algoritmos de Ordenação
 - [ ] Complexidade de Algoritmos (Big-O)
+
 ---
 
 ## 12. Plataformas e Sistemas Operacionais
@@ -412,15 +471,15 @@ Erros Críticos em Programação
 
 ### Sistemas Operacionais
 
-- Windows
-- Linux
-- iOS
-- Android
-- IBM i
+- [ ] Windows
+- [ ] Linux
+- [ ] iOS
+- [ ] Android
+- [ ] IBM i
 
 ### Plataformas de Desenvolvimento
 
-- Google Platform (desenvolvimento de apps e serviços)
+- [ ] Google Platform (desenvolvimento de apps e serviços)
 
 ---
 
@@ -430,25 +489,26 @@ Erros Críticos em Programação
 
 ### Conceitos Fundamentais
 
-- Criptografia
-- Autenticação e Autorização
--  CHAVE SSH
-- [ ] SSL e TLS Mana-  O protocolo prático de segurança.
+- [ ] Criptografia
+- [ ] Autenticação e Autorização
+- [ ] Chave SSH
+- [ ] SSL e TLS — O protocolo prático de segurança.
 - [ ] OAuth 2.0
 - [ ] OpenID Connect (OIDC)
 - [ ] SAML
-- Teste de Penetração
-- Proteção de Dados Pessoais
+- [ ] Teste de Penetração
+- [ ] Proteção de Dados Pessoais
 
 ### Conformidade
 
-- GDPR - General Data Protection Regulation
-- CCPA - California Consumer Privacy Act
+- [ ] GDPR - General Data Protection Regulation
+- [ ] CCPA - California Consumer Privacy Act
 
 ### Controles de Acesso
 
-- Rate Limiting
-- JWT (Padrão para Tokens de Sessão/Acesso)
+- [ ] Rate Limiting
+- [ ] JWT (Padrão para Tokens de Sessão/Acesso)
+
 ---
 
 ## 14. Inteligência Artificial e Machine Learning
@@ -457,10 +517,10 @@ Erros Críticos em Programação
 
 ### Conceitos e Fundamentos
 
-- Fundamentos de ML/AI
-- Aprendizado Supervisionado
-- Aprendizado Não Supervisionado
-- Redes Neurais
+- [ ] Fundamentos de ML/AI
+- [ ] Aprendizado Supervisionado
+- [ ] Aprendizado Não Supervisionado
+- [ ] Redes Neurais
 - [ ] Modelos de Raciocínio (Reasoning Models) 🆕
 - [ ] Como LLMs Funcionam — Transformers e Tokenização 🆕
 - [ ] Context Window, Tokens e Custo de Inferência 🆕
@@ -470,9 +530,9 @@ Erros Críticos em Programação
 
 ### Ferramentas e Bibliotecas
 
-- scikit-learn
-- TensorFlow
-- PyTorch
+- [ ] scikit-learn
+- [ ] TensorFlow
+- [ ] PyTorch
 - [ ] Hugging Face Transformers 🆕
 - [ ] Ollama — Modelos Locais 🆕
 
@@ -480,9 +540,9 @@ Erros Críticos em Programação
 
 ### Visão Computacional
 
-- OpenCV - Processamento de Imagem
-- YOLO - Detecção de Objetos
-- TensorFlow Object Detection API
+- [ ] OpenCV - Processamento de Imagem
+- [ ] YOLO - Detecção de Objetos
+- [ ] TensorFlow Object Detection API
 
 ---
 
@@ -507,7 +567,7 @@ Erros Críticos em Programação
 - [ ] Agentic Workflows e Orquestração
 - [ ] Harness — Runtime de Controle de Agentes
 - [ ] Protocolos de Agentes — MCP e A2A
-- [ ] Supervisão Humana — HITL, HOTL e HIC]
+- [ ] Supervisão Humana — HITL, HOTL e HIC
 - [ ] Memória de Agentes (Mem0, Zep, MemoryOS)
 - [ ] LLMOps e Governança
 - [ ] Spec-Driven Development (SDD) 🆕
@@ -550,22 +610,22 @@ Erros Críticos em Programação
 
 ### Ferramentas de BI e Visualização
 
-- Power BI
-- Tableau
-- QlikView
+- [ ] Power BI
+- [ ] Tableau
+- [ ] QlikView
 
 ### Linguagens e Bibliotecas para Análise
 
 #### Python
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- [ ] pandas
+- [ ] numpy
+- [ ] matplotlib
+- [ ] seaborn
 
 #### R
 
-- R (para estatística avançada)
+- [ ] R (para estatística avançada)
 
 ---
 
@@ -575,11 +635,11 @@ Erros Críticos em Programação
 
 ### Ferramentas de ETL
 
-- 8. DevOps e Gerenciamento de Infraestrutura/INTEGRAÇÃO E DEPLOY CONTÍNUO/Apache Kafka/Apache Kafka
-- Talend
-- Pentaho
-- Apache Spark
-- Hadoop
+- [ ] Apache Kafka
+- [ ] Talend
+- [ ] Pentaho
+- [ ] Apache Spark
+- [ ] Hadoop
 
 ---
 
@@ -589,10 +649,10 @@ Erros Críticos em Programação
 
 ### Ferramentas de Automação
 
-- Selenium - Automação de testes em navegadores
-- PyAutoGUI - Automação de desktop
-- Automation Anywhere - Processos empresariais
-- BotCity - Automação específica
+- [ ] Selenium - Automação de testes em navegadores
+- [ ] PyAutoGUI - Automação de desktop
+- [ ] Automation Anywhere - Processos empresariais
+- [ ] BotCity - Automação específica
 
 ---
 
@@ -600,22 +660,22 @@ Erros Críticos em Programação
 
 #testes #qa #testing
 
-### Ferramentas por CategoriaE
+### Ferramentas por Categoria
 
 #### Testes Unitários
 
-- JUnit / TestNG (Java)
+- [ ] JUnit / TestNG (Java)
 
 #### Testes de Interface
 
-- Selenium - Testes de UI automatizados
+- [ ] Selenium - Testes de UI automatizados
 
 #### Testes de API
 
-- Insomnia / Newman - Testes de API REST
+- [ ] Insomnia / Newman - Testes de API REST
 
 #### Testes de Performance
 
-- K6 - Testes de carga para APIs e serviços
+- [ ] K6 - Testes de carga para APIs e serviços
 
 ---

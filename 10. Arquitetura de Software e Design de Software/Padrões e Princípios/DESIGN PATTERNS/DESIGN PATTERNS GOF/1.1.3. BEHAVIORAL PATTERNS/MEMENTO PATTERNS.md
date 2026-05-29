@@ -6,9 +6,6 @@ O padrão Memento é um padrão comportamental que permite capturar e armazenar 
 - **Memento**: Armazena o estado interno de um objeto Originator em um determinado momento.
 - **Caretaker**: Responsável por armazenar e gerenciar os objetos Memento.
 
-Diagrama UML CLASS
-
-![[Pasted image 20250407130131.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo de um editor de texto onde um usuário pode escrever, editar e desfazer a edição usando o padrão Memento.

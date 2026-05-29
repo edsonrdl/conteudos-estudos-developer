@@ -5,10 +5,6 @@ O padrão Strategy é um padrão comportamental que permite que um algoritmo sej
 - **Context (Contexto)**: Mantém uma referência para um objeto Strategy e pode alterar o algoritmo usado em tempo de execução.
 - **Strategy (Estratégia)**: Interface comum para todos os algoritmos suportados.
 - **ConcreteStrategy (EstratégiaConcreta)**: Implementações específicas dos algoritmos.
-
-Diagrama UIML CLASS
-
-![[Pasted image 20250407130244.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo de um sistema de pagamento onde diferentes estratégias de pagamento podem ser selecionadas (por exemplo, cartão de crédito, PayPal, transferência bancária) para realizar um pagamento.

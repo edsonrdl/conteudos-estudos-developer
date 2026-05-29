@@ -7,9 +7,6 @@ O padrão Decorator é um padrão estrutural que permite adicionar responsabilid
 - **Decorator**: Mantém uma referência para um objeto `Component` e define uma interface que se conforma com a interface `Component`.
 - **ConcreteDecorator**: Estende `Decorator` e adiciona responsabilidades ao objeto `Component`.
 
-Diagrama UML CLASS
-
-![[Pasted image 20250407125752.png]]
 ### Exemplo em Java
 
 Vamos usar o exemplo de uma cafeteria onde diferentes tipos de bebidas podem ser decorados com diferentes complementos (como leite, açúcar, etc.).

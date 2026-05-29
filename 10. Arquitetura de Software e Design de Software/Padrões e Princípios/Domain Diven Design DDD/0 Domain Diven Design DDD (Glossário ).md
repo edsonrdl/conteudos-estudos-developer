@@ -111,8 +111,8 @@
 
 ---
 > **Links Relacionados:** 
-> [[Arquitetura Hexagonal]]
-> [[Microservices]]
-> [[Clean architecture]]
-> [[CQRS]]
->  [[Event-Driven Architecture]]
+> Arquitetura Hexagonal
+> Microservices
+> Clean architecture
+> CQRS
+>  Event-Driven Architecture

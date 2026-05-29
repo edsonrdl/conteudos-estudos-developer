@@ -205,14 +205,14 @@
 
 ## 🔗 Notas Relacionadas
 
-- [[0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )]]
-- [[Harness — Runtime de Controle de Agentes]]
-- [[Spec-Driven Development (SDD)]]
-- [[Supervisão Humana — HITL, HOTL e HIC]]
-- [[Protocolos de Agentes — MCP e A2A]]
-- [[LLMOps e Governança]]
-- [[Retrieval-Augmented Generation (RAG)]]
-- [[Infraestrutura de Inferência — vLLM, Quantização, Routing]]
+- 0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )
+- Harness — Runtime de Controle de Agentes
+- Spec-Driven Development (SDD)
+- Supervisão Humana — HITL, HOTL e HIC
+- Protocolos de Agentes — MCP e A2A
+- LLMOps e Governança
+- Retrieval-Augmented Generation (RAG)
+- Infraestrutura de Inferência — vLLM, Quantização, Routing
 
 ---
 

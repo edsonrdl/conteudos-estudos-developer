@@ -6,10 +6,6 @@ O padrão State é um padrão comportamental que permite que um objeto altere se
 - **State (Estado)**: Interface que define os métodos para realizar as ações associadas a um estado específico.
 - **ConcreteState (EstadoConcreto)**: Implementa a interface State e define o comportamento associado a um estado específico.
 - **Client (Cliente)**: Usa o contexto para interagir com o estado.
-
-**Diagrama UML CLASS**
-
-![[Pasted image 20250407130221.png]]
 ### Exemplo em Java
 
 Vamos considerar um exemplo de um controle remoto onde um dispositivo pode estar ligado, desligado ou em modo de espera. O controle remoto pode mudar o estado do dispositivo e responder de maneira diferente dependendo do estado atual do dispositivo.
