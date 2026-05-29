@@ -5,7 +5,7 @@
 
 #redes #infraestrutura
 ### Conceitos Fundamentais
-- [ ]  [[Internet]]
+- [ ]  Internet
 - [ ]  [[0 TCP IP (Tópicos )|TCP IP]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
@@ -294,7 +294,6 @@
  - [ ] [[Domain-Driven Design (DDD)]]
 - [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/0 - Design Patterns (Glossário)|DESIGN PATTERNS]]
 - [[|Princípios SOLID]]
-- [[Padrões Arquiteturais]] 
 - [[Hexagonal]]
 - [[Microservices]]
 - [[Clean architecture]]
@@ -302,6 +301,28 @@
 - [[Statefull vs Stateless]]
 - Database per Service
 - Strangler Fig
+
+### Arquitetura Frontend & Mobile _(novo)_
+
+**Arquitetura em Camadas (Frontend)**
+
+- Feature-Sliced Design (FSD) — Divisão por domínio de negócio
+- `pages/` vs `features/` vs `shared/` — Responsabilidades por camada
+- `app/` → `pages/` → `features/` → `entities/` → `shared/` — Hierarquia de dependências
+- Folder-by-feature vs Folder-by-type — Trade-offs de organização
+### Arquitetura Mobile**
+
+- MVVM / MVI / MVP — Padrões de apresentação
+- Modularização — Feature modules vs core modules
+- Offline-first — Sync, conflict resolution, local cache
+
+### BFF — Backend for Frontend**
+
+- O que é BFF — Camada intermediária dedicada a um cliente específico
+- BFF vs API Gateway — Agregação de dados vs roteamento
+- BFF por plataforma — Web BFF, Mobile BFF, TV BFF
+- GraphQL como BFF — Consultas flexíveis orientadas ao cliente
+- Responsabilidades do BFF — Agregação, transformação, autenticação de sessão, cache de borda
 ### Performance: Latência & Vazão
 
 - [ ] [[Latência vs Throughput]] — O trade-off fundamental .
@@ -340,7 +361,7 @@
 - [[CAP Theorem]] - Consistency, Availability, Partition tolerance
 - [[Teorema PACELC]] - 
 - [[Transactional Outbox Pattern]] - Consistência de dados e eventos em microsserviços
-- [[BASE]] vs [[ACID]] - Eventual vs forte consistência
+- [[BASE]] vs [[ACID]] - V
 - [[Consistência Eventual]]
 - Event Sourcing -Armazena o estado de um aplicativo como uma sequência de eventos imutáveis
 - Leader Election - Escolha de um nó coordenador em um cluster.
@@ -440,26 +461,86 @@
 - [[Aprendizado Supervisionado]]
 - [[Aprendizado Não Supervisionado]]
 - [[Redes Neurais]]
+- [ ] [[Modelos de Raciocínio (Reasoning Models)]] 🆕
+- [ ] [[Como LLMs Funcionam — Transformers e Tokenização]] 🆕
+- [ ] [[Context Window, Tokens e Custo de Inferência]] 🆕
+- [ ] [[Embeddings — De Texto a Vetores Semânticos]] 🆕
+
+---
 
 ### Ferramentas e Bibliotecas
 
 - [[scikit-learn]]
 - [[TensorFlow]]
 - [[PyTorch]]
+- [ ] [[Hugging Face Transformers]] 🆕
+- [ ] [[Ollama — Modelos Locais]] 🆕
+
+---
 
 ### Visão Computacional
 
 - [[OpenCV]] - Processamento de Imagem
 - [[YOLO]] - Detecção de Objetos
 - [[TensorFlow Object Detection API]]
-### AI Engineering (Engenharia Aplicada) 
-- [ ] [[0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )|Engenharia de IA Aplicada (AI Engineering)]] 
-### Padrões e Arquitetura de IA 
-- [ ] [[Retrieval-Augmented Generation (RAG)]] 
-- [ ] [[Agentic Workflows e Orquestração]] 
-- [ ] [[LLMOps e Governança]] 
-### Fundamentos Clássicos (Data Science) 
-- [ ] [[Redes Neurais e Deep Learning]] - [ ] [[Visão Computacional]]
+
+---
+
+### Multimodalidade 🆕
+
+- [ ] [[Modelos Multimodais (GPT-4V, Claude, Gemini)]]
+- [ ] [[RAG Multimodal — Imagens, Áudio e Vídeo]]
+- [ ] [[Computer Use — Agentes que Controlam Interfaces]]
+- [ ] [[Voice Agents — Speech-to-Speech]]
+
+---
+
+### AI Engineering (Engenharia Aplicada)
+
+- [ ] [[0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )|Engenharia de IA Aplicada (AI Engineering)]] _(contém: LLMs, RAG, Embeddings, Frameworks, Extração, Avaliação, Fine-Tuning, LLMOps)_
+
+---
+
+### Padrões e Arquitetura de IA
+
+- [ ] [[Retrieval-Augmented Generation (RAG)]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/0 Agentic Workflows e Orquestração ( Glossário )|Agentic Workflows e Orquestração]]
+- [ ] Harness — Runtime de Controle de Agentes
+- [ ] Protocolos de Agentes — MCP e A2A]]
+- [ ] Supervisão Humana — HITL, HOTL e HIC]
+- [ ] Memória de Agentes (Mem0, Zep, MemoryOS)
+- [ ] [[LLMOps e Governança]]
+- [ ] [[Spec-Driven Development (SDD)]] 🆕
+- [ ] [[Guardrails e Segurança de IA]] 🆕
+- [ ] [[Infraestrutura de Inferência — vLLM, Quantização, Routing]] 🆕
+
+---
+
+### Fine-Tuning e Adaptação de Modelos 🆕
+
+- [ ] [[Quando Usar Fine-Tuning vs RAG]]
+- [ ] [[LoRA e QLoRA]]
+- [ ] [[RLHF e DPO — Alinhamento de Modelos]]
+- [ ] [[Dados Sintéticos para Fine-Tuning]]
+
+---
+
+### Governança e Ética em IA 🆕
+
+- [ ] [[AI TRiSM — AI Trust, Risk and Security Management]]
+- [ ] [[NIST AI RMF]]
+- [ ] [[EU AI Act]]
+- [ ] [[LGPD Aplicada a Sistemas de IA]]
+- [ ] [[Modelo de Maturidade de Governança de IA]]
+
+---
+
+### Fundamentos Clássicos (Data Science)
+
+- [ ] [[Redes Neurais e Deep Learning]]
+- [ ] [[Visão Computacional]]
+- [ ] [[Estatística para ML]]
+- [ ] [[Avaliação de Modelos Clássicos]]
 
 ---
 
