@@ -36,7 +36,7 @@ O ID deve ser repassado a cada salto ("hop"):
 
 - **HTTP:** Via Headers.
     
-- **Mensageria ([[Kafka]]/[[RabbitMQ]]):** Via Metadata/Headers da mensagem.
+- **Mensageria (Kafka/RabbitMQ):** Via Metadata/Headers da mensagem.
     
 - **Background Jobs:** O ID deve ser persistido junto com o job.
     
@@ -62,7 +62,7 @@ Não existe um padrão único, mas estes são os mais comuns:
 
 ## 5. Diferença: Correlation ID vs Trace ID vs Span ID
 
-Com a evolução da observabilidade ([[OpenTelemetry]]), os termos ficaram mais específicos:
+Com a evolução da observabilidade (OpenTelemetry), os termos ficaram mais específicos:
 
 - **Correlation ID:** Termo genérico para "ID de rastreio".
     

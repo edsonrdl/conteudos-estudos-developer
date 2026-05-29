@@ -78,7 +78,7 @@
 
 ---
 > **Links Relacionados:** 
-> [[Internet]]
->  [[DNS]]
->  [[NAT]]
->  [[Firewall]]
+> Internet
+>  DNS
+>  NAT
+>  Firewall

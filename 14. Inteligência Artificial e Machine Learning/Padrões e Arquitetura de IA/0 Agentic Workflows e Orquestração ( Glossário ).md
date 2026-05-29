@@ -92,7 +92,7 @@
 
 ### 4.2 Distinção Crítica: Agent Harness vs Eval Harness
 
-- **4.2.1. Eval Harness:** Age pós-execução. Pergunta: "o agente respondeu certo?". Exemplos: Ragas, DeepEval, PromptFoo. → coberto em [[LLMOps e Governança]]
+- **4.2.1. Eval Harness:** Age pós-execução. Pergunta: "o agente respondeu certo?". Exemplos: Ragas, DeepEval, PromptFoo. → coberto em LLMOps e Governança
     
 - **4.2.2. Agent Harness:** Age em tempo real. Pergunta: "o agente pode executar isso?". Exemplos: Step Functions, LangGraph runtime, OpenClaw gateway.
     
