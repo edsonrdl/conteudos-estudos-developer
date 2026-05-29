@@ -7,9 +7,6 @@ Claro! O padrão Bridge é um padrão estrutural que desacopla uma abstração d
 - **Implementor**: Define a interface para a implementação da classe.
 - **ConcreteImplementor**: Implementa a interface Implementor.
 
-Diagrama UML CLASS
-
-[![[Pasted image 20250407125530.png]]
 ### Exemplo em Java
 
 Vamos usar o exemplo de formas (Shapes) e cores (Colors). As formas podem ser implementadas de várias maneiras (por exemplo, círculos, quadrados), e as cores também podem variar (por exemplo, vermelho, verde).
