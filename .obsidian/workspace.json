@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0f903f59d4913bbb",
+        "id": "997046a03795d93f",
         "type": "tabs",
         "children": [
           {
-            "id": "e30b9a450918c4da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Glossário/Glossário.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Glossário"
-            }
-          },
-          {
-            "id": "81b5ce6e6e85ac6e",
+            "id": "2d3526ca06a93538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 413.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -111,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )"
+              "title": "Links inversos"
             }
           },
           {
@@ -183,40 +161,42 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "81b5ce6e6e85ac6e",
+  "active": "2d3526ca06a93538",
   "lastOpenFiles": [
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/Como Melhorar o Menu Hardcoded.md",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/Estrutura Completa do Projeto/04 Estrutura Completa do Projeto Angular 17 - CRUD de Produtos.md",
-    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
     "0 Glossário/Glossário.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
-    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!",
+    "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
+    "5. Desenvolvimento Back-End/Dot Net Core/0 Glossário ( ASP .Net Core).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Mecanismos de Execução/Closures/0 Closures (Fechamentos Léxicos) (Glossário).md",
-    "5. Desenvolvimento Back-End/Melhores Práticas para Tratamento de Erros Spring Boot vs ASP.NET Core.md",
+    "14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/0 Agentic Workflows e Orquestração ( Glossário ).md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/Agentic Workflows e Orquestração",
     "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Monolito vs. Serviços Desacoplados LLMs.md",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Desafios de Crescimento para PMEs.md",
     "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Calcular volumetria para implantações de LLM locais.md",
-    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
-    "14. Inteligência Artificial e Machine Learning/Roteiro de Estudos em Engenharia de IA.md",
-    "14. Inteligência Artificial e Machine Learning/Sem título.md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/Desafios de Crescimento para PMEs.md",
     "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
     "14. Inteligência Artificial e Machine Learning/Engines de processamento.md",
     "14. Inteligência Artificial e Machine Learning/Desafios em llm locais.md",
     "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
-    "Sem título.base",
-    "Poc (Prova de conceito).md",
-    "Prompt de pesquisa avançada.md",
+    "14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
     "Readme.md",
-    "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
-    "1. REDES E INFRAESTRUTURA/Proxy.md",
     "Perfil dev.md",
-    "sdsddijhasihd.md",
-    "path.md",
+    "Sem título.base",
+    "Latência.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/DESIGN PATTERNS GOF/1.1.2. STRUCTUAL PATTERNS/FLYWEIGHT PATTERNS.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/Distinguindo Padrões de Projeto Criacionais, Estruturais e Comportamentais.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/DESIGN PATTERNS/Diferença entre os design.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
+    "Padrões Arquiteturais.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP.md",
+    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
+    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls",
+    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!",
+    "Sem título.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
+    "WhatsApp Image 2026-04-09 at 00.55.18.jpeg",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.1. Usuários, Grupos e Roles",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2.3 Capacidades de gerenciamento de acesso da AWS",
@@ -226,10 +206,8 @@
     "Pasted image 20260329015359.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
     "14. Inteligência Artificial e Machine Learning",
-    "13. Segurança da Informação/Conceitos Fundamentais/OAuth 2.0",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-2.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos e Abordagens Fundamentais/Algoritmos de Ordenação",
     "Pasted image 20260321140616.png",
     "Pasted image 20260321140617.png",
     "Pasted image 20260222171047.png",
