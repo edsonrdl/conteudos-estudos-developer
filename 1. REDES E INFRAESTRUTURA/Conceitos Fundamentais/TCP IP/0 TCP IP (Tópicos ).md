@@ -6,13 +6,13 @@
 
 ---
 
-## 1 Domínio: Fundamentos e Arquitetura
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral|1 Domínio: Fundamentos e Arquitetura]]
 
-### 1.1 [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/1. Visão Geral|Visão Geral e Histórico]]
+### 1.1 Visão Geral e Histórico
 - **1.1.1. Propósito do Protocolo**
   - 1.1.1.1. Explicação resumida do TCP/IP, histórico e propósito de interconexão de redes heterogêneas.
 
-### 1.2 [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Como Funciona o TCP IP.md|Como Funciona a Pilha TCP/IP]]
+### 1.2 Como Funciona a Pilha TCP/IP
 - **1.2.1. Estrutura em Camadas**
   - 1.2.1.1. Explicação da pilha (Aplicação, Transporte, Internet, Enlace/Acesso à Rede).
 - **1.2.2. Modelos de Referência**
@@ -22,9 +22,9 @@
 
 ---
 
-## 2 Domínio: Endereçamento e Roteamento
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/3. Endereçamento IP|2 Domínio: Endereçamento e Roteamento]]
 
-### 2.1 [[3. Endereçamento IP|Endereçamento IP]]
+### 2.1 Endereçamento IP
 - **2.1.1. Classes Tradicionais (A, B, C)**
   - 2.1.1.1. O que são e como dividem a rede dos hosts.
   - 2.1.1.2. Intervalos numéricos de cada classe.
@@ -36,7 +36,7 @@
   - 2.1.3.1. Por que foi criado (esgotamento de IPs e rigidez das Classes).
   - 2.1.3.2. Exemplo prático da notação com barra (ex: `/24`, `/26`).
 
-### 2.2 [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/4. Redes e Sub-redes.md|Redes e Sub-redes]]
+### 2.2 Redes e Sub-redes
 - **2.2.1. Arquitetura Lógica**
   - 2.2.1.1. Diferença entre Rede principal e Sub-rede.
 - **2.2.2. Sub-redes (Subnets)**
@@ -48,9 +48,9 @@
 
 ---
 
-## 3 Domínio: Transporte e Comunicação (Layer 4)
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP|3 Domínio: Transporte e Comunicação (Layer 4)]]
 
-### 3.1 [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/5. Protocolos TCP e UDP.md|Protocolos TCP e UDP]]
+### 3.1 Protocolos TCP e UDP
 - **3.1.1. TCP (Transmission Control Protocol)**
   - 3.1.1.1. Confiabilidade, Handshake de 3 vias (Three-way handshake) e ordenação de pacotes.
 - **3.1.2. UDP (User Datagram Protocol)**
@@ -66,19 +66,20 @@
 
 ---
 
-## 4 Domínio: Operação e Troubleshooting
+## [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/7. Ferramentas e Troubleshooting|4 Domínio: Operação e Troubleshooting]]
 
 ### 4.1 Ferramentas e Exemplos Práticos
 - **4.1.1. Rastreamento e Conectividade**
-  - 4.1.1.1. **Ping:** Testa alcançabilidade usando ICMP.
-  - 4.1.1.2. **TraceRoute:** Mapeia os saltos (routers) até o destino alterando o TTL.
+  - 4.1.1.1. Ping — Testa alcançabilidade usando ICMP.
+  - 4.1.1.2. TraceRoute — Mapeia os saltos (routers) até o destino alterando o TTL.
 - **4.1.2. Análise Local e Inspeção**
-  - 4.1.2.1. **Netstat:** Verifica portas abertas e conexões ativas no Sistema Operacional.
-  - 4.1.2.2. **Wireshark:** Sniffer de rede para análise profunda de pacotes (Deep Packet Inspection).
+  - 4.1.2.1. Netstat — Verifica portas abertas e conexões ativas no Sistema Operacional.
+  - 4.1.2.2. Wireshark — Sniffer de rede para análise profunda de pacotes (Deep Packet Inspection).
 
 ---
-> **Links Relacionados:** 
+
+> **Links Relacionados:**
 > Internet
->  DNS
->  NAT
->  Firewall
+> DNS
+> NAT
+> Firewall
