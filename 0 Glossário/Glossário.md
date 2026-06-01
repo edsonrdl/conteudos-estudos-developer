@@ -10,13 +10,13 @@
 
 ### Conceitos Fundamentais
 
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos )|Internet]]
-- [ ] [[0 TCP IP (Tópicos )|TCP IP]]
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos )|DNS]]
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/0 VPN (Tópicos )|VPN]]
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Firewalls/0 Firewalls (Tópicos )|Firewalls]]
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/0 Proxy (Tópicos )|Proxy]]
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos )|Virtualização]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos )|Internet]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/0 TCP IP (Tópicos )|TCP IP]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos )|DNS]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/0 VPN (Tópicos )|VPN]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Firewalls/0 Firewalls (Tópicos )|Firewalls]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/0 Proxy (Tópicos )|Proxy]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos )|Virtualização]]
 
 ### Arquitetura de Serviços
 
@@ -213,7 +213,7 @@
 ### Virtualização e Contêineres
 
 - [ ] Hipervisores (Hypervisors / VMM)
-- [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos )|Virtualização]]
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos )|Virtualização]]
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] Kind

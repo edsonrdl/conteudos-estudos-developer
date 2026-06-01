@@ -1,5 +1,9 @@
 # Especificação — Criar Novo Tópico Filho
 
+> [!tip] Instrução para a IA
+> **Se você já leu este arquivo na sessão atual e conhece o fluxo, não o releia — execute o comando diretamente.**
+> Só processe este documento novamente se a sessão for nova ou se houver dúvida sobre alguma regra específica.
+
 Este documento define o padrão para criar um novo tópico de estudo neste workspace.
 Quando o usuário disser **"crie o tópico [Nome]"**, a IA deve seguir exatamente esta especificação.
 
@@ -43,32 +47,116 @@ Mesmo com um único filho em qualquer nível, a pasta é criada.
 
 ---
 
-## Regra de links no índice
+## Regra de links e checkboxes no índice
 
 | Nível | Regra |
 |---|---|
-| `## N Domínio: Nome` | **Texto puro — sem link.** Domínio é uma pasta, não um arquivo linkável |
-| `### N.x Nome do Subtópico` | **Texto puro — sem link.** Subtópico pode ser pasta ou agrupador lógico |
+| `## N Domínio: Nome` | **Texto puro — sem link.** Domínio é pasta, não arquivo linkável |
+| `### N.x Nome do Subtópico` | **Texto puro — sem link.** Subtópico é agrupador lógico |
 | `**N.N.N. Seção**` | Texto puro (bold) |
-| `  - N.N.N.N. Descrição` | **Link `[[]]` quando o arquivo existir** — é aqui que o link vai |
+| `  - [ ] N.N.N.N. Descrição` | **Checkbox desmarcado** enquanto o arquivo ainda não existir |
+| `  - [x] [[caminho\|N.N.N.N. Descrição]]` | **Checkbox marcado + link** após o arquivo ser criado |
 
-> **Regra de link:** o `[[]]` fica no item folha `  - N.N.N.N.`, substituindo o texto puro pela versão linkada.
-> Enquanto o arquivo não existir, o item fica como texto puro.
+> **Regra de checkbox:**
+> - `- [ ]` = conteúdo pendente de criação (texto puro, sem link)
+> - `- [x]` = conteúdo já criado (com link `[[]]` para o arquivo)
 > **Nunca criar `[[link]]` apontando para arquivo inexistente.**
+
+---
+
+## ⚙️ Fluxo de Criação — Passo a Passo
+
+A criação de um tópico acontece em **duas fases distintas**, com confirmação do usuário entre cada arquivo de conteúdo.
+
+### FASE 1 — Estrutura (automática, sem confirmação)
+
+Executar imediatamente ao receber o pedido:
+
+1. **Atualizar o Glossário** — substituir o item de texto pelo link correto
+2. **Criar todas as pastas** da estrutura do tópico
+3. **Criar o arquivo índice** `0 [Nome] (Tópicos ).md` com todos os itens como `- [ ]` (checkboxes desmarcados, sem links)
+
+Ao final da Fase 1, exibir a estrutura criada e perguntar:
+
+> **"Estrutura criada! Quer que eu implemente o conteúdo `1.1.1.1. [nome]` detalhado?"**
+
+### FASE 2 — Conteúdo (um arquivo por vez, com confirmação)
+
+Para cada arquivo folha `N.N.N.N.`, **aguardar confirmação** antes de criar:
+
+1. Receber confirmação do usuário
+2. Criar o arquivo com **conteúdo detalhado** (ver padrão abaixo)
+3. **Atualizar o índice**: trocar `- [ ] N.N.N.N. Descrição` por `- [x] [[caminho|N.N.N.N. Descrição]]`
+4. Perguntar:
+
+> **"Conteúdo criado e índice atualizado! Quer que eu implemente o próximo: `N.N.N.N. [próximo nome]`?"**
+
+Repetir até o último arquivo. Ao final:
+
+> **"Tópico [Nome] concluído! Todos os [N] arquivos foram criados."**
+
+---
+
+## Padrão de Qualidade do Conteúdo
+
+Cada arquivo folha deve ser **detalhado e didático**. Não há limite mínimo de tamanho — o conteúdo deve cobrir o tema com profundidade suficiente para que o leitor entenda sem precisar de fontes externas.
+
+### Obrigatório em todo arquivo folha
+
+| Elemento | Descrição |
+|---|---|
+| **Título descritivo** (`###`) | Contextualiza o arquivo dentro do tópico pai |
+| **Parágrafo introdutório** | 2-3 linhas situando o conteúdo |
+| **Explicação principal** | Conceito explicado com clareza, sem superficialidade |
+| **Analogias** | Quando o conceito for abstrato, use analogia concreta |
+| **Diagramas ASCII** | Para fluxos, arquiteturas, comparativos visuais |
+| **Tabelas** | Para comparativos, listas de propriedades, mapeamentos |
+| **Exemplos práticos** | Código, comandos, configurações reais quando aplicável |
+| **Casos de uso / Quando usar** | Contexto de aplicação real |
+| **Erros comuns / Limitações** | O que não fazer, armadilhas, trade-offs |
+| **Quiz de Fixação** | 3 perguntas com respostas |
+
+### Diretrizes de profundidade
+
+- **Não resumir** — se o tema tem nuances, explique todas
+- **Não assumir conhecimento prévio** — cada arquivo deve ser autocontido
+- **Exemplos reais** — preferir exemplos de tecnologias conhecidas (AWS, Linux, HTTP, etc.)
+- **Diagramas sempre que houver fluxo ou arquitetura** envolvida
+- **Comparativos** quando o tema se contrapõe a alternativas
 
 ---
 
 ## Passo 1 — Atualizar o Glossário pai
 
-No arquivo `0 Glossário/Glossário.md`, localizar o item correspondente e substituir pelo link:
+### Estados do item no Glossário
+
+O checkbox do Glossário reflete o estado geral do tópico:
+
+| Estado | Formato | Significado |
+|---|---|---|
+| Não iniciado | `- [ ] Nome do Tópico` | Nenhum arquivo criado ainda |
+| Em andamento | `- [ ] [[caminho/0 Nome (Tópicos )\|Nome]]` | Estrutura criada, conteúdos em produção |
+| Concluído | `- [x] [[caminho/0 Nome (Tópicos )\|Nome]]` | **Todos** os arquivos folha criados |
+
+**Fluxo no Glossário:**
+1. **Ao criar a estrutura (Fase 1):** `- [ ] Nome` → `- [ ] [[caminho|Nome]]` (link adicionado, checkbox ainda desmarcado)
+2. **Durante a criação de conteúdos (Fase 2):** permanece `- [ ] [[caminho|Nome]]`
+3. **Ao criar o último arquivo folha:** `- [ ] [[caminho|Nome]]` → `- [x] [[caminho|Nome]]` ✓
+
+No arquivo `0 Glossário/Glossário.md`, localizar o item e substituir pelo link:
 
 ```markdown
 - [ ] [[Seção/Subcategoria/Nome/0 Nome (Tópicos )|Nome]]
 ```
 
-**Exemplo:**
+**Exemplo após criar a estrutura:**
 ```markdown
 - [ ] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos )|DNS]]
+```
+
+**Exemplo após criar todos os conteúdos:**
+```markdown
+- [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos )|DNS]]
 ```
 
 ---
@@ -93,7 +181,7 @@ Criar a estrutura de pastas de acordo com a regra "pasta ou arquivo":
 **Nome:** `0 [Nome do Tópico] (Tópicos ).md`
 > Manter o espaço antes do `.md` — faz parte do padrão de nomenclatura.
 
-### Template do arquivo índice:
+### Template do arquivo índice (com checkboxes desmarcados):
 
 ```markdown
 # 📚 Guia de Estudos: [Nome do Tópico]
@@ -106,22 +194,22 @@ Criar a estrutura de pastas de acordo com a regra "pasta ou arquivo":
 
 ## 1 Domínio: Nome do Domínio
 
-### [[caminho/para/arquivo|1.1 Nome do Subtópico]]
+### 1.1 Nome do Subtópico
 - **1.1.1. [Nome da Seção]**
-  - 1.1.1.1. [Descrição do conteúdo.]
-  - 1.1.1.2. [Descrição do conteúdo.]
+  - [ ] 1.1.1.1. [Descrição do conteúdo.]
+  - [ ] 1.1.1.2. [Descrição do conteúdo.]
 
-### [[caminho/para/arquivo|1.2 Nome do Subtópico]]
+### 1.2 Nome do Subtópico
 - **1.2.1. [Nome da Seção]**
-  - 1.2.1.1. [Descrição do conteúdo.]
+  - [ ] 1.2.1.1. [Descrição do conteúdo.]
 
 ---
 
 ## 2 Domínio: Nome do Domínio
 
-### [[caminho/para/arquivo|2.1 Nome do Subtópico]]
+### 2.1 Nome do Subtópico
 - **2.1.1. [Nome da Seção]**
-  - 2.1.1.1. [Descrição do conteúdo.]
+  - [ ] 2.1.1.1. [Descrição do conteúdo.]
 
 ---
 
@@ -130,13 +218,13 @@ Criar a estrutura de pastas de acordo com a regra "pasta ou arquivo":
 > [Tópico relacionado 2]
 ```
 
-> Nos `###` acima, o link aponta para o arquivo folha. Se o subtópico tem uma pasta com múltiplos arquivos, o link aponta para o primeiro ou mais relevante — ou omite o link e mantém texto puro.
+> Todos os itens folha começam como `- [ ]` (sem link). O link e o `[x]` são adicionados após a criação do arquivo na Fase 2.
 
 ---
 
 ## Passo 4 — Criar os arquivos de conteúdo (folhas)
 
-Para cada item `N.N.N.N.` no índice, criar um arquivo `.md` com o mesmo nome.
+Para cada item `N.N.N.N.` no índice, criar um arquivo `.md` **detalhado** após confirmação do usuário.
 
 **Nome do arquivo:** `N.N.N.N. Descrição exata como no índice.md`
 
@@ -145,34 +233,78 @@ Para cada item `N.N.N.N.` no índice, criar um arquivo `.md` com o mesmo nome.
 ```markdown
 ### [Título descritivo do conteúdo]
 
-[Parágrafo introdutório — 1 a 2 linhas contextualizando dentro do tópico pai.]
+[Parágrafo introdutório — 2 a 3 linhas contextualizando dentro do tópico pai.]
 
 ---
 
-## [Seção principal]
+## [Seção principal — o conceito central]
 
-[Explicação clara e objetiva. Use analogias quando o conceito for abstrato.]
+[Explicação completa e aprofundada. Não resumir — detalhar.
+Use analogias quando o conceito for abstrato.
+Explique o "por quê" antes do "como".]
 
-[Tabelas, listas ou diagramas ASCII quando ajudar a visualizar.]
+[Diagrama ASCII se houver fluxo, arquitetura ou estrutura:]
+```
+[diagrama]
+```
 
 ---
 
-## [Seção seguinte]
+## [Como funciona / Funcionamento interno]
 
-[Conteúdo.]
+[Explicação do mecanismo. Vá fundo — não fique na superfície.]
+
+[Tabela de propriedades, modos ou variações se aplicável:]
+
+| Propriedade | Valor | Descrição |
+|---|---|---|
+
+---
+
+## [Exemplos práticos / Casos de uso]
+
+[Exemplo real com código, comando ou configuração quando aplicável:]
+```
+[código/comando/configuração]
+```
+
+[Explicação linha a linha do exemplo quando necessário.]
+
+---
+
+## [Comparativo / Quando usar / Limitações]
+
+[Trade-offs, alternativas, erros comuns, o que não fazer.]
+
+| Aspecto | Opção A | Opção B |
+|---|---|---|
 
 ---
 
 ## 🧩 Quiz de Fixação
 
-1. [Pergunta 1]
-2. [Pergunta 2]
-3. [Pergunta 3]
+1. [Pergunta conceitual]
+2. [Pergunta de aplicação]
+3. [Pergunta de análise / comparação]
 
 **Respostas:**
-1) [Resposta]
-2) [Resposta]
-3) [Resposta]
+1) [Resposta completa, não só sim/não]
+2) [Resposta completa]
+3) [Resposta completa]
+```
+
+---
+
+## Passo 5 — Atualizar o índice após criar cada arquivo
+
+Após criar cada arquivo folha, **editar o índice** trocando o checkbox:
+
+```markdown
+ANTES (pendente):
+  - [ ] 1.1.1.1. Descrição do conteúdo.
+
+DEPOIS (criado):
+  - [x] [[caminho/completo/para/arquivo|1.1.1.1. Descrição do conteúdo]]
 ```
 
 ---
@@ -187,9 +319,9 @@ Para cada item `N.N.N.N.` no índice, criar um arquivo `.md` com o mesmo nome.
 | Nome dos arquivos folha | `N.N.N.N. Descrição exata como no índice.md` |
 | Link no índice — domínio `##` | **Texto puro sempre** — domínio é pasta, não arquivo |
 | Link no índice — subtópico `###` | **Texto puro sempre** — subtópico é agrupador lógico |
-| Link no índice — item folha | `  - [[caminho\|N.N.N.N. Descrição]]` só quando o arquivo existir |
+| Item pendente no índice | `  - [ ] N.N.N.N. Descrição` (checkbox desmarcado) |
+| Item criado no índice | `  - [x] [[caminho\|N.N.N.N. Descrição]]` (checkbox marcado + link) |
 | Seções no índice | `**N.N.N. Título**` (bold, 3 níveis) |
-| Itens no índice | `  - N.N.N.N. Descrição` (2 espaços, texto puro até o arquivo existir) |
 | Separador entre domínios | `---` |
 | Rodapé do índice | `> **Links Relacionados:**` |
 | Emoji no título do índice | `📚` fixo |
@@ -202,12 +334,18 @@ Para cada item `N.N.N.N.` no índice, criar um arquivo `.md` com o mesmo nome.
 **Usuário diz:** "Crie o tópico DNS"
 
 **IA deve:**
-1. Localizar `- [ ] DNS` no Glossário e substituir pelo link
-2. Criar a pasta `1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/`
-3. Criar `0 DNS (Tópicos ).md` com os domínios em texto puro (sem links ainda)
-4. Criar as subpastas de domínio: `1. Fundamentos/`, `2. Tipos de Registro/`, etc.
-5. Dentro de cada domínio, criar os arquivos folha: `1.1.1.1. O que é DNS.md`, etc.
-6. Após criar os arquivos, atualizar o índice adicionando os `[[links]]` nos `###`
+
+**FASE 1 (imediata):**
+1. Atualizar o Glossário com o link para DNS
+2. Criar toda a estrutura de pastas do DNS
+3. Criar `0 DNS (Tópicos ).md` com todos os itens como `- [ ]`
+4. Perguntar: *"Estrutura criada! Quer que eu implemente o conteúdo `1.1.1.1. O que é DNS...` detalhado?"*
+
+**FASE 2 (um por um):**
+5. Ao confirmar: criar `1.1.1.1. O que é DNS.md` com conteúdo detalhado
+6. Atualizar índice: `- [ ] 1.1.1.1.` → `- [x] [[caminho|1.1.1.1.]]`
+7. Perguntar: *"Criado! Quer que eu implemente o próximo: `1.2.1.1. Hierarquia DNS...`?"*
+8. Repetir até o último arquivo
 
 ---
 
@@ -238,20 +376,4 @@ TCP IP/
       2.2.3.1. Como calcular sub-redes...md
       2.2.4.1. Como otimizar o desperdício de IPs...md
     IPs Reservados.md
-  3. Transporte e Comunicação (Layer 4)/
-    3.1 Protocolos TCP e UDP/
-      3.1.1.1. Confiabilidade, Handshake de 3 vias...md
-      3.1.2.1. Sem conexão, rápido...md
-      3.1.3.1. Diferenças e casos de uso...md
-    3.2 Portas e Sockets/
-      3.2.1.1. Mapeamento dos serviços principais...md
-      3.2.2.1. Como o SO forma o Socket...md
-  4. Operação e Troubleshooting/
-    4.1 Ferramentas e Exemplos Práticos/
-      4.1.1. Rastreamento e Conectividade/
-        4.1.1.1. Ping...md
-        4.1.1.2. TraceRoute...md
-      4.1.2. Análise Local e Inspeção/
-        4.1.2.1. Netstat...md
-        4.1.2.2. Wireshark...md
 ```

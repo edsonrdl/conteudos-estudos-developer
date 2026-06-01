@@ -10,11 +10,11 @@
 
 ### 1.1 O que é VPN
 - **1.1.1. Definição e Propósito**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/1. Fundamentos de VPN/1.1 O que é VPN/1.1.1. Definição e Propósito/1.1.1.1. O que é VPN, como cria um túnel seguro e casos de uso principais|1.1.1.1. O que é VPN, como cria um túnel seguro e casos de uso principais]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/1. Fundamentos de VPN/1.1 O que é VPN/1.1.1. Definição e Propósito/1.1.1.1. O que é VPN, como cria um túnel seguro e casos de uso principais|1.1.1.1. O que é VPN, como cria um túnel seguro e casos de uso principais]]
 
 ### 1.2 Como funciona o Tunelamento
 - **1.2.1. Encapsulamento e Tunelamento**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/1. Fundamentos de VPN/1.2 Como funciona o Tunelamento/1.2.1. Encapsulamento e Tunelamento/1.2.1.1. Como o encapsulamento empacota dados dentro de outros protocolos para criar o túnel VPN|1.2.1.1. Como o encapsulamento empacota dados dentro de outros protocolos para criar o túnel VPN]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/1. Fundamentos de VPN/1.2 Como funciona o Tunelamento/1.2.1. Encapsulamento e Tunelamento/1.2.1.1. Como o encapsulamento empacota dados dentro de outros protocolos para criar o túnel VPN|1.2.1.1. Como o encapsulamento empacota dados dentro de outros protocolos para criar o túnel VPN]]
 
 ---
 
@@ -22,15 +22,15 @@
 
 ### 2.1 Protocolos Modernos
 - **2.1.1. IPsec**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.1. IPsec/2.1.1.1. IPsec — modos Tunnel e Transport, AH e ESP e negociação de chaves com IKE|2.1.1.1. IPsec — modos Tunnel e Transport, AH e ESP e negociação de chaves com IKE]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.1. IPsec/2.1.1.1. IPsec — modos Tunnel e Transport, AH e ESP e negociação de chaves com IKE|2.1.1.1. IPsec — modos Tunnel e Transport, AH e ESP e negociação de chaves com IKE]]
 - **2.1.2. OpenVPN**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.2. OpenVPN/2.1.2.1. OpenVPN — VPN open source baseada em TLS, flexibilidade e casos de uso|2.1.2.1. OpenVPN — VPN open source baseada em TLS, flexibilidade e casos de uso]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.2. OpenVPN/2.1.2.1. OpenVPN — VPN open source baseada em TLS, flexibilidade e casos de uso|2.1.2.1. OpenVPN — VPN open source baseada em TLS, flexibilidade e casos de uso]]
 - **2.1.3. WireGuard**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.3. WireGuard/2.1.3.1. WireGuard — protocolo moderno, criptografia de ponta e desempenho superior|2.1.3.1. WireGuard — protocolo moderno, criptografia de ponta e desempenho superior]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.1 Protocolos Modernos/2.1.3. WireGuard/2.1.3.1. WireGuard — protocolo moderno, criptografia de ponta e desempenho superior|2.1.3.1. WireGuard — protocolo moderno, criptografia de ponta e desempenho superior]]
 
 ### 2.2 Protocolos Legados
 - **2.2.1. PPTP e L2TP**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.2 Protocolos Legados/2.2.1. PPTP e L2TP/2.2.1.1. PPTP e L2TP-IPsec — histórico, limitações e por que foram substituídos|2.2.1.1. PPTP e L2TP-IPsec — histórico, limitações e por que foram substituídos]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/2. Protocolos VPN/2.2 Protocolos Legados/2.2.1. PPTP e L2TP/2.2.1.1. PPTP e L2TP-IPsec — histórico, limitações e por que foram substituídos|2.2.1.1. PPTP e L2TP-IPsec — histórico, limitações e por que foram substituídos]]
 
 ---
 
@@ -38,9 +38,9 @@
 
 ### 3.1 Por Arquitetura
 - **3.1.1. Site-to-Site e Remote Access**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/3. Tipos de VPN/3.1 Por Arquitetura/3.1.1. Site-to-Site e Remote Access/3.1.1.1. VPN Site-to-Site vs Remote Access — conectar redes inteiras vs usuários individuais|3.1.1.1. VPN Site-to-Site vs Remote Access — conectar redes inteiras vs usuários individuais]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/3. Tipos de VPN/3.1 Por Arquitetura/3.1.1. Site-to-Site e Remote Access/3.1.1.1. VPN Site-to-Site vs Remote Access — conectar redes inteiras vs usuários individuais|3.1.1.1. VPN Site-to-Site vs Remote Access — conectar redes inteiras vs usuários individuais]]
 - **3.1.2. Split Tunneling**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/3. Tipos de VPN/3.1 Por Arquitetura/3.1.2. Split Tunneling/3.1.2.1. Split Tunneling — rotear apenas tráfego selecionado pela VPN e o restante direto|3.1.2.1. Split Tunneling — rotear apenas tráfego selecionado pela VPN e o restante direto]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/3. Tipos de VPN/3.1 Por Arquitetura/3.1.2. Split Tunneling/3.1.2.1. Split Tunneling — rotear apenas tráfego selecionado pela VPN e o restante direto|3.1.2.1. Split Tunneling — rotear apenas tráfego selecionado pela VPN e o restante direto]]
 
 ---
 
@@ -48,11 +48,11 @@
 
 ### 4.1 Segurança na VPN
 - **4.1.1. Criptografia e Autenticação**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/4. Segurança e Casos Práticos/4.1 Segurança na VPN/4.1.1. Criptografia e Autenticação/4.1.1.1. Criptografia simétrica, assimétrica, certificados e autenticação multifator em VPNs|4.1.1.1. Criptografia simétrica, assimétrica, certificados e autenticação multifator em VPNs]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/4. Segurança e Casos Práticos/4.1 Segurança na VPN/4.1.1. Criptografia e Autenticação/4.1.1.1. Criptografia simétrica, assimétrica, certificados e autenticação multifator em VPNs|4.1.1.1. Criptografia simétrica, assimétrica, certificados e autenticação multifator em VPNs]]
 
 ### 4.2 Casos de Uso
 - **4.2.1. VPN Corporativa e VPN Pessoal**
-  - [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/4. Segurança e Casos Práticos/4.2 Casos de Uso/4.2.1. VPN Corporativa e VPN Pessoal/4.2.1.1. VPN corporativa para acesso remoto seguro vs VPN pessoal para privacidade — diferenças e trade-offs|4.2.1.1. VPN corporativa para acesso remoto seguro vs VPN pessoal para privacidade — diferenças e trade-offs]]
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/4. Segurança e Casos Práticos/4.2 Casos de Uso/4.2.1. VPN Corporativa e VPN Pessoal/4.2.1.1. VPN corporativa para acesso remoto seguro vs VPN pessoal para privacidade — diferenças e trade-offs|4.2.1.1. VPN corporativa para acesso remoto seguro vs VPN pessoal para privacidade — diferenças e trade-offs]]
 
 ---
 
