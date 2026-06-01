@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d777def8b4fa1031",
+        "id": "91d87bd2ac5f3fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae3e78d47c4aa0c",
+            "id": "969888cec0867965",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Glossário/Glossário.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossário"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Glossário"
+              "title": "Links inversos"
             }
           },
           {
@@ -166,44 +161,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3ae3e78d47c4aa0c",
+  "active": "969888cec0867965",
   "lastOpenFiles": [
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos ).md",
-    "0 Glossário/Glossário.md",
-    "_SPEC - Criar Novo Tópico Filho.md",
-    "_SPEC - Criar Novo Tópico Filho.md.tmp.33504.dceb6541fc85",
-    "Poc (Prova de conceito).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Firewalls/0 Firewalls (Tópicos ).md",
-    "_PROMPT - Criar Novo Tópico Filho.md.tmp.33504.02ba6343b2e0",
-    "_SPEC - Criar Novo Tópico Filho.md.tmp.33504.0b21192ef19b",
-    "0 Glossário/Glossário.md.tmp.33504.dc5ef611ad45",
-    "0 Glossário/Glossário.md.tmp.33504.41cd27805ff7",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md.tmp.33504.ec27b11e870c",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/1. Fundamentos de Proxy/1.1 O que é um Proxy/1.1.1. Definição e Propósito/1.1.1.1. O que é proxy, como age como intermediário e diferença entre proxy e VPN.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/0 Virtualização (Tópicos ).md.tmp.33504.5b2b95b43060",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/0 Proxy (Tópicos ).md.tmp.33504.e31818153300",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Firewalls/0 Firewalls (Tópicos ).md.tmp.33504.e9537e89edb0",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/0 Proxy (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos ).md.tmp.33504.47890b8fead2",
-    "_PROMPT - Criar Novo Tópico Filho.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "2026-05-30.md",
-    "Sem título.canvas",
-    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.326f5a2933b6",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.3. Segregação de funções.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.3. Segregação de funções.md.tmp.22100.6c5572e79e2a",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.a6c8a1ce5e2d",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.2. Defense in depth.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.2. Defense in depth.md.tmp.22100.e57a3b099f56",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.2b24705a8bde",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.1. Princípio do menor privilégio.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.1. Princípio do menor privilégio.md.tmp.22100.1574ccd38816",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.be3b9b1a201b",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.2. AWS Artifact.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.2. AWS Artifact.md.tmp.22100.17c3bfe13fdc",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.ce878c65f713",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.1. AWS Compliance Programs.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.3. Controles herdados, compartilhados e do cliente.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.2. Responsabilidades do cliente (segurança NA nuvem).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.1. Responsabilidades da AWS (segurança DA nuvem).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/0 VPN (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/2. Tipos de Virtualização/2.2 Virtualização de Contêineres/2.2.1. Contêineres vs VMs/2.2.1.1. Contêineres vs VMs — isolamento por namespace vs hypervisor, densidade e trade-offs.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/4. Virtualização na Nuvem e Casos Práticos/4.1 Cloud e Virtualização/4.1.2. Live Migration e Alta Disponibilidade/4.1.2.1. Live migration de VMs, snapshots e HA — operações avançadas de virtualização em produção.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/4. Virtualização na Nuvem e Casos Práticos/4.1 Cloud e Virtualização/4.1.1. IaaS e a abstração de hardware/4.1.1.1. Como IaaS (AWS EC2, Azure VM, GCP Compute) usa virtualização para entregar infraestrutura sob demanda.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/3. Tecnologias e Plataformas/3.2 Contêineres/3.2.1. Docker e OCI/3.2.1.1. Docker e o padrão OCI — imagens, contêineres e o ecossistema de empacotamento.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/3. Tecnologias e Plataformas/3.1 Hypervisors Populares/3.1.2. KVM e QEMU/3.1.2.1. KVM e QEMU — virtualização open source no Linux, base das nuvens públicas.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/3. Tecnologias e Plataformas/3.1 Hypervisors Populares/3.1.1. VMware e Hyper-V/3.1.1.1. VMware vSphere e Microsoft Hyper-V — soluções enterprise de virtualização.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/2. Tipos de Virtualização/2.3 Outros Tipos/2.3.1. Virtualização de Rede e Storage/2.3.1.1. SDN (Software-Defined Networking) e SDS — virtualização além do servidor.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/2. Tipos de Virtualização/2.1 Virtualização de Servidores/2.1.1. VMs (Virtual Machines)/2.1.1.1. Máquinas virtuais — isolamento completo, overhead e casos de uso em produção.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/1. Fundamentos de Virtualização/1.2 Hypervisor/1.2.1. Tipos de Hypervisor/1.2.1.1. Hypervisor Tipo 1 (bare-metal) vs Tipo 2 (hosted) — diferenças, exemplos e quando usar cada um.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Virtualização/1. Fundamentos de Virtualização/1.1 O que é Virtualização/1.1.1. Definição e Propósito/1.1.1.1. O que é virtualização, como abstrai hardware e por que revolucionou a infraestrutura de TI.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/4. Segurança e Casos Práticos/4.1 Proxy e Segurança/4.1.2. SSL Termination e mTLS/4.1.2.1. Terminação SSL no proxy e mTLS — como o reverse proxy gerencia certificados e autenticação mútua.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Proxy/4. Segurança e Casos Práticos/4.1 Proxy e Segurança/4.1.1. Anonimato e Privacidade/4.1.1.1. Proxy como ferramenta de privacidade — níveis de anonimato elite vs anonymous vs transparent.md",
+    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.4. Paralelização.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.3. Implementação de elasticidade.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.2. Desacoplamento de componentes.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.1. Design para falhas.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.5. Benefícios da automação.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.4. Conceito de Right Sizing.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.3. Calculadoras de custos AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.2. Total Cost of Ownership (TCO).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.1. Modelo de precificação Pay-as-you-go.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.3. Princípios de design da AWS Well-Architected Framework/1.1.3.6. Sustentabilidade.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.3. Princípios de design da AWS Well-Architected Framework/1.1.3.5. Otimização de custos.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "Sem título.canvas",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
     "1. REDES E INFRAESTRUTURA/img/subnet-img-02.png",
