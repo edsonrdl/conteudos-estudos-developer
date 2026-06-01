@@ -1,4 +1,4 @@
-### 1. Design de Arquiteturas Seguras (30%) - O mais importante
+inf### 1. Design de Arquiteturas Seguras (30%) - O mais importante
 
 Este é o tópico com maior peso. Você precisa dominar como proteger os dados e a rede.
 
