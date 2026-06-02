@@ -125,8 +125,8 @@ O objetivo deste material é ir além da superfície e entender como os componen
 
 ### 3.3 Serviços principais da AWS
 - **3.3.1. Computação**
-  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra)|3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra)]]
-  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda|3.3.1.2. AWS Lambda]]
+  - [ ] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2/0 Amazon EC2 (Tópicos )|3.3.1.1. Amazon EC2]]
+  - [ ] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda/0 AWS Lambda (Tópicos )|3.3.1.2. AWS Lambda]]
   - [ ] 3.3.1.3. Amazon ECS e EKS
   - [ ] 3.3.1.4. AWS Elastic Beanstalk
   - [ ] 3.3.1.5. Amazon Lightsail

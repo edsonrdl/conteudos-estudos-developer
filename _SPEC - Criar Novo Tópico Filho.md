@@ -87,13 +87,47 @@ Para cada arquivo folha `N.N.N.N.`, **aguardar confirmação** antes de criar:
 1. Receber confirmação do usuário
 2. Criar o arquivo com **conteúdo detalhado** (ver padrão abaixo)
 3. **Atualizar o índice**: trocar `- [ ] N.N.N.N. Descrição` por `- [x] [[caminho|N.N.N.N. Descrição]]`
-4. Perguntar:
-
-> **"Conteúdo criado e índice atualizado! Quer que eu implemente o próximo: `N.N.N.N. [próximo nome]`?"**
+4. Perguntar ao usuário se deseja criar o próximo (ver regra abaixo)
 
 Repetir até o último arquivo. Ao final:
 
 > **"Tópico [Nome] concluído! Todos os [N] arquivos foram criados."**
+
+### Regra de pergunta para o próximo conteúdo
+
+Ao perguntar se o usuário quer criar o próximo item, a IA deve **avaliar a complexidade** do próximo conteúdo e formular a pergunta de forma diferente conforme o caso:
+
+#### Caso A — Próximo é um arquivo folha simples
+
+```
+"Quer que eu implemente o próximo conteúdo detalhado:
+`N.N.N.N. [Descrição]` — [breve preview do que será coberto]?"
+```
+
+#### Caso B — Próximo é um serviço/tema complexo que merece sub-glossário
+
+Se o próximo item é um **serviço qualquer complexo** ou **tema com 5+ conceitos distintos**, indicar claramente que será um sub-glossário:
+
+```
+"Quer que eu implemente o próximo:
+`N.N.N.N. [Nome do Serviço]` — como **sub-glossário** (pasta com índice próprio
+e conteúdos organizados em domínios), igual fizemos com EC2 e Lambda?"
+```
+
+Critério para propor sub-glossário (avaliar as três condições):
+1. O item tem **5 ou mais conceitos distintos** que merecem arquivos separados
+2. Tem **múltiplos domínios** naturais (fundamentos, configuração, casos de uso, etc.)
+3. O estudo aprofundado **não cabe num único arquivo** sem ficar superficial
+
+Exemplos que **devem** ser sub-glossário:
+- Serviços AWS principais (EC2, Lambda, RDS, VPC, S3, ECS, EKS, DynamoDB...)
+- Tópicos amplos de infraestrutura (Kubernetes, Terraform, Docker...)
+- Frameworks grandes (Spring Boot, Django, React...)
+
+Exemplos que **não precisam** de sub-glossário (arquivo folha basta):
+- Conceitos pontuais (On-Demand Pricing, MFA, Elastic IP...)
+- Comparativos (EC2 vs Lambda, SQL vs NoSQL...)
+- Funcionalidades específicas (Lambda SnapStart, RDS Multi-AZ...)
 
 ---
 
@@ -346,6 +380,36 @@ DEPOIS (criado):
 6. Atualizar índice: `- [ ] 1.1.1.1.` → `- [x] [[caminho|1.1.1.1.]]`
 7. Perguntar: *"Criado! Quer que eu implemente o próximo: `1.2.1.1. Hierarquia DNS...`?"*
 8. Repetir até o último arquivo
+
+---
+
+## Quando criar sub-glossário dentro de um tópico
+
+Para tópicos que são **serviços complexos** (ex: Amazon EC2, AWS Lambda, Amazon RDS, Amazon VPC), em vez de criar um único arquivo folha com todo o conteúdo, crie uma pasta com um sub-glossário próprio seguindo exatamente o mesmo padrão:
+
+```
+3.3.1. Computação/
+  3.3.1.1. Amazon EC2/            ← pasta do serviço (não arquivo)
+    0 Amazon EC2 (Tópicos ).md   ← sub-glossário com [ ] em todos os itens
+    1. Fundamentos/
+      1.1 O que é EC2/
+        ...
+    2. Tipos de Instância/
+      ...
+    3. Modelos de Compra/
+      ...
+```
+
+No glossário pai, o link aponta para o sub-glossário (não para arquivo de conteúdo):
+
+```markdown
+- [ ] [[caminho/3.3.1.1. Amazon EC2/0 Amazon EC2 (Tópicos )|3.3.1.1. Amazon EC2]]
+```
+
+Critério para usar sub-glossário:
+- O serviço tem 5+ conceitos distintos que merecem arquivos separados
+- O tema é amplo o suficiente para ter domínios (fundamentos, configuração, casos de uso, etc.)
+- O estudo do serviço em profundidade exige mais do que um arquivo pode cobrir
 
 ---
 
