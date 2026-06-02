@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91d87bd2ac5f3fe2",
+        "id": "f14976d3d67a1ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "969888cec0867965",
+            "id": "fc185cbdf0c3fd66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 AWS core (Glossário )"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para 0 AWS core (Glossário )"
             }
           },
           {
@@ -161,43 +166,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "969888cec0867965",
+  "active": "fc185cbdf0c3fd66",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.5. Wavelength Zones.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.4. Local Zones.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.2. Zonas de Disponibilidade (AZs).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.1. Regiões (Regions).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.326f5a2933b6",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.3. Segregação de funções.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.3. Segregação de funções.md.tmp.22100.6c5572e79e2a",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.a6c8a1ce5e2d",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.2. Defense in depth.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.2. Defense in depth.md.tmp.22100.e57a3b099f56",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.2b24705a8bde",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.1. Princípio do menor privilégio.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança/2.2.2.1. Princípio do menor privilégio.md.tmp.22100.1574ccd38816",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.2. Princípios de segurança",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.be3b9b1a201b",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.2. AWS Artifact.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.2. AWS Artifact.md.tmp.22100.17c3bfe13fdc",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.22100.ce878c65f713",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.2 Conceitos de segurança e conformidade na nuvem/2.2.1. Conformidade/2.2.1.1. AWS Compliance Programs.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.3. Controles herdados, compartilhados e do cliente.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.2. Responsabilidades do cliente (segurança NA nuvem).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.1 Definir o modelo de responsabilidade compartilhada da AWS/2.1.1. Divisão de responsabilidades/2.1.1.1. Responsabilidades da AWS (segurança DA nuvem).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/VPN/0 VPN (Tópicos ).md",
-    "13. Segurança da Informação/Conceitos Fundamentais/SSL e TLS/2 Como Funciona o SSL TLS/O processo de Handshake.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.4. Paralelização.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.3. Implementação de elasticidade.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.2. Desacoplamento de componentes.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.3 Explicar os diferentes princípios de design de nuvem/1.3.1. Princípios fundamentais/1.3.1.1. Design para falhas.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.5. Benefícios da automação.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.4. Conceito de Right Sizing.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.3. Calculadoras de custos AWS.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.2. Total Cost of Ownership (TCO).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.2 Identificar aspectos da economia da nuvem/1.2.1. Modelos e ferramentas de custo/1.2.1.1. Modelo de precificação Pay-as-you-go.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.3. Princípios de design da AWS Well-Architected Framework/1.1.3.6. Sustentabilidade.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.3. Princípios de design da AWS Well-Architected Framework/1.1.3.5. Otimização de custos.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Guia de rede AWS VPC para ambientes de produção.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Ciclo de Vida de Lambda Serverless Terminologia Técnica.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Arquitetura AWS.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.27640.4f50d59baa36",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda.md.tmp.27640.4b91c2ee89e9",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.27640.897d526c0056",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra).md.tmp.27640.a0ab4da61abe",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.27640.39cf29590fed",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.2. Benefícios/3.2.2.3. Recuperação de desastres.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.2. Benefícios/3.2.2.3. Recuperação de desastres.md.tmp.27640.d4de7f716b6c",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md.tmp.27640.8ba0b7884867",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.2. Benefícios/3.2.2.2. Baixa latência.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.2. Benefícios/3.2.2.2. Baixa latência.md.tmp.27640.6ec27e6dd85b",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.2. Benefícios/3.2.2.1. Alta disponibilidade.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.6. AWS Outposts.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.3. Edge Locations.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.3. Internet pública.md",
+    "5. Desenvolvimento Back-End/JAVA/Interrelacionais/Funções como objetos (Functional Interfaces).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.2. AWS Direct Connect.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.4 Recursos de suporte à segurança/2.4.1. Ferramentas de governança/2.4.1.2. AWS Well-Architected Tool.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.4 Recursos de suporte à segurança/2.4.1. Ferramentas de governança/2.4.1.1. AWS Trusted Advisor.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.1. VPN.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.3. On-premises.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.2. Híbrido.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.1. All-in cloud.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.9. AWS Certificate Manager.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.8. AWS Secrets Manager.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.7. AWS Key Management Service (KMS).md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.6. Amazon Inspector.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.5. AWS Security Hub.md",
     "Sem título.canvas",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",

@@ -116,17 +116,17 @@ O objetivo deste material é ir além da superfície e entender como os componen
   - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.2. Zonas de Disponibilidade (AZs)|3.2.1.2. Zonas de Disponibilidade (AZs)]]
   - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.3. Edge Locations|3.2.1.3. Edge Locations]]
   - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.4. Local Zones|3.2.1.4. Local Zones]]
-  - [ ] 3.2.1.5. Wavelength Zones
-  - [ ] 3.2.1.6. AWS Outposts
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.5. Wavelength Zones|3.2.1.5. Wavelength Zones]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.6. AWS Outposts|3.2.1.6. AWS Outposts]]
 - **3.2.2. Benefícios**
-  - [ ] 3.2.2.1. Alta disponibilidade
-  - [ ] 3.2.2.2. Baixa latência
-  - [ ] 3.2.2.3. Recuperação de desastres
+  - [x] [[3.2.2.1. Alta disponibilidade|3.2.2.1. Alta disponibilidade]]
+  - [x] [[3.2.2.2. Baixa latência|3.2.2.2. Baixa latência]]
+  - [x] [[3.2.2.3. Recuperação de desastres|3.2.2.3. Recuperação de desastres]]
 
 ### 3.3 Serviços principais da AWS
 - **3.3.1. Computação**
-  - [ ] 3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra)
-  - [ ] 3.3.1.2. AWS Lambda
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra)|3.3.1.1. Amazon EC2 (tipos de instância, modelos de compra)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda|3.3.1.2. AWS Lambda]]
   - [ ] 3.3.1.3. Amazon ECS e EKS
   - [ ] 3.3.1.4. AWS Elastic Beanstalk
   - [ ] 3.3.1.5. Amazon Lightsail
