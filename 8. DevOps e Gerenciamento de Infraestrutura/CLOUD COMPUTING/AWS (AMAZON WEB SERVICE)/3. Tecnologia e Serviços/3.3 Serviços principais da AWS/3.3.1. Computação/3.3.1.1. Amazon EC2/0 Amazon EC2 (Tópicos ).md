@@ -18,8 +18,8 @@
 
 ### 2.1 Famílias por Perfil de Recurso
 - **2.1.1. Propósito Geral (T e M)**
-  - [ ] 2.1.1.1. Família T — Burstable Performance, CPU Credits e quando usar em desenvolvimento e cargas irregulares.
-  - [ ] 2.1.1.2. Família M — balanced compute, Graviton vs Intel vs AMD, e casos de uso em produção.
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2/2. Tipos de Instância/2.1 Famílias por Perfil de Recurso/2.1.1. Propósito Geral (T e M)/2.1.1.1. Família T — Burstable Performance, CPU Credits e quando usar em desenvolvimento e cargas irregulares|2.1.1.1. Família T — Burstable Performance, CPU Credits e quando usar em desenvolvimento e cargas irregulares]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2/2. Tipos de Instância/2.1 Famílias por Perfil de Recurso/2.1.1. Propósito Geral (T e M)/2.1.1.2. Família M — balanced compute, Graviton vs Intel vs AMD, e casos de uso em produção|2.1.1.2. Família M — balanced compute, Graviton vs Intel vs AMD, e casos de uso em produção]]
 - **2.1.2. Compute Optimized (C)**
   - [ ] 2.1.2.1. Família C — alta CPU para transcoding, game servers, ML inference e HPC.
 - **2.1.3. Memory Optimized (R, X, z)**
