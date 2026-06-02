@@ -76,25 +76,25 @@ O objetivo deste material é ir além da superfície e entender como os componen
 
 ### 2.3 Capacidades de gerenciamento de acesso da AWS
 - **2.3.1. Identity and Access Management (IAM)**
-  - [ ] 2.3.1.1. Usuários, Grupos e Roles
-  - [ ] 2.3.1.2. Políticas (Policies)
-  - [ ] 2.3.1.3. Multi-Factor Authentication (MFA)
-  - [ ] 2.3.1.4. IAM Identity Center (SSO)
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.1. Usuários, Grupos e Roles|2.3.1.1. Usuários, Grupos e Roles]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.2. Políticas (Policies)|2.3.1.2. Políticas (Policies)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.3. Multi-Factor Authentication (MFA)|2.3.1.3. Multi-Factor Authentication (MFA)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.1. Identity and Access Management (IAM)/2.3.1.4. IAM Identity Center (SSO)|2.3.1.4. IAM Identity Center (SSO)]]
 - **2.3.2. Serviços de segurança**
-  - [ ] 2.3.2.1. AWS Organizations
-  - [ ] 2.3.2.2. AWS Shield (Standard e Advanced)
-  - [ ] 2.3.2.3. AWS WAF
-  - [ ] 2.3.2.4. Amazon GuardDuty
-  - [ ] 2.3.2.5. AWS Security Hub
-  - [ ] 2.3.2.6. Amazon Inspector
-  - [ ] 2.3.2.7. AWS Key Management Service (KMS)
-  - [ ] 2.3.2.8. AWS Secrets Manager
-  - [ ] 2.3.2.9. AWS Certificate Manager
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.1. AWS Organizations|2.3.2.1. AWS Organizations]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.2. AWS Shield (Standard e Advanced)|2.3.2.2. AWS Shield (Standard e Advanced)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.3. AWS WAF|2.3.2.3. AWS WAF]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.4. Amazon GuardDuty|2.3.2.4. Amazon GuardDuty]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.5. AWS Security Hub|2.3.2.5. AWS Security Hub]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.6. Amazon Inspector|2.3.2.6. Amazon Inspector]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.7. AWS Key Management Service (KMS)|2.3.2.7. AWS Key Management Service (KMS)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.8. AWS Secrets Manager|2.3.2.8. AWS Secrets Manager]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.9. AWS Certificate Manager|2.3.2.9. AWS Certificate Manager]]
 
 ### 2.4 Recursos de suporte à segurança
 - **2.4.1. Ferramentas de governança**
-  - [ ] 2.4.1.1. AWS Trusted Advisor
-  - [ ] 2.4.1.2. AWS Well-Architected Tool
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.4 Recursos de suporte à segurança/2.4.1. Ferramentas de governança/2.4.1.1. AWS Trusted Advisor|2.4.1.1. AWS Trusted Advisor]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.4 Recursos de suporte à segurança/2.4.1. Ferramentas de governança/2.4.1.2. AWS Well-Architected Tool|2.4.1.2. AWS Well-Architected Tool]]
 
 ---
 
@@ -102,20 +102,20 @@ O objetivo deste material é ir além da superfície e entender como os componen
 
 ### 3.1 Métodos de implantação e operação na AWS
 - **3.1.1. Modelos de implantação**
-  - [ ] 3.1.1.1. All-in cloud
-  - [ ] 3.1.1.2. Híbrido
-  - [ ] 3.1.1.3. On-premises
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.1. All-in cloud|3.1.1.1. All-in cloud]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.2. Híbrido|3.1.1.2. Híbrido]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.1. Modelos de implantação/3.1.1.3. On-premises|3.1.1.3. On-premises]]
 - **3.1.2. Opções de conectividade**
-  - [ ] 3.1.2.1. VPN
-  - [ ] 3.1.2.2. AWS Direct Connect
-  - [ ] 3.1.2.3. Internet pública
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.1. VPN|3.1.2.1. VPN]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.2. AWS Direct Connect|3.1.2.2. AWS Direct Connect]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.1 Métodos de implantação e operação na AWS/3.1.2. Opções de conectividade/3.1.2.3. Internet pública|3.1.2.3. Internet pública]]
 
 ### 3.2 Infraestrutura global da AWS
 - **3.2.1. Componentes**
-  - [ ] 3.2.1.1. Regiões (Regions)
-  - [ ] 3.2.1.2. Zonas de Disponibilidade (AZs)
-  - [ ] 3.2.1.3. Edge Locations
-  - [ ] 3.2.1.4. Local Zones
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.1. Regiões (Regions)|3.2.1.1. Regiões (Regions)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.2. Zonas de Disponibilidade (AZs)|3.2.1.2. Zonas de Disponibilidade (AZs)]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.3. Edge Locations|3.2.1.3. Edge Locations]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.2 Infraestrutura global da AWS/3.2.1. Componentes/3.2.1.4. Local Zones|3.2.1.4. Local Zones]]
   - [ ] 3.2.1.5. Wavelength Zones
   - [ ] 3.2.1.6. AWS Outposts
 - **3.2.2. Benefícios**
