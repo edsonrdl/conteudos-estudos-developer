@@ -125,14 +125,15 @@ O objetivo deste material é ir além da superfície e entender como os componen
 
 ### 3.3 Serviços principais da AWS
 - **3.3.1. Computação**
-  - [ ] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2/0 Amazon EC2 (Tópicos )|3.3.1.1. Amazon EC2]]
-  - [ ] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda/0 AWS Lambda (Tópicos )|3.3.1.2. AWS Lambda]]
-  - [ ] 3.3.1.3. Amazon ECS e EKS
-  - [ ] 3.3.1.4. AWS Elastic Beanstalk
-  - [ ] 3.3.1.5. Amazon Lightsail
-  - [ ] 3.3.1.6. AWS Batch
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.1. Amazon EC2/0 Amazon EC2 (Tópicos )|3.3.1.1. Amazon EC2]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.2. AWS Lambda/0 AWS Lambda (Tópicos )|3.3.1.2. AWS Lambda]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.3. Amazon ECS/0 Amazon ECS (Tópicos )|3.3.1.3. Amazon ECS]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.4. Amazon EKS/0 Amazon EKS (Tópicos )|3.3.1.4. Amazon EKS]]
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.1. Computação/3.3.1.5. AWS Elastic Beanstalk/0 AWS Elastic Beanstalk (Tópicos )|3.3.1.5. AWS Elastic Beanstalk]]
+  - [ ] 3.3.1.6. Amazon Lightsail
+  - [ ] 3.3.1.7. AWS Batch
 - **3.3.2. Armazenamento**
-  - [ ] 3.3.2.1. Amazon S3 (classes de armazenamento)
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.2. Armazenamento/3.3.2.1. Amazon S3/0 Amazon S3 (Tópicos )|3.3.2.1. Amazon S3]]
   - [ ] 3.3.2.2. Amazon EBS
   - [ ] 3.3.2.3. Amazon EFS
   - [ ] 3.3.2.4. AWS Storage Gateway
@@ -147,7 +148,7 @@ O objetivo deste material é ir além da superfície e entender como os componen
   - [ ] 3.3.3.6. Amazon DocumentDB
   - [ ] 3.3.3.7. Amazon Neptune
 - **3.3.4. Rede**
-  - [ ] 3.3.4.1. Amazon VPC
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.4. Rede/3.3.4.1. Amazon VPC/0 Amazon VPC (Tópicos )|3.3.4.1. Amazon VPC]]
   - [ ] 3.3.4.2. Subnets (públicas e privadas)
   - [ ] 3.3.4.3. Security Groups e NACLs
   - [ ] 3.3.4.4. Internet Gateway e NAT Gateway

@@ -298,7 +298,8 @@
 
 ### Gerenciamento de APIs e Serviços
 
-- [ ] Insomnia
+- [ ] [[8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos )|Insomnia]]
+- [ ] Postman
 - [ ] Firebase
 
 ### Interface Gráfica e Gerenciamento de Clusters
