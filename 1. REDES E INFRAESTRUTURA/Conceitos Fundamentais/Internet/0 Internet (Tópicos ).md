@@ -29,10 +29,16 @@
   - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.1 Roteamento na Internet/2.1.2. DNS na Internet/2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia|2.1.2.1. Papel do DNS como infraestrutura crítica — resolução de nomes em escala global, servidores raiz e hierarquia]]
 
 ### 2.2 Protocolos de Aplicação
-- **2.2.1. HTTP e HTTPS**
-  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP e HTTPS/2.2.1.1. Como o HTTP e HTTPS sustentam a Web — modelo request e response, versões (HTTP 1.1, HTTP 2, HTTP 3 sobre QUIC)|2.2.1.1. Como o HTTP/HTTPS sustenta a Web — modelo request/response, versões (HTTP/1.1, HTTP/2, HTTP/3 sobre QUIC)]]
-- **2.2.2. Outros Protocolos Fundamentais**
-  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. Outros Protocolos Fundamentais/2.2.2.1. FTP, SMTP, IMAP e POP3 — protocolos que constroem serviços de transferência de arquivos e e-mail sobre o TCP-IP|2.2.2.1. FTP, SMTP, IMAP/POP3 — protocolos que constroem serviços (transferência de arquivos, e-mail) sobre o TCP/IP]]
+- **2.2.1. HTTP**
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP/0 HTTP (Tópicos )|2.2.1. HTTP]]
+- **2.2.2. HTTPS**
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. HTTPS/0 HTTPS (Tópicos )|2.2.2. HTTPS]]
+- **2.2.3. FTP**
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.3. FTP/0 FTP (Tópicos )|2.2.3. FTP]]
+- **2.2.4. SMTP**
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.4. SMTP/0 SMTP (Tópicos )|2.2.4. SMTP]]
+- **2.2.5. IMAP e POP3**
+  - [x] [[1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.5. IMAP e POP3/0 IMAP e POP3 (Tópicos )|2.2.5. IMAP e POP3]]
 
 ---
 
