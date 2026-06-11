@@ -36,7 +36,7 @@
   - [x] [[8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.2. Aplicação prática — nunca hardcode URLs, sempre base_url|3.1.1.2. Aplicação prática — nunca hardcode URLs, sempre {{ base_url }}]]
 - **3.1.2. Request Chaining (Encadeamento de Requisições)**
   - [x] [[8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições|3.1.2.1. O problema — dependência de token entre requisições]]
-  - [ ] 3.1.2.2. A solução com Template Tags — `CTRL + Espaço`, Response tag e JSONPath.
+  - [x] [[8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.2. A solução com Template Tags — CTRL + Espaço, Response tag e JSONPath|3.1.2.2. A solução com Template Tags — CTRL + Espaço, Response tag e JSONPath]]
   - [ ] 3.1.2.3. Resultado — login automático em background e injeção de token sem intervenção manual.
 
 ---
