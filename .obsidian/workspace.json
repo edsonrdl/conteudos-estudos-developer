@@ -11,10 +11,14 @@
             "id": "c79159346b5958f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "0 Glossário/Glossário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossário"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Glossário"
             }
           },
           {
@@ -161,8 +166,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "eb42f7836ede1533",
+  "active": "c79159346b5958f4",
   "lastOpenFiles": [
+    "5. Desenvolvimento Back-End/Como funciona a memória da JVM, classes, objetos, primitivas e o Garbage Collector.md",
+    "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
+    "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
+    "9. Engenharia de Software/Métricas e Qualidade/0 Erros Críticos em Programação (Glossário).md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.5f27d93c192b",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições.md.tmp.2644.f86302db0413",
@@ -178,7 +187,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.aa1b6d844b4e",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.2. Multipart Form (multipart-form-data) — envio de arquivos e boundary dinâmico.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.2. Multipart Form (multipart-form-data) — envio de arquivos e boundary dinâmico.md.tmp.2644.03c9ae8e61c4",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.90b340e8108f",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.1. JSON (application-json) — validação de sintaxe e formatação automática.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.1. Query Parameters vs Path Variables/2.1.1.2. Path Variables — inserção na URL e uso com variáveis dinâmicas.md",
     "Arquitetura front end.md",
@@ -196,9 +204,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
     "Perfil dev.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.4. Rede/3.3.4.1. Amazon VPC/9. Monitoramento e Diagnóstico/9.2 Ferramentas de Diagnóstico/9.2.1. Troubleshooting de rede/9.2.1.1. Reachability Analyzer e Network Access Analyzer — diagnosticar conectividade sem enviar tráfego real.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.4. Rede/3.3.4.1. Amazon VPC/0 Amazon VPC (Tópicos ).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.4. Rede/3.3.4.1. Amazon VPC/9. Monitoramento e Diagnóstico/9.1 VPC Flow Logs/9.1.1. Captura de tráfego/9.1.1.1. VPC Flow Logs — campos do log, destinos (CloudWatch S3 Kinesis), análise de tráfego e custo.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.2. HTTPS/0 HTTPS (Tópicos ).md",
     "Sem título.canvas",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
