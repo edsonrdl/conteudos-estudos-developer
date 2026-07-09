@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Glossário/Glossário.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossário"
+              "title": "0 Internet (Tópicos )"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Glossário/Glossário.md",
+                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Glossário"
+              "title": "Links inversos para 0 Internet (Tópicos )"
             }
           },
           {
@@ -168,6 +168,25 @@
   },
   "active": "c79159346b5958f4",
   "lastOpenFiles": [
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/IPs Reservados.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.3. AWS WAF.md",
+    "0 Glossário/Glossário.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/1. Fundamentos do DNS/1.2 Hierarquia do DNS/1.2.1. Servidores Raiz e TLDs/1.2.1.1. Servidores raiz, TLDs (Top-Level Domains) e a hierarquia de delegação de nomes.md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos ).md",
+    "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
+    "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
+    "14. Inteligência Artificial e Machine Learning/Desafios em llm locais.md",
+    "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
+    "14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/0 Agentic Workflows e Orquestração ( Glossário ).md",
+    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
+    "Perfil dev.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Template Monolítico Modular (Multi-Module Clean Architecture).md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md",
+    "Certificacoes estudos/Arquiteto.md",
+    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
+    "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
+    "_PROMPT - Criar Novo Tópico Filho.md",
+    "_SPEC - Criar Novo Tópico Filho.md",
     "5. Desenvolvimento Back-End/Como funciona a memória da JVM, classes, objetos, primitivas e o Garbage Collector.md",
     "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
     "3. Desenvolvimento Front-End/Frameworks e Bibliotecas/ANGULAR/0 Glossário ( Angular ).md",
@@ -182,28 +201,9 @@
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.1. Mecânica dos Environments — Base Environment, sub-ambientes Dev-QA-Prod e troca com um clique.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.1. Mecânica dos Environments — Base Environment, sub-ambientes Dev-QA-Prod e troca com um clique.md.tmp.2644.7603f21bc031",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.b5bcf5ced1e3",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.3. Form URL Encoded — formulários HTML e fluxo OAuth 2.0.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.3. Form URL Encoded — formulários HTML e fluxo OAuth 2.0.md.tmp.2644.5b551346580a",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.aa1b6d844b4e",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.2. Multipart Form (multipart-form-data) — envio de arquivos e boundary dinâmico.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.2. Multipart Form (multipart-form-data) — envio de arquivos e boundary dinâmico.md.tmp.2644.03c9ae8e61c4",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.1. JSON (application-json) — validação de sintaxe e formatação automática.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.1. Query Parameters vs Path Variables/2.1.1.2. Path Variables — inserção na URL e uso com variáveis dinâmicas.md",
-    "Arquitetura front end.md",
-    "_SPEC - Criar Novo Tópico Filho.md",
-    "_PROMPT - Criar Novo Tópico Filho.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Postman/0 Postman (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/1. Fundamentos do DNS/1.1 O que é DNS/1.1.1. Definição e Propósito/1.1.1.1. O que é DNS, como funciona a resolução de nomes e a analogia da lista telefônica da internet.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.1. Query Parameters vs Path Variables/2.1.1.1. Query Parameters — aba Query, URL encoding automático e casos de uso.md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos ).md",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/2. Roteamento e Protocolos/2.2 Protocolos de Aplicação/2.2.1. HTTP/0 HTTP (Tópicos ).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/1. Estrutura Lógica e Contexto/1.1 Workspaces e Collections/1.1.1. A Hierarquia de Organização/1.1.1.2. Folders (Pastas) — herança de variáveis e autenticação entre pastas filhas.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/1. Estrutura Lógica e Contexto/1.1 Workspaces e Collections/1.1.1. A Hierarquia de Organização/1.1.1.1. Design Document vs Request Collection — duas abordagens de trabalho no Insomnia.md",
-    "0 Glossário/Glossário.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
-    "Perfil dev.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/3. Tecnologia e Serviços/3.3 Serviços principais da AWS/3.3.4. Rede/3.3.4.1. Amazon VPC/9. Monitoramento e Diagnóstico/9.2 Ferramentas de Diagnóstico/9.2.1. Troubleshooting de rede/9.2.1.1. Reachability Analyzer e Network Access Analyzer — diagnosticar conectividade sem enviar tráfego real.md",
     "Sem título.canvas",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
