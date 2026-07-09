@@ -356,6 +356,7 @@
 - [ ] Stateful vs Stateless
 - [ ] Database per Service
 - [ ] Strangler Fig
+- [ ] Monolítico Modular
 
 ### Arquitetura Frontend & Mobile
 
