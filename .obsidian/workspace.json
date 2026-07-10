@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.1. Benefícios da computação em nuvem/1.1.1.1. Economia de escala.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Internet (Tópicos )"
+              "title": "1.1.1.1. Economia de escala"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
+                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/1. Conceitos de Nuvem/1.1 Definir a Nuvem AWS e sua proposta de valor/1.1.1. Benefícios da computação em nuvem/1.1.1.1. Economia de escala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 0 Internet (Tópicos )"
+              "title": "Links inversos para 1.1.1.1. Economia de escala"
             }
           },
           {
@@ -168,6 +168,8 @@
   },
   "active": "c79159346b5958f4",
   "lastOpenFiles": [
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ).md",
+    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/Internet/0 Internet (Tópicos ).md",
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/TCP IP/2. Endereçamento e Roteamento/IPs Reservados.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/2. Segurança e Conformidade/2.3 Capacidades de gerenciamento de acesso da AWS/2.3.2. Serviços de segurança/2.3.2.3. AWS WAF.md",
     "0 Glossário/Glossário.md",
@@ -195,10 +197,8 @@
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições.md.tmp.2644.f86302db0413",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.efb3717d12e8",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.2. Aplicação prática — nunca hardcode URLs, sempre base_url.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.2. Aplicação prática — nunca hardcode URLs, sempre base_url.md.tmp.2644.c006326318d3",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.555cda063840",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.1. Mecânica dos Environments — Base Environment, sub-ambientes Dev-QA-Prod e troca com um clique.md",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.1. Mecânica dos Environments — Base Environment, sub-ambientes Dev-QA-Prod e troca com um clique.md.tmp.2644.7603f21bc031",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.b5bcf5ced1e3",
     "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.3. Form URL Encoded — formulários HTML e fluxo OAuth 2.0.md.tmp.2644.5b551346580a",
