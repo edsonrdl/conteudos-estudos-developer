@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis com final.md",
+                "file": "10. Arquitetura de Software e Design de Software/Dados e Consistência/Transactional Outbox Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Primitivos e Objetos Imutáveis com final"
+              "title": "Transactional Outbox Pattern"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis com final.md",
+                "file": "10. Arquitetura de Software e Design de Software/Dados e Consistência/Transactional Outbox Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Tipos Primitivos e Objetos Imutáveis com final"
+              "title": "Links inversos para Transactional Outbox Pattern"
             }
           },
           {
@@ -166,11 +166,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c79159346b5958f4",
+  "active": "eb42f7836ede1533",
   "lastOpenFiles": [
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/0 CAP Theorem (Glossário ).md.tmp.16424.d3625b622ab8",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/4. CAP na Prática/4.2 Raciocínio e erros/4.2.1. CAP awareness",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/4. CAP na Prática/4.2 Raciocínio e erros",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/4. CAP na Prática/4.1 Implicações arquiteturais/4.1.1. Aplicação real",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/4. CAP na Prática/4.1 Implicações arquiteturais",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/4. CAP na Prática",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/3. Formalização e Extensões/3.2 PACELC/3.2.1. Além da partição",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/3. Formalização e Extensões/3.2 PACELC",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/3. Formalização e Extensões/3.1 Prova e nuances/3.1.1. Origem formal",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/3. Formalização e Extensões/3.1 Prova e nuances",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/3. Formalização e Extensões",
+    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.3. Resultado — login automático em background e injeção de token sem intervenção manual.md",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/0 CAP Theorem (Glossário ).md",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/Theorem CAP.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/0 APACHE KAFKA (Glossário).md",
+    "1. REDES E INFRAESTRUTURA/Arquitetura de Serviços!/Mtls/0 MTLS (Tópicos ).md",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/Transactional Outbox Pattern.md",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/PALELC Teorema.md",
+    "10. Arquitetura de Software e Design de Software/Dados e Consistência/teorema-cap-banco-dados.png",
+    "0 Glossário/Glossário.md",
+    "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis com final.md",
     "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
     "5. Desenvolvimento Back-End/JAVA/0 Glossário ( Java ).md",
-    "0 Glossário/Glossário.md",
     "Perfil dev.md",
     "0 Glossário/Guia Completo Configurando Base de Conhecimento Tecnológica no Obsidian.md",
     "Certificacoes estudos/aws/Conteúdo de estudos Architect – Associate.md",
@@ -185,25 +205,6 @@
     "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais/DNS/0 DNS (Tópicos ).md",
     "14. Inteligência Artificial e Machine Learning/O Caminho para a Autonomia em Inteligência Artificial.md",
     "14. Inteligência Artificial e Machine Learning/Modelos Open Source LLM.md",
-    "14. Inteligência Artificial e Machine Learning/Desafios em llm locais.md",
-    "14. Inteligência Artificial e Machine Learning/A Diferença entre Inteligência Artificial (IA) e Machine Learning (ML).md",
-    "14. Inteligência Artificial e Machine Learning/Padrões e Arquitetura de IA/0 Agentic Workflows e Orquestração ( Glossário ).md",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário ).md",
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Template Monolítico Modular (Multi-Module Clean Architecture).md",
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/SOLID.md",
-    "Certificacoes estudos/Arquiteto.md",
-    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
-    "_PROMPT - Criar Novo Tópico Filho.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.5f27d93c192b",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.2. Request Chaining/3.1.2.1. O problema — dependência de token entre requisições.md.tmp.2644.f86302db0413",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.efb3717d12e8",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.2. Aplicação prática — nunca hardcode URLs, sempre base_url.md.tmp.2644.c006326318d3",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.555cda063840",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/3. Variáveis e Automação de Fluxo/3.1 Environments/3.1.1. O Fim do Hardcode/3.1.1.1. Mecânica dos Environments — Base Environment, sub-ambientes Dev-QA-Prod e troca com um clique.md.tmp.2644.7603f21bc031",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.b5bcf5ced1e3",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.3. Form URL Encoded — formulários HTML e fluxo OAuth 2.0.md.tmp.2644.5b551346580a",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/0 Insomnia (Tópicos ).md.tmp.2644.aa1b6d844b4e",
-    "8. DevOps e Gerenciamento de Infraestrutura/GERENCIAMENTO DE APIS E SERVIÇOS/Insomnia/2. Construção de Requisições e Parâmetros/2.1 Passagem de Dados/2.1.2. O Corpo da Requisição (Payloads)/2.1.2.2. Multipart Form (multipart-form-data) — envio de arquivos e boundary dinâmico.md.tmp.2644.03c9ae8e61c4",
     "Sem título.canvas",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
@@ -215,7 +216,6 @@
     "Sem título 1.canvas",
     "13. Segurança da Informação/img/mtls-img.png",
     "13. Segurança da Informação/img/jwt-structure.png",
-    "Pasted image 20260329015359.png",
     "Garbage Collector/img/canvas-gabarge-collector.canvas"
   ]
 }
