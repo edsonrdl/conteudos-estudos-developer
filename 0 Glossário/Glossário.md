@@ -417,7 +417,7 @@
 
 - [ ] CQRS — Command Query Responsibility Segregation
 - [ ] SAGA — Coordenação de transações distribuídas
-- [ ] CAP Theorem — Consistency, Availability, Partition tolerance
+- [ ] [[10. Arquitetura de Software e Design de Software/Dados e Consistência/CAP Theorem/0 CAP Theorem (Glossário )|CAP Theorem — Consistency, Availability, Partition tolerance]]
 - [ ] Teorema PACELC
 - [ ] Transactional Outbox Pattern — Consistência de dados e eventos em microsserviços
 - [ ] BASE vs ACID
