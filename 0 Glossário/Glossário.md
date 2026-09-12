@@ -112,8 +112,8 @@
 
 - [ ] SOA — Service-Oriented Architecture
 - [ ] Microsserviços
-- [ ] Arquitetura Hexagonal
-- [ ] Clean Architecture
+- [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/0 Hexagonal (Glossário )|Arquitetura Hexagonal]]
+- [ ] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
 - [ ] Arquitetura MVC
 
 ### Conceitos de Runtime
@@ -241,7 +241,7 @@
 ### Cloud Computing
 
 - [ ] Google Cloud Platform
-- [ ] AWS — Amazon Web Services
+- [ ] [[8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/0 AWS core (Glossário ) | AWS — Amazon Web Services]]
 - [ ] Azure
 - [ ] OpenStack
 - [ ] Salesforce — CRM e desenvolvimento em nuvem
@@ -349,9 +349,9 @@
 - [ ] Domain-Driven Design (DDD)
 - [ ] Design Patterns
 - [ ] Princípios SOLID
-- [ ] Hexagonal
+- [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/0 Hexagonal (Glossário )|Hexagonal]]
 - [ ] Microservices
-- [ ] Clean Architecture
+- [ ] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
 - [ ] MVC
 - [ ] Stateful vs Stateless
 - [ ] Database per Service
@@ -519,74 +519,72 @@
 
 ### Conceitos e Fundamentos
 
-- [ ] Fundamentos de ML/AI
-- [ ] Aprendizado Supervisionado
-- [ ] Aprendizado Não Supervisionado
-- [ ] Redes Neurais
-- [ ] Modelos de Raciocínio (Reasoning Models) 🆕
-- [ ] Como LLMs Funcionam — Transformers e Tokenização 🆕
-- [ ] Context Window, Tokens e Custo de Inferência 🆕
-- [ ] Embeddings — De Texto a Vetores Semânticos 🆕
+- [ ] [[14. Inteligência Artificial e Machine Learning/Fundamentos de ML-AI/0 Fundamentos de ML-AI (Glossário )|Fundamentos de ML/AI]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Aprendizado Supervisionado/0 Aprendizado Supervisionado (Glossário )|Aprendizado Supervisionado]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Aprendizado Não Supervisionado/0 Aprendizado Não Supervisionado (Glossário )|Aprendizado Não Supervisionado]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Redes Neurais/0 Redes Neurais (Glossário )|Redes Neurais]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Modelos de Raciocínio (Reasoning Models)/0 Modelos de Raciocínio (Reasoning Models) (Glossário )|Modelos de Raciocínio (Reasoning Models)]]
+- [x] [[14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/0 Como LLMs Funcionam (Glossário )|Como LLMs Funcionam — Transformers, Tokenização e Embeddings]]
 
 ### Ferramentas e Bibliotecas
 
-- [ ] scikit-learn
-- [ ] TensorFlow
-- [ ] PyTorch
-- [ ] Hugging Face Transformers 🆕
-- [ ] Ollama — Modelos Locais 🆕
+- [ ] [[14. Inteligência Artificial e Machine Learning/scikit-learn/0 scikit-learn (Glossário )|scikit-learn]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/TensorFlow/0 TensorFlow (Glossário )|TensorFlow]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/PyTorch/0 PyTorch (Glossário )|PyTorch]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Hugging Face Transformers/0 Hugging Face Transformers (Glossário )|Hugging Face Transformers]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Ollama — Modelos Locais/0 Ollama — Modelos Locais (Glossário )|Ollama — Modelos Locais]]
 
 ### Visão Computacional
 
-- [ ] OpenCV — Processamento de Imagem
-- [ ] YOLO — Detecção de Objetos
-- [ ] TensorFlow Object Detection API
+- [ ] [[14. Inteligência Artificial e Machine Learning/OpenCV — Processamento de Imagem/0 OpenCV — Processamento de Imagem (Glossário )|OpenCV — Processamento de Imagem]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/YOLO — Detecção de Objetos/0 YOLO — Detecção de Objetos (Glossário )|YOLO — Detecção de Objetos]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/TensorFlow Object Detection API/0 TensorFlow Object Detection API (Glossário )|TensorFlow Object Detection API]]
 
-### Multimodalidade 🆕
+### Multimodalidade
 
-- [ ] Modelos Multimodais (GPT-4V, Claude, Gemini)
-- [ ] RAG Multimodal — Imagens, Áudio e Vídeo
-- [ ] Computer Use — Agentes que Controlam Interfaces
-- [ ] Voice Agents — Speech-to-Speech
+- [ ] [[14. Inteligência Artificial e Machine Learning/Modelos Multimodais (GPT-4V, Claude, Gemini)/0 Modelos Multimodais (GPT-4V, Claude, Gemini) (Glossário )|Modelos Multimodais (GPT-4V, Claude, Gemini)]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/RAG Multimodal — Imagens, Áudio e Vídeo/0 RAG Multimodal — Imagens, Áudio e Vídeo (Glossário )|RAG Multimodal — Imagens, Áudio e Vídeo]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Computer Use — Agentes que Controlam Interfaces/0 Computer Use — Agentes que Controlam Interfaces (Glossário )|Computer Use — Agentes que Controlam Interfaces]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Voice Agents — Speech-to-Speech/0 Voice Agents — Speech-to-Speech (Glossário )|Voice Agents — Speech-to-Speech]]
 
 ### AI Engineering (Engenharia Aplicada)
 
-- [ ] Engenharia de IA Aplicada (AI Engineering) _(contém: LLMs, RAG, Embeddings, Frameworks, Extração, Avaliação, Fine-Tuning, LLMOps)_
+- [ ] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0 Engenharia de IA Aplicada (AI Engineering) ( Glossário )|Engenharia de IA Aplicada (AI Engineering)]] _(contém: LLMs, RAG, Embeddings, Frameworks, Extração, Avaliação, Fine-Tuning, LLMOps)_
 
 ### Padrões e Arquitetura de IA
 
-- [ ] Retrieval-Augmented Generation (RAG)
-- [ ] Agentic Workflows e Orquestração
-- [ ] Harness — Runtime de Controle de Agentes
-- [ ] Protocolos de Agentes — MCP e A2A
-- [ ] Supervisão Humana — HITL, HOTL e HIC
-- [ ] Memória de Agentes (Mem0, Zep, MemoryOS)
-- [ ] LLMOps e Governança
-- [ ] Spec-Driven Development (SDD) 🆕
-- [ ] Guardrails e Segurança de IA 🆕
-- [ ] Infraestrutura de Inferência — vLLM, Quantização, Routing 🆕
+- [ ] [[14. Inteligência Artificial e Machine Learning/Retrieval-Augmented Generation (RAG)/0 Retrieval-Augmented Generation (RAG) (Glossário )|Retrieval-Augmented Generation (RAG)]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Agentic Workflows e Orquestração/0 Agentic Workflows e Orquestração (Glossário )|Agentic Workflows e Orquestração]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Harness — Runtime de Controle de Agentes/0 Harness — Runtime de Controle de Agentes (Glossário )|Harness — Runtime de Controle de Agentes]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Protocolos de Agentes — MCP e A2A/0 Protocolos de Agentes — MCP e A2A (Glossário )|Protocolos de Agentes — MCP e A2A]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Supervisão Humana — HITL, HOTL e HIC/0 Supervisão Humana — HITL, HOTL e HIC (Glossário )|Supervisão Humana — HITL, HOTL e HIC]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Memória de Agentes (Mem0, Zep, MemoryOS)/0 Memória de Agentes (Mem0, Zep, MemoryOS) (Glossário )|Memória de Agentes (Mem0, Zep, MemoryOS)]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/LLMOps e Governança/0 LLMOps e Governança (Glossário )|LLMOps e Governança]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Spec-Driven Development (SDD)/0 Spec-Driven Development (SDD) (Glossário )|Spec-Driven Development (SDD)]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Guardrails e Segurança de IA/0 Guardrails e Segurança de IA (Glossário )|Guardrails e Segurança de IA]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Infraestrutura de Inferência — vLLM, Quantização, Routing/0 Infraestrutura de Inferência — vLLM, Quantização, Routing (Glossário )|Infraestrutura de Inferência — vLLM, Quantização, Routing]]
 
-### Fine-Tuning e Adaptação de Modelos 🆕
+### Fine-Tuning e Adaptação de Modelos
 
-- [ ] Quando Usar Fine-Tuning vs RAG
-- [ ] LoRA e QLoRA
-- [ ] RLHF e DPO — Alinhamento de Modelos
-- [ ] Dados Sintéticos para Fine-Tuning
+- [ ] [[14. Inteligência Artificial e Machine Learning/Quando Usar Fine-Tuning vs RAG/0 Quando Usar Fine-Tuning vs RAG (Glossário )|Quando Usar Fine-Tuning vs RAG]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/LoRA e QLoRA/0 LoRA e QLoRA (Glossário )|LoRA e QLoRA]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/RLHF e DPO — Alinhamento de Modelos/0 RLHF e DPO — Alinhamento de Modelos (Glossário )|RLHF e DPO — Alinhamento de Modelos]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Dados Sintéticos para Fine-Tuning/0 Dados Sintéticos para Fine-Tuning (Glossário )|Dados Sintéticos para Fine-Tuning]]
 
-### Governança e Ética em IA 🆕
+### Governança e Ética em IA
 
-- [ ] AI TRiSM — AI Trust, Risk and Security Management
-- [ ] NIST AI RMF
-- [ ] EU AI Act
-- [ ] LGPD Aplicada a Sistemas de IA
-- [ ] Modelo de Maturidade de Governança de IA
+- [ ] [[14. Inteligência Artificial e Machine Learning/AI TRiSM — AI Trust, Risk and Security Management/0 AI TRiSM — AI Trust, Risk and Security Management (Glossário )|AI TRiSM — AI Trust, Risk and Security Management]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/NIST AI RMF/0 NIST AI RMF (Glossário )|NIST AI RMF]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/EU AI Act/0 EU AI Act (Glossário )|EU AI Act]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/LGPD Aplicada a Sistemas de IA/0 LGPD Aplicada a Sistemas de IA (Glossário )|LGPD Aplicada a Sistemas de IA]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Modelo de Maturidade de Governança de IA/0 Modelo de Maturidade de Governança de IA (Glossário )|Modelo de Maturidade de Governança de IA]]
 
 ### Fundamentos Clássicos (Data Science)
 
-- [ ] Redes Neurais e Deep Learning
-- [ ] Visão Computacional
-- [ ] Estatística para ML
-- [ ] Avaliação de Modelos Clássicos
+- [ ] [[14. Inteligência Artificial e Machine Learning/Redes Neurais e Deep Learning/0 Redes Neurais e Deep Learning (Glossário )|Redes Neurais e Deep Learning]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Visão Computacional (Fundamentos)/0 Visão Computacional (Glossário )|Visão Computacional]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Estatística para ML/0 Estatística para ML (Glossário )|Estatística para ML]]
+- [ ] [[14. Inteligência Artificial e Machine Learning/Avaliação de Modelos Clássicos/0 Avaliação de Modelos Clássicos (Glossário )|Avaliação de Modelos Clássicos]]
 
 ---
 
