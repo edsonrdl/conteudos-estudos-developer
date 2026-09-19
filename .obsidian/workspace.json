@@ -27,14 +27,31 @@
             "id": "048e66f09a6ea579",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.4 Encoder, Decoder e a Pilha Completa/2.4.1. As Três Famílias de Arquitetura/2.4.1.1. Encoder-only, Decoder-only e Encoder-Decoder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4.1.1. Encoder-only, Decoder-only e Encoder-Decoder"
+            }
+          },
+          {
+            "id": "a0dd9b6aedd89c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture Exemplo de código.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia Completo de Clean Architecture Exemplo de código"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,46 +198,46 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "048e66f09a6ea579",
+  "active": "f1c71d39b04202ce",
   "lastOpenFiles": [
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário ).md.tmp.20964.7df0f5904f8b",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/5. Erros Comuns e Limitações/5.1 Anti-padrões/5.1.1. Armadilhas Comuns",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/5. Erros Comuns e Limitações/5.1 Anti-padrões",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/5. Erros Comuns e Limitações",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.2 Alertas Baseados em Error Budget/4.2.1. Multiwindow, Multi-burn-rate Alerting",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.2 Alertas Baseados em Error Budget",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.1 Monitoramento e Ferramentas/4.1.1. Implementando na Prática",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.1 Monitoramento e Ferramentas",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/3. Relação entre os Três/3.1 Como SLI, SLO e SLA se Encaixam/3.1.1. A Cadeia de Confiabilidade",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/3. Relação entre os Três/3.1 Como SLI, SLO e SLA se Encaixam",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/3. Relação entre os Três",
+    "9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/0 SLI-SLO-SLA (Tópicos ).md",
+    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.4 Encoder, Decoder e a Pilha Completa/2.4.1. As Três Famílias de Arquitetura/2.4.1.1. Encoder-only, Decoder-only e Encoder-Decoder.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/6. Relação com Outras Arquiteturas/6.1 Clean vs Hexagonal vs Onion/6.1.1. Comparativo Direto/6.1.1.1. Tabela Comparativa e Critérios de Escolha.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.3 Estratégias de Migração/5.3.1. Strangler Fig Pattern/5.3.1.1. Migração Gradual com Proxy, Feature Toggle e Anti-corruption Layer.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.2 Monolito Modular Multi-módulo/5.2.1. Exemplo Real Módulos Core, Application, Infrastructure e WebAPI/5.2.1.1. Estudo de Caso - Maven Multi-módulo com Temporal Workflow.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.1 Microsserviços com Clean Architecture/5.1.1. Cada Serviço com sua Própria Clean Architecture/5.1.1.1. Estrutura por Microsserviço e Integration Events.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.5 Anti-padrões Comuns/4.5.1. Over-engineering e Anemic Domain Model/4.5.1.1. Over-engineering em CRUDs Simples e Entidades sem Comportamento.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.4 Testes e Validação Arquitetural/4.4.2. Testes de Arquitetura com ArchUnit/4.4.2.1. Validando a Regra da Dependência em Tempo de Build.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.4 Testes e Validação Arquitetural/4.4.1. Testes por Camada/4.4.1.1. Testes de Domínio Puros vs Testes de Aplicação com Mocks.md",
+    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/0 Como LLMs Funcionam (Glossário ).md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture Exemplo de código.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.3 Implementações por Linguagem/4.3.1. Estruturas de Pastas Comparadas/4.3.1.1. Estrutura de Pastas e Use Case em Java, Python e TypeScript.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Monolitico modular aplicado com Clean architecture.md",
+    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário ).md",
+    "0 Glossário/Glossário.md",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.2 Domain Events e Saga Pattern/4.2.2. Saga Pattern/4.2.2.1. Saga Pattern - Transações Distribuídas com Compensação.md",
     "Sem título 1.canvas",
-    "0 Glossário/Glossário.md",
     "2026-09-12.md",
     "Sem título.canvas",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.2 Self-Attention - O Mecanismo Central/2.2.1. A Ideia e o Mecanismo Matemático/2.2.1.1. Self-Attention — Query, Key, Value na Prática.md",
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture Exemplo de código.md.tmp.20964.efe49cb7d82d",
     "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.2 Domain Events e Saga Pattern/4.2.1. Domain Events/4.2.1.1. Domain Events e seus Handlers.md",
-    "10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.2 Domain Events e Saga Pattern/4.2.1. Domain Events/4.2.1.1. Domain Events e seus Handlers.md.tmp.20964.3ad026d34dbe",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.2 Segurança e Alinhamento/9.2.3. Red Teaming Automatizado",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.2 Segurança e Alinhamento/9.2.2. Constitutional AI",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.2 Segurança e Alinhamento/9.2.1. Prompt Injection",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.2 Segurança e Alinhamento",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.1 Multimodalidade e Novos Paradigmas/9.1.4. Model Distillation",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.1 Multimodalidade e Novos Paradigmas/9.1.3. Small Language Models (SLMs) para Edge",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.1 Multimodalidade e Novos Paradigmas/9.1.2. Mixture of Experts (MoE)",
-    "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/9. Fronteiras e Tópicos Emergentes/9.1 Multimodalidade e Novos Paradigmas/9.1.1. RAG Multimodal",
     "14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/_staging conteudo a migrar.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/0 Como LLMs Funcionam (Glossário ).md",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/1. Tokenização - Do Texto aos Números/1.1 Por que Tokenizar/1.1.1. O Problema e a Solução de Subpalavras/1.1.1.1. Por que Redes Neurais Precisam Tokenizar em Subpalavras.md",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/5. A Ponte com a Engenharia Aplicada/5.1 De Volta à Prática/5.1.1. Onde Cada Fundamento Reaparece/5.1.1.1. Do Fundamento Teórico à Engenharia Aplicada.md",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/4. Do Token ao Texto Gerado (Inferência)/4.1 Next-Token Prediction e Decodificação/4.1.1. Como um LLM Decide o Próximo Token/4.1.1.1. Geração Autorregressiva e Estratégias de Decodificação.md",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/3. Embeddings - De Palavras a Vetores Semânticos/3.3 Espaço Vetorial, Similaridade e Dimensionalidade/3.3.1. Medindo Proximidade Semântica/3.3.1.1. Similaridade de Cosseno e Dimensionalidade.md",
     "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/3. Embeddings - De Palavras a Vetores Semânticos/3.2 Embeddings Estáticos vs Contextuais/3.2.1. Duas Gerações de Embeddings/3.2.1.1. Embeddings Estáticos vs Contextuais.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/3. Embeddings - De Palavras a Vetores Semânticos/3.1 O Que é um Embedding/3.1.1. Representar Significado como Números/3.1.1.1. O Que é um Embedding.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.4 Encoder, Decoder e a Pilha Completa/2.4.2. Feed-Forward, Residual e Layer Norm/2.4.2.1. A Pilha Completa de um Bloco Transformer.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.4 Encoder, Decoder e a Pilha Completa/2.4.1. As Três Famílias de Arquitetura/2.4.1.1. Encoder-only, Decoder-only e Encoder-Decoder.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.3 Multi-Head Attention e Positional Encoding/2.3.1. Múltiplas Cabeças e Ordem das Palavras/2.3.1.1. Multi-Head Attention e Positional Encoding.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/2. A Arquitetura Transformer/2.1 O Problema que o Transformer Resolveu/2.1.1. Antes do Transformer/2.1.1.1. RNNs, LSTMs e o Nascimento do Transformer.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/1. Tokenização - Do Texto aos Números/1.3 Do Token ao Vocabulário/1.3.1. Vocabulário e Tokens Especiais/1.3.1.1. Vocabulário, Tokens Especiais e a Causa Raiz do Custo de API.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/1. Tokenização - Do Texto aos Números/1.2 Algoritmos de Tokenização por Subpalavras/1.2.2. WordPiece e SentencePiece/1.2.2.1. WordPiece e SentencePiece — As Alternativas ao BPE.md",
-    "14. Inteligência Artificial e Machine Learning/Como LLMs Funcionam/1. Tokenização - Do Texto aos Números/1.2 Algoritmos de Tokenização por Subpalavras/1.2.1. BPE (Byte Pair Encoding)/1.2.1.1. BPE — O Algoritmo por Trás da Maioria dos LLMs.md",
-    "14. Inteligência Artificial e Machine Learning/Modelos de Raciocínio (Reasoning Models)/0 Modelos de Raciocínio (Reasoning Models) (Glossário ).md",
-    "14. Inteligência Artificial e Machine Learning/Infraestrutura de Inferência — vLLM, Quantização, Routing/0 Infraestrutura de Inferência — vLLM, Quantização, Routing (Glossário ).md",
-    "14. Inteligência Artificial e Machine Learning/Guardrails e Segurança de IA/0 Guardrails e Segurança de IA (Glossário ).md",
-    "14. Inteligência Artificial e Machine Learning/EU AI Act/0 EU AI Act (Glossário ).md",
-    "14. Inteligência Artificial e Machine Learning/Dados Sintéticos para Fine-Tuning/0 Dados Sintéticos para Fine-Tuning (Glossário ).md",
     "10. Arquitetura de Software e Design de Software/Dados e Consistência/teorema-cap-banco-dados.png",
     "5. Desenvolvimento Back-End/Conceitos de Runtime/Garbage Collection/img/img-garbage-collector.png",
     "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/img-garbage-collector.png",
