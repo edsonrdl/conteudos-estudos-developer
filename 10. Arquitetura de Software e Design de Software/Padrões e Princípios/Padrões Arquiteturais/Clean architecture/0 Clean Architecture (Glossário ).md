@@ -72,17 +72,17 @@
 
 ### 4.3 Implementações por Linguagem
 - **4.3.1. Estruturas de Pastas Comparadas**
-  - [ ] 4.3.1.1. Comparativo de estrutura de pastas e Use Case equivalente em Java/Spring Boot, Python/FastAPI e TypeScript/NestJS.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.3 Implementações por Linguagem/4.3.1. Estruturas de Pastas Comparadas/4.3.1.1. Estrutura de Pastas e Use Case em Java, Python e TypeScript|4.3.1.1. Estrutura de Pastas e Use Case em Java, Python e TypeScript]]
 
 ### 4.4 Testes e Validação Arquitetural
 - **4.4.1. Testes por Camada**
-  - [ ] 4.4.1.1. Testes de domínio puros (sem dependências) vs testes de aplicação com mocks/doubles.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.4 Testes e Validação Arquitetural/4.4.1. Testes por Camada/4.4.1.1. Testes de Domínio Puros vs Testes de Aplicação com Mocks|4.4.1.1. Testes de Domínio Puros vs Testes de Aplicação com Mocks]]
 - **4.4.2. Testes de Arquitetura com ArchUnit**
-  - [ ] 4.4.2.1. Como validar automaticamente a Regra da Dependência entre camadas, impedindo violações em tempo de build.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.4 Testes e Validação Arquitetural/4.4.2. Testes de Arquitetura com ArchUnit/4.4.2.1. Validando a Regra da Dependência em Tempo de Build|4.4.2.1. Validando a Regra da Dependência em Tempo de Build]]
 
 ### 4.5 Anti-padrões Comuns
 - **4.5.1. Over-engineering e Anemic Domain Model**
-  - [ ] 4.5.1.1. Forçar todas as camadas em um CRUD simples, e Entidades sem comportamento (apenas getters/setters).
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/4. Padrões Avançados Integrados/4.5 Anti-padrões Comuns/4.5.1. Over-engineering e Anemic Domain Model/4.5.1.1. Over-engineering em CRUDs Simples e Entidades sem Comportamento|4.5.1.1. Over-engineering em CRUDs Simples e Entidades sem Comportamento]]
 
 ---
 
@@ -90,15 +90,15 @@
 
 ### 5.1 Microsserviços com Clean Architecture
 - **5.1.1. Cada Serviço com sua Própria Clean Architecture**
-  - [ ] 5.1.1.1. Estrutura por microsserviço (Domain/Application/Infrastructure/API) e comunicação via Integration Events entre serviços.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.1 Microsserviços com Clean Architecture/5.1.1. Cada Serviço com sua Própria Clean Architecture/5.1.1.1. Estrutura por Microsserviço e Integration Events|5.1.1.1. Estrutura por Microsserviço e Integration Events]]
 
 ### 5.2 Monolito Modular Multi-módulo
 - **5.2.1. Exemplo Real: Módulos Core, Application, Infrastructure e WebAPI**
-  - [ ] 5.2.1.1. Estudo de caso de um projeto Maven multi-módulo real, com motor de workflow (Temporal) isolado na Infraestrutura.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.2 Monolito Modular Multi-módulo/5.2.1. Exemplo Real Módulos Core, Application, Infrastructure e WebAPI/5.2.1.1. Estudo de Caso - Maven Multi-módulo com Temporal Workflow|5.2.1.1. Estudo de Caso - Maven Multi-módulo com Temporal Workflow]]
 
 ### 5.3 Estratégias de Migração
 - **5.3.1. Strangler Fig Pattern**
-  - [ ] 5.3.1.1. Migração gradual de um sistema legado para Clean Architecture usando proxy, feature toggle e Anti-corruption Layer.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/5. Clean Architecture em Escala/5.3 Estratégias de Migração/5.3.1. Strangler Fig Pattern/5.3.1.1. Migração Gradual com Proxy, Feature Toggle e Anti-corruption Layer|5.3.1.1. Migração Gradual com Proxy, Feature Toggle e Anti-corruption Layer]]
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 6.1 Clean vs Hexagonal vs Onion
 - **6.1.1. Comparativo Direto**
-  - [ ] 6.1.1.1. Tabela comparativa de foco, estrutura e complexidade entre as três, e critérios para escolher cada uma.
+  - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/6. Relação com Outras Arquiteturas/6.1 Clean vs Hexagonal vs Onion/6.1.1. Comparativo Direto/6.1.1.1. Tabela Comparativa e Critérios de Escolha|6.1.1.1. Tabela Comparativa e Critérios de Escolha]]
 
 ---
 
