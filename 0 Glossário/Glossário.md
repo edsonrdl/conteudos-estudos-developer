@@ -113,7 +113,7 @@
 - [ ] SOA — Service-Oriented Architecture
 - [ ] Microsserviços
 - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/0 Hexagonal (Glossário )|Arquitetura Hexagonal]]
-- [ ] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
+- [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
 - [ ] Arquitetura MVC
 
 ### Conceitos de Runtime
@@ -330,7 +330,7 @@
 
 ### Métricas e SLAs
 
-- [ ] SLI/SLO/SLA
+- [ ] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/0 SLI-SLO-SLA (Tópicos )|SLI/SLO/SLA]]
 - [ ] Latência
 - [ ] Throughput
 
@@ -351,7 +351,7 @@
 - [ ] Princípios SOLID
 - [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Hexagonal/0 Hexagonal (Glossário )|Hexagonal]]
 - [ ] Microservices
-- [ ] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
+- [x] [[10. Arquitetura de Software e Design de Software/Padrões e Princípios/Padrões Arquiteturais/Clean architecture/0 Clean Architecture (Glossário )|Clean Architecture]]
 - [ ] MVC
 - [ ] Stateful vs Stateless
 - [ ] Database per Service
