@@ -330,7 +330,7 @@
 
 ### Métricas e SLAs
 
-- [ ] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/0 SLI-SLO-SLA (Tópicos )|SLI/SLO/SLA]]
+- [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/0 SLI-SLO-SLA (Tópicos )|SLI/SLO/SLA]]
 - [ ] Latência
 - [ ] Throughput
 
