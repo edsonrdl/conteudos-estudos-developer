@@ -23,13 +23,13 @@
 
 ### 2.2 SLO — Service Level Objective
 - **2.2.1. Definindo Metas Realistas**
-  - [ ] 2.2.1.1. Como escolher um SLO com base em dados históricos, não em desejos ou pressão comercial.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/2. Os Três Pilares/2.2 SLO — Service Level Objective/2.2.1. Definindo Metas Realistas/2.2.1.1. Como Definir um SLO com Base em Dados Históricos|2.2.1.1. Como Definir um SLO com Base em Dados Históricos]]
 - **2.2.2. Error Budget**
-  - [ ] 2.2.2.1. O orçamento de erro (Error Budget) e como ele equilibra velocidade de deploy com confiabilidade.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/2. Os Três Pilares/2.2 SLO — Service Level Objective/2.2.2. Error Budget/2.2.2.1. Error Budget - O Orçamento de Erro|2.2.2.1. Error Budget - O Orçamento de Erro]]
 
 ### 2.3 SLA — Service Level Agreement
 - **2.3.1. O Contrato com o Cliente**
-  - [ ] 2.3.1.1. SLA vs SLO: a diferença contratual, penalidades, e por que o SLA deve ser mais frouxo que o SLO interno.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/2. Os Três Pilares/2.3 SLA — Service Level Agreement/2.3.1. O Contrato com o Cliente/2.3.1.1. SLA vs SLO - Diferença Contratual e Margem de Segurança|2.3.1.1. SLA vs SLO - Diferença Contratual e Margem de Segurança]]
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 3.1 Como SLI, SLO e SLA se Encaixam
 - **3.1.1. A Cadeia de Confiabilidade**
-  - [ ] 3.1.1.1. Fluxo completo: da métrica bruta (SLI) até a meta (SLO) e o compromisso contratual (SLA).
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/3. Relação entre os Três/3.1 Como SLI, SLO e SLA se Encaixam/3.1.1. A Cadeia de Confiabilidade/3.1.1.1. Fluxo Completo - Da Métrica Bruta ao Compromisso Contratual|3.1.1.1. Fluxo Completo - Da Métrica Bruta ao Compromisso Contratual]]
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### 4.1 Monitoramento e Ferramentas
 - **4.1.1. Implementando na Prática**
-  - [ ] 4.1.1.1. Ferramentas comuns (Prometheus, Grafana, Google Cloud SLO Monitoring) e exemplo de configuração de SLO.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.1 Monitoramento e Ferramentas/4.1.1. Implementando na Prática/4.1.1.1. Ferramentas - Prometheus, Grafana e Google Cloud SLO Monitoring|4.1.1.1. Ferramentas - Prometheus, Grafana e Google Cloud SLO Monitoring]]
 
 ### 4.2 Alertas Baseados em Error Budget
 - **4.2.1. Multiwindow, Multi-burn-rate Alerting**
-  - [ ] 4.2.1.1. Como alertar sem gerar fadiga de alertas, usando a taxa de consumo do Error Budget.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/4. Aplicação Prática/4.2 Alertas Baseados em Error Budget/4.2.1. Multiwindow, Multi-burn-rate Alerting/4.2.1.1. Alertas sem Fadiga - Multiwindow, Multi-burn-rate|4.2.1.1. Alertas sem Fadiga - Multiwindow, Multi-burn-rate]]
 
 ---
 
@@ -57,7 +57,7 @@
 
 ### 5.1 Anti-padrões
 - **5.1.1. Armadilhas Comuns**
-  - [ ] 5.1.1.1. SLOs de 100%, métricas de vaidade, e a diferença entre medir o que importa para o usuário vs o que é fácil de medir.
+  - [x] [[9. Engenharia de Software/Métricas e Qualidade/SLI-SLO-SLA/5. Erros Comuns e Limitações/5.1 Anti-padrões/5.1.1. Armadilhas Comuns/5.1.1.1. SLOs de 100%, Métricas de Vaidade e Medir o Fácil vs o Importante|5.1.1.1. SLOs de 100%, Métricas de Vaidade e Medir o Fácil vs o Importante]]
 
 ---
 

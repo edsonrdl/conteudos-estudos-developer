@@ -11,17 +11,17 @@
 
 ### 0.1 O Mapa Mental do Sistema RAG
 - **0.1.1. Visão Geral do Pipeline de 7 Responsabilidades**
-  - [ ] 0.1.1.1. O diagrama de um sistema de IA em produção dividido em 7 responsabilidades distintas — extração, chunking, embedding, banco vetorial, framework, LLM e avaliação.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.1 O Mapa Mental do Sistema RAG/0.1.1. Visão Geral do Pipeline de 7 Responsabilidades/0.1.1.1. O Diagrama das 7 Responsabilidades de um Sistema RAG|0.1.1.1. O Diagrama das 7 Responsabilidades de um Sistema RAG]]
 
 ### 0.2 As 7 Categorias de Ferramentas
 - **0.2.1. LLMs (Os Cérebros)**
-  - [ ] 0.2.1.1. Comparativo de LLMs (GPT-4o/o3, Claude, Gemini, Llama, Mistral, Phi, Cohere) e quando usar cada um.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.1. LLMs (Os Cérebros)/0.2.1.1. Comparativo de LLMs e Quando Usar Cada Um|0.2.1.1. Comparativo de LLMs e Quando Usar Cada Um]]
 - **0.2.2. Frameworks de Orquestração**
-  - [ ] 0.2.2.1. Comparativo de frameworks (LangChain, LlamaIndex, Haystack, Txtai, LangGraph, CrewAI/AutoGen) e quando usar cada um.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.2. Frameworks de Orquestração/0.2.2.1. Comparativo de Frameworks e Quando Usar Cada Um|0.2.2.1. Comparativo de Frameworks e Quando Usar Cada Um]]
 - **0.2.3. Bancos Vetoriais**
-  - [ ] 0.2.3.1. Comparativo de bancos vetoriais (Qdrant, Pinecone, Weaviate, Milvus, Chroma, PGVector) e quando usar cada um.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.3. Bancos Vetoriais/0.2.3.1. Comparativo de Bancos Vetoriais e Quando Usar Cada Um|0.2.3.1. Comparativo de Bancos Vetoriais e Quando Usar Cada Um]]
 - **0.2.4. Extração de Dados**
-  - [ ] 0.2.4.1. Comparativo de ferramentas de extração (Crawl4AI, FireCrawl, Scrape GraphAI, MegaParser, Docling, LlamaParse, Extract Thinker) e quando usar cada uma.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.4. Extração de Dados/0.2.4.1. Comparativo de Ferramentas de Extração e Quando Usar Cada Uma|0.2.4.1. Comparativo de Ferramentas de Extração e Quando Usar Cada Uma]]
 - **0.2.5. Acesso a LLMs Open-Source**
   - [ ] 0.2.5.1. Comparativo de plataformas (Hugging Face, Ollama, Groq, Together AI) e quando usar cada uma.
 - **0.2.6. Text Embeddings**
