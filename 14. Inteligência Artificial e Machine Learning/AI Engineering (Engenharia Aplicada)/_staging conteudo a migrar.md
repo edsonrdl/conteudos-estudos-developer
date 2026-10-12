@@ -12,61 +12,6 @@
 
 ### 0.2 As 7 Categorias e Suas Diferenças
 
-#### 🚀 Categoria 5: Acesso a LLMs Open-Source (As Plataformas)
-
-**O que fazem:** Hospedam e servem modelos open-source para você consumir via API, sem precisar de GPU própria.
-
-**Diferença entre eles:**
-
-|Plataforma|Diferencial|Quando Usar|
-|---|---|---|
-|Hugging Face|Hub de modelos, datasets, espaços de demo|Explorar e baixar qualquer modelo|
-|Ollama|Roda modelos localmente em 1 comando|Desenvolvimento local, privacidade total|
-|Groq|Velocidade extrema (LPU), baixíssima latência|Quando latência é crítica (<100ms)|
-|Together AI|Variedade de modelos open-source via API|Alternativa barata à OpenAI|
-
-**Regra de ouro:** Desenvolvimento → Ollama (local, grátis). Produção com velocidade → Groq. Produção com variedade → Together AI.
-
----
-
-#### 📐 Categoria 6: Text Embeddings (O Tradutor para Vetores)
-
-**O que fazem:** Convertem texto em vetores numéricos (listas de números) que representam o _significado_ do texto. Dois textos com significado parecido terão vetores próximos.
-
-**Diferença entre eles:**
-
-|Modelo|Diferencial|Quando Usar|
-|---|---|---|
-|OpenAI text-embedding-3-large|Alta qualidade, pago|Produção quando já usa OpenAI|
-|Voyage AI (voyage-3)|Melhor qualidade geral, pago|RAG de alta precisão|
-|SBERT (sentence-transformers)|Open-source, roda local, vários modelos|Projetos com restrição de dados|
-|Nomic embed-text|Open-source, contexto de 8K tokens|Documentos longos, gratuito|
-|Google (text-embedding)|Integrado ao Gemini/Vertex AI|Stack Google Cloud|
-|Cohere embed|Multilíngue, busca semântica|Documentos em múltiplos idiomas|
-
-**Regra de ouro:** Embedding é onde qualidade importa mais que custo. Um embedding ruim quebra o RAG inteiro.
-
----
-
-#### ✅ Categoria 7: Avaliação (O Controle de Qualidade)
-
-**O que fazem:** Medem se o sistema de IA está respondendo bem, de forma automatizada e sistemática.
-
-**Diferença entre eles:**
-
-|Ferramenta|Especialidade|Quando Usar|
-|---|---|---|
-|Ragas|Métricas específicas de RAG (faithfulness, recall)|Avaliar pipeline RAG completo|
-|DeepEval|Avaliação geral de LLMs com LLM-as-Judge|Testes de qualidade de outputs|
-|Giskard|Detecção de viés, alucinações e vulnerabilidades|Auditoria de segurança e compliance|
-|inspect_ai|Avaliação de capacidades e segurança|Red teaming, benchmarks de segurança|
-|PromptFoo|Testes de regressão de prompts no CI/CD|Garantir que mudanças não quebram qualidade|
-|LangSmith|Observabilidade + avaliação integrada ao LangChain|Stack LangChain completo|
-
-**Regra de ouro:** Sem avaliação sistemática, você não sabe se o sistema melhorou ou piorou ao mudar algo.
-
----
-
 ### 0.3 Como as Categorias se Conectam na Prática
 
 ```

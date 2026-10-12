@@ -23,11 +23,11 @@
 - **0.2.4. Extração de Dados**
   - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.4. Extração de Dados/0.2.4.1. Comparativo de Ferramentas de Extração e Quando Usar Cada Uma|0.2.4.1. Comparativo de Ferramentas de Extração e Quando Usar Cada Uma]]
 - **0.2.5. Acesso a LLMs Open-Source**
-  - [ ] 0.2.5.1. Comparativo de plataformas (Hugging Face, Ollama, Groq, Together AI) e quando usar cada uma.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.5. Acesso a LLMs Open-Source/0.2.5.1. Comparativo de Plataformas e Quando Usar Cada Uma|0.2.5.1. Comparativo de Plataformas e Quando Usar Cada Uma]]
 - **0.2.6. Text Embeddings**
-  - [ ] 0.2.6.1. Comparativo de modelos de embedding (OpenAI, Voyage AI, SBERT, Nomic, Google, Cohere) e quando usar cada um.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.6. Text Embeddings/0.2.6.1. Comparativo de Modelos de Embedding e Quando Usar Cada Um|0.2.6.1. Comparativo de Modelos de Embedding e Quando Usar Cada Um]]
 - **0.2.7. Avaliação**
-  - [ ] 0.2.7.1. Comparativo de ferramentas de avaliação (Ragas, DeepEval, Giskard, inspect_ai, PromptFoo, LangSmith) e quando usar cada uma.
+  - [x] [[14. Inteligência Artificial e Machine Learning/AI Engineering (Engenharia Aplicada)/0. Guia de Orientação/0.2 As 7 Categorias de Ferramentas/0.2.7. Avaliação/0.2.7.1. Comparativo de Ferramentas de Avaliação e Quando Usar Cada Uma|0.2.7.1. Comparativo de Ferramentas de Avaliação e Quando Usar Cada Uma]]
 
 ### 0.3 Como as Categorias se Conectam na Prática
 - **0.3.1. Exemplo de Pipeline Completo**
